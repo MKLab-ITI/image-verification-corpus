@@ -9,6 +9,8 @@ The dataset consists of three files:
 * tweets_images_update.txt: File that contains only the pure fake tweets from the previous file. Tweets with funny content or tweets declaring that their content is fake, have been removed from the dataset.
 * tweets_event.txt: File that contains the tweets with fake content we used, but they are no longer online available, either because the user erased them or the user account is suspended. 
 
+To use the corpus, just use the set_images.txt file with the verified images and one of the other files that contains the tweets as described above.
+
 The [computational-verification](https://github.com/socialsensor/computational-verification) project implements a framework that uses the corpus. If you use this dataset and/or the linked framework in your research, please include the following reference in your work:
 
 C. Boididou, S. Papadopoulos, Y. Kompatsiaris, S. Schifferes, N. Newman. Challenges of Computational Verification in Social Media. In Proceedings of SNOW II: Social News on the Web workshop, WWW'14 Companion.
