@@ -728,7 +728,7 @@ tweet_id	image_id(s)	annotation	event
 432945601999679488	sochi_fake_7	fake	sochi
 432935273899753472	sochi_fake_18	fake	sochi
 432932473878503424	sochi_fake_18	fake	sochi
-432919694564024320	sochi_fake_1fake	sochi
+432919694564024320	sochi_fake_1	fake	sochi
 432908320442028032	sochi_fake_9	fake	sochi
 432904584731037696	sochi_fake_2	fake	sochi
 432892136564879360	sochi_fake_20	fake	sochi
