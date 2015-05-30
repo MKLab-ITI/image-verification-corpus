@@ -1,4 +1,4 @@
-tweetId	tweetText	userId	imageId	username	timestamp	label
+tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 263046056240115712	¿Se acuerdan de la película: “El día después de mañana”? Me recuerda a lo que está pasando con el huracán #Sandy. http://t.co/JQQeRPwN	21226711	sandyA_fake_46	iAnnieM	Mon Oct 29 22:34:01 +0000 2012	fake
 262995061304852481	@milenagimon: Miren a Sandy en NY!  Tremenda imagen del huracán. Parece el "Día de la Independencia 2" http://t.co/41jUweux REAL! RT.	192378571	sandyA_fake_09	CarlosVerareal	Mon Oct 29 19:11:23 +0000 2012	fake
 262979898002534400	Buena la foto del Huracán Sandy, me recuerda a la película Día de la Independencia #ID4 #Sandy  http://t.co/PTdAXABZ	132303095	sandyA_fake_09	LucasPalape	Mon Oct 29 18:11:08 +0000 2012	fake
@@ -8190,7 +8190,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 263371961009311744	Taxi cabs after Sandy... http://t.co/Mksq1rsJ	63574518	sandyA_real_18	deviatingchaos	Tue Oct 30 20:09:03 +0000 2012	real
 263456427488714752	Seaside Heights, NJ - after Hurricane Sandy http://t.co/mx85aqmW	18357033	sandyA_real_27	pgardnerii	Wed Oct 31 01:44:41 +0000 2012	real
 263643017792073728	Jersey Shore....dam sandy... chase_landreth http://t.co/hvEg7w0J	33786682	sandyA_real_27	tami042472	Wed Oct 31 14:06:08 +0000 2012	real
-263301899418218496	Hurricane Sandy #hurricane #sandy #eastern #coast #us #pray http://t.co/1UBZjBOJ	209573986	null	cchi0203	Tue Oct 30 15:30:39 +0000 2012	real
+263301899418218496	Hurricane Sandy #hurricane #sandy #eastern #coast #us #pray http://t.co/1UBZjBOJ	209573986	sandyA_real_24	cchi0203	Tue Oct 30 15:30:39 +0000 2012	real
 263054737262379009	Sandy update (via @NASAGoddard) http://t.co/JxnXlEWF"	429333756	sandyA_real_28	feather_collect	Mon Oct 29 23:08:31 +0000 2012	real
 264110233046118401	Hoboken... Sandy paso por New Jersey http://t.co/CMGUJBiM	312979419	sandyA_real_41	wwwformy	Thu Nov 01 21:02:41 +0000 2012	real
 262949067645128704	Hurricane Sandy from space......hope everyone up there runs with luck!!! http://t.co/Hk6k2c7l	474462483	sandyA_real_33	Liza_gon27	Mon Oct 29 16:08:37 +0000 2012	real
@@ -9169,7 +9169,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 262984889635332097	Trampoline on phone lines #hurricane #sandy #instagood #instamood #picoftheday #picoftheweek #picofthestorm http://t.co/vRTc1U2S	454382541	sandyA_real_05	mcclinchy94	Mon Oct 29 18:30:58 +0000 2012	real
 263298596701614082	Horrible #seaside #sandy :( http://t.co/TsCkA3CG	62115864	sandyA_real_27	justme0910	Tue Oct 30 15:17:31 +0000 2012	real
 262733753858793472	Stay #safe #sandy #hurricane http://t.co/iZ47CJHb	15372524	sandyA_real_33	Worldlabel	Mon Oct 29 01:53:02 +0000 2012	real
-263395585191706626	#Sandy en New York http://t.co/VjK1QZGA	10879792	null	CharlySarti	Tue Oct 30 21:42:55 +0000 2012	real
+263395585191706626	#Sandy en New York http://t.co/VjK1QZGA	10879792	sandyA_real_18	CharlySarti	Tue Oct 30 21:42:55 +0000 2012	real
 263440151127154688	#eastvillage #sandy http://t.co/kECguUvK	255257284	sandyA_real_20	FABYORKCITY	Wed Oct 31 00:40:01 +0000 2012	real
 263322615727390722	Damn some of these #Sandy images are crazy. How are all of my NY friends  holdin up? Looks like you went thr http://t.co/ssJfDef6	277149432	sandyA_real_17	imJakeGiles	Tue Oct 30 16:52:58 +0000 2012	real
 263082949539409921	Insane pic of #Manhattan underwater \n#sandy #prayers http://t.co/Dtrunijt	187059955	sandyA_real_03	Taylorln	Tue Oct 30 01:00:37 +0000 2012	real
@@ -9260,7 +9260,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 263318770657923072	Roller coaster at sea, Seaside Heights, NJ: http://t.co/SaYZT4c2 #sandy	15994537	sandyA_real_13	kenshane	Tue Oct 30 16:37:41 +0000 2012	real
 263457061294190592	NY Yellow cabs http://t.co/sTYfzvcR #SANDY	113471019	sandyA_real_18	_Sysyphus	Wed Oct 31 01:47:12 +0000 2012	real
 263553911015755776	#sandy #NewYork #storm #2012\n#taxis#flood http://t.co/udMgdyN8	448474280	sandyA_real_17	djnolo259	Wed Oct 31 08:12:03 +0000 2012	real
-263652837983150084	#sandy no light. Ma fav city look stony.. http://t.co/8FXRdetc	137804934	null	julia1jones	Wed Oct 31 14:45:09 +0000 2012	real
+263652837983150084	#sandy no light. Ma fav city look stony.. http://t.co/8FXRdetc	137804934	sandyB_real_01	julia1jones	Wed Oct 31 14:45:09 +0000 2012	real
 263207948615036928	#sandy http://t.co/TwcyHX4N	91882254	sandyA_real_05	RossJames92	Tue Oct 30 09:17:19 +0000 2012	real
 263011038264426496	Damn #trampoline #crazy #hurricane #sandy #storm #run #rain #wind http://t.co/yHBOR4ES	389151025	sandyA_real_05	Zack_Ludecke	Mon Oct 29 20:14:52 +0000 2012	real
 263359872068890624	#usa #sandy #اعصار\nصوره من الاعصار الي حاش امريكا http://t.co/xMi6OiTj	230172132	sandyA_real_18	mtli3	Tue Oct 30 19:21:01 +0000 2012	real
@@ -10306,7 +10306,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 263818367117443073	WoW! Please stay safe -&gt;  The Most Unbelievable but Real Pictures of Sandy's Destruction http://t.co/j4dKoDkd http://t.co/m5sFPi6o	320858492	sandyA_real_18	dugards	Thu Nov 01 01:42:54 +0000 2012	real
 264437015204999169	Moving picture of the #Sandy aftermath in #NYC... http://t.co/9nYla2i2	260082228	sandyA_real_48	Josh__Silver	Fri Nov 02 18:41:12 +0000 2012	real
 264558062386438145	Lots of messages from different people being posted in this shop window about Sandy. http://t.co/8Pt6bjCb	390120512	sandyA_real_17	brmgbrmg	Sat Nov 03 02:42:12 +0000 2012	real
-264187039711367169	Devestation in the wake of Hurricane Sandy http://t.co/aiyqSzz7	113738988	sandyB_real_42	RWM2009	Fri Nov 02 02:07:53 +0000 2012	real
+264187039711367169	Devestation in the wake of Hurricane Sandy http://t.co/aiyqSzz7	113738988	sandyA_real_40	RWM2009	Fri Nov 02 02:07:53 +0000 2012	real
 264537470895521792	this is my favorite picture from Sandy, a rainbow over the water filled streets of nyc #hope #sandyhelp http://t.co/cli2knkf	414324728	sandyA_real_12	RebeccaTripodi	Sat Nov 03 01:20:22 +0000 2012	real
 263791709899591680	© APA — parking lot full of yellow cabs flooded as a result of superstorm Sandy on Tues., Oct. 30, 2012 in Hoboken, NJ. http://t.co/NVhuRmBg	27474269	sandyA_real_18	Lauriannn	Wed Oct 31 23:56:59 +0000 2012	real
 264569304526249984	Really Sandy? I don't think this and the rest of what you did was oh so neccessary. http://t.co/FUBYFYrf	609581440	sandyA_real_52	emily__mitchell	Sat Nov 03 03:26:52 +0000 2012	real
@@ -10314,7 +10314,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 264071240866746368	The wrath of Sandy. This b*tch is no joke. http://t.co/16QhcAN5	774101209	sandyA_real_06	hotsauce_ac360	Thu Nov 01 18:27:44 +0000 2012	real
 264078998357803008	"Car Pool" of yellow cabs in New Jersey as a result of Superstorm Sandy which crippled transportation on the East Coast http://t.co/qa7Nslsh	335334080	sandyA_real_17	KimFaclier	Thu Nov 01 18:58:34 +0000 2012	real
 263853588873347072	In Pics:Aftermath of Hurricane Sandy \nhttp://t.co/7ieQLCSx http://t.co/pRBv904O	786133662	sandyA_real_28	LATAMXINHUA	Thu Nov 01 04:02:52 +0000 2012	real
-263964423570456576	Pirates of the Caribbean ship claimed by megastorm Sandy http://t.co/H7uzX1YJ … http://t.co/qgLD3lMy	114302854	sandyA_real_52	The1AryanRana	Thu Nov 01 11:23:17 +0000 2012	real
+263964423570456576	Pirates of the Caribbean ship claimed by megastorm Sandy http://t.co/H7uzX1YJ … http://t.co/qgLD3lMy	114302854	sandyA_real_40	The1AryanRana	Thu Nov 01 11:23:17 +0000 2012	real
 264323576730095616	Hoboken NJ-the Kindness of Strangers. Helping others to charge their phones etc in the aftermath of Hurricane Sandra. http://t.co/JArGVSAJ	80650713	sandyB_real_71	brendab77	Fri Nov 02 11:10:26 +0000 2012	real
 265136133053243392	new jersey and this was after the coup of sandy. http://t.co/61kKvVFx	169953330	sandyB_real_73	Kalahan_Dice	Sun Nov 04 16:59:15 +0000 2012	real
 264203863647739904	@TheEllenShow A photo going viral on the network shows the humanity surfacing on the East Coast in the wake of Sandy. http://t.co/mhDJz2Ak	275169074	sandyB_real_71	Hanakaulani61	Fri Nov 02 03:14:44 +0000 2012	real
@@ -11050,7 +11050,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 263983146154991617	#Sandy @salah_gigi @NizardB @jamesFABO @nytimesphoto @NatGeoPhotos @AmazingPics #NYC http://t.co/WBbYrHXL	864986833	sandyA_real_18	aaaglassboise	Thu Nov 01 12:37:41 +0000 2012	real
 263913904344813568	Incredible photo! RT @NYGovCuomo Flooding from Hurricane #Sandy at Battery Park http://t.co/9TQGN4bN	35470188	sandyA_real_53	abogada_boricua	Thu Nov 01 08:02:32 +0000 2012	real
 264175330611322880	#Sandy #Manhattan #elprogramadeAR http://t.co/7vG8Ti1D	855832832	sandyA_real_21	Esperanza_PM	Fri Nov 02 01:21:21 +0000 2012	real
-263946901169250304	[Foto] El HMS Bounty, velero de 'Piratas del Caribe', se hundió hace unas horas al paso de #Sandy http://t.co/hQbzeQNu http://t.co/K4yRDfX4	66151328	sandyA_real_52	mejorsociedad	Thu Nov 01 10:13:39 +0000 2012	real
+263946901169250304	[Foto] El HMS Bounty, velero de 'Piratas del Caribe', se hundió hace unas horas al paso de #Sandy http://t.co/hQbzeQNu http://t.co/K4yRDfX4	66151328	sandyA_real_40	mejorsociedad	Thu Nov 01 10:13:39 +0000 2012	real
 264118347476639744	A Fleet of Taxis underwater in #Hoboken #Hurricane #Sandy http://t.co/40oIrZTp http://t.co/ijp4b0VK #taxi #photo	16042342	sandyA_real_18	bojangos9	Thu Nov 01 21:34:55 +0000 2012	real
 263816687067992064	Tanque encallado en orilla de Staten Island de Nueva York desde #Sandy mas detalles en: http://t.co/tMOvSTcE #Veracruz http://t.co/157P5i4w	185389541	sandyA_real_29	ebrick021	Thu Nov 01 01:36:14 +0000 2012	real
 265162444828188672	Deadly art RT @SeeSawMe: A Fleet of Taxis underwater in #Hoboken #Hurricane #Sandy http://t.co/MhkZ7QC9 http://t.co/4t6Nmfl5 #taxi #photo	380879472	sandyA_real_18	DependableAI	Sun Nov 04 18:43:47 +0000 2012	real
@@ -11153,7 +11153,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 264433193724309504	This is Breezy Point, Queens as seen by @TomKaminskiWCBS in Chopper 880 this morning. http://t.co/kt8o8NwS #Sandy http://t.co/NRnW8O0s	23407415	sandyA_real_52	SteveGrzanich	Fri Nov 02 18:26:00 +0000 2012	real
 263837706872827904	De las mejores fotos, no? #Sandy http://t.co/mmXQv1Rl	908394121	sandyA_real_18	adrianmedrano6	Thu Nov 01 02:59:45 +0000 2012	real
 263833440590389249	A parking lot full of yellow cabs flooded in Hoboken. #Sandy http://t.co/x2yW0fX2	27369998	sandyA_real_18	genbidi1	Thu Nov 01 02:42:48 +0000 2012	real
-264746415786446850	#Sandy has given us many remarkable images. Here's another one, this time of a sinking #HMSBounty http://t.co/wLrkeIdW	314498800	sandyA_real_52	saurbh191188	Sat Nov 03 15:10:38 +0000 2012	real
+264746415786446850	#Sandy has given us many remarkable images. Here's another one, this time of a sinking #HMSBounty http://t.co/wLrkeIdW	314498800	sandyA_real_40	saurbh191188	Sat Nov 03 15:10:38 +0000 2012	real
 264678451737411584	#Sandy #ساندي http://t.co/B3gwRkAW	921377976	sandyA_real_05	5o5a_bin	Sat Nov 03 10:40:35 +0000 2012	real
 263992860133703681	Regardez les images impressionnantes de l'ouragan #Sandy diffusées dans #Le13H de #TF1: http://t.co/EhhPVNxA http://t.co/9Ff24sJP	811595425	sandyA_real_36	AlixAude	Thu Nov 01 13:16:17 +0000 2012	real
 264723940952379393	Hoy como durante la ultima semana nuestros pensamientos y deseos d pronta recuperacion a todos los afectados x huracan http://t.co/AfvAD5Ur	353241237	sandyA_real_18	MrFroggyRana	Sat Nov 03 13:41:20 +0000 2012	real
@@ -11229,7 +11229,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 264438858505146368	This is Breezy Point, Queens as seen by @TomKaminskiWCBS in Chopper 880 this morning. http://t.co/kt8o8NwS #Sandy http://t.co/NRnW8O0s	36357767	sandyA_real_52	infiltr8t0r	Fri Nov 02 18:48:31 +0000 2012	real
 265211743398158336	God Bless Our First Responders #BreezyPoint #Sandy @FDNY http://t.co/rDuivlYi	562056022	sandyA_real_15	rescue1dcfd	Sun Nov 04 21:59:41 +0000 2012	real
 264573269489885185	#GroundZero #NYC #SANDY http://t.co/J5tsLpnz	432040711	sandyA_real_02	BraswellAshley	Sat Nov 03 03:42:37 +0000 2012	real
-263817159183052801	#Sandy hundió al barco de los ‘Piratas del Caribe’ http://t.co/K5B3UzBl - http://t.co/TMxErP3r	185389541	sandyA_real_52	ebrick021	Thu Nov 01 01:38:06 +0000 2012	real
+263817159183052801	#Sandy hundió al barco de los ‘Piratas del Caribe’ http://t.co/K5B3UzBl - http://t.co/TMxErP3r	185389541	sandyA_real_40	ebrick021	Thu Nov 01 01:38:06 +0000 2012	real
 264529168656629760	Metro-North RR crews discovered this boat washed onto tracks at Ossining #sandy #surge: http://t.co/ruVlqZOG	192363392	sandyA_real_19	DoppelgangerXD	Sat Nov 03 00:47:23 +0000 2012	real
 263848400200560640	PHOTO: Stunning before and after of Seaside Heights boardwalk area. #sandy #njwx #flood #hurricane #superstorm http://t.co/O5e8paqr	217684177	sandyA_real_27	SaraM0113	Thu Nov 01 03:42:15 +0000 2012	real
 264145698075865089	True dedication. #fdny #sandy http://t.co/3n5X1Dxe	288512539	sandyA_real_22	nikkid46	Thu Nov 01 23:23:36 +0000 2012	real
@@ -11237,7 +11237,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 264236832655556609	Parecen patitos de hule , pero no. #Sandy http://t.co/kYkxf45I	89609189	sandyA_real_18	omarsitto	Fri Nov 02 05:25:44 +0000 2012	real
 264079751935819776	RT @cacho14: La calle cerrada por la grua que se rompio por #Sandy Una foto desde abajo del edificio http://t.co/OL8xML1N	179155542	sandyA_real_34	MSerrano_J	Thu Nov 01 19:01:33 +0000 2012	real
 263814846632574976	*sending prayers* (˘ʃƪ˘) RT @NewYorkPost: Breaking: Water Floods WTC Construction Site #hurricane #sandy #nyc #wtc http://t.co/0558WGYj	60826186	sandyA_real_02	Arsillah	Thu Nov 01 01:28:55 +0000 2012	real
-263800169529761793	[Foto] El HMS Bounty, velero de 'Piratas del Caribe', se hundió hace unas horas al paso de #Sandy http://t.co/hQbzeQNu http://t.co/K4yRDfX4	327476452	sandyA_real_52	Dianasan1a	Thu Nov 01 00:30:36 +0000 2012	real
+263800169529761793	[Foto] El HMS Bounty, velero de 'Piratas del Caribe', se hundió hace unas horas al paso de #Sandy http://t.co/hQbzeQNu http://t.co/K4yRDfX4	327476452	sandyA_real_40	Dianasan1a	Thu Nov 01 00:30:36 +0000 2012	real
 265120073147109377	God Bless Our First Responders #BreezyPoint #Sandy @FDNY http://t.co/rDuivlYi	41069265	sandyA_real_15	EMANN6	Sun Nov 04 15:55:25 +0000 2012	real
 264108560236040192	RT @thecoolhunter: A parking lot full of yellow cabs flooded in Hoboken. #Sandy http://t.co/RpzWVjKY	59836957	sandyA_real_18	fuckyeahi	Thu Nov 01 20:56:02 +0000 2012	real
 264097899015708672	RT @iauafam: http://t.co/sGcAeXD5 #Sandy	271416763	sandyA_real_01	alifuatkarasu	Thu Nov 01 20:13:40 +0000 2012	real
@@ -12193,11 +12193,340 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 263873240508792833	Un aparcamiento lleno de taxis se inunda por la supertormenta de #Sandy en, Nueva Jersey http://t.co/6VrWZZnz    via @Estacion_bcp	102524704	sandyA_real_17	Jazzsalas17	Thu Nov 01 05:20:57 +0000 2012	real
 264704179610730497	Beach is now an ocean at Wildwood Ave http://t.co/49Ptn0Zd #Sandy @ Wildwood, NJ	594215699	sandyB_real_88	LisaTrixie	Sat Nov 03 12:22:49 +0000 2012	real
 264119720289128448	New Jersey --&amp;gt; RT @TrudiGilfillian: Beach is now an ocean at Wildwood Ave http://t.co/Pl4h2h8g #Sandy	877270770	sandyB_real_88	sherraet0	Thu Nov 01 21:40:23 +0000 2012	real
-325213350818611201	In which 4Chan thinks playing Where’s Wally with brown people and backpacks will solve terrorism: http://t.co/gk6DVBcOND	76262323	boston_fake_03	jezlash	Fri Apr 19 11:44:39 +0000 2013	humor
-325067648780099586	@psicosour ojo, a el lo acusó 4chan, no es ninguno de los que publicó el FBI. FBI: http://t.co/i0nAZTlDvb 4chan: http://t.co/Lm8lxdrZbw	49216342	boston_fake_03	aldovalencia	Fri Apr 19 02:05:41 +0000 2013	humor
-325641051811500032	Some of 4chan comm's #boston images - http://t.co/6Ap7NKHXy8 - fascinating crowd-sourced sleuthing. Also clear: RIP privacy forever.	17384057	boston_fake_03	paradoxiq	Sat Apr 20 16:04:11 +0000 2013	humor
+263127223819714561	RT @JewishVideos: The Empire State is the only light in the sky. #HurricaneSandy  http://t.co/zQrDrCnZ     #oneofthepics	102841927	sandyB_real_72	THE_SHEESER	Tue Oct 30 03:56:33 +0000 2012	real
+263108287241781248	Foto de tarms15 http://t.co/8QDVIWj9 #hurricanesandy #blackout #NYC	89221442	sandyB_real_60	IzisFilipaldi	Tue Oct 30 02:41:18 +0000 2012	real
+263115191338811392	Wooowww “@WCMurdaHD “@Satisfies69 #HurricaneSandy http://t.co/HzUjQtQR””	33047323	sandyB_real_45	DeeGlow	Tue Oct 30 03:08:44 +0000 2012	real
+262896160832892929	#atlanticcitynj #hurricanesandy #jerseyshore #nj #superstorm2012 #abc7 #sandyabc7 #besafe boardwalk floating http://t.co/77saZXJQ	16225969	sandyB_real_43	EricVolk	Mon Oct 29 12:38:23 +0000 2012	real
+262895634854592512	http://t.co/aceEPIxq\n\n#Sandy	21483084	sandyB_real_43	dok2000	Mon Oct 29 12:36:18 +0000 2012	real
+264240617926828033	نيوجرسي،احدهم يتبرع بمساعدة الاخرين لشحن جوالاتهم في ضل انقطاع التيار الكهربائي. اعجبتني! #ساندي sandy# @saudiinusa http://t.co/o6wgbUe1"	456287849	sandyB_real_71	Meedo_	Fri Nov 02 05:40:47 +0000 2012	real
+263465262953680896	http://t.co/kMDJg6gF Sandy also struck Cuba, Haiti and Dominican Republic	460730757	sandyB_real_22	GissellaGamboa	Wed Oct 31 02:19:48 +0000 2012	real
+262789998334599168	James river bridge almost buried by #HurricaneSandy Hampton VA http://t.co/FVAvPFFY	128734436	sandyB_real_91	IPush_Keyz	Mon Oct 29 05:36:32 +0000 2012	real
+262583978568081409	“@DMVFollowers Hurricane Sandy is still a day &amp; a half away &amp; Maryland &amp; Ocean City are already flooding. http://t.co/0hiiuzRY”	313997509	sandyB_real_37	OG_ScrewFace	Sun Oct 28 15:57:53 +0000 2012	real
+263246647277006848	De lo poco que quedó con luz tras Sandy... https://t.co/yxMvZZly #reallybeauty	359639321	sandyB_real_82	edwbacca	Tue Oct 30 11:51:06 +0000 2012	real
+263211457406201856	@GillianKami Sì sì. Sandy ha colpito le coste di Manhattan poco fa. Guarda com'era l'empire state building http://t.co/6pu8CoPQ	336098797	sandyB_real_82	pondantastic	Tue Oct 30 09:31:16 +0000 2012	real
+263119768905740288	"@Yankee_Victor: El Empire State en medio de la Tormeta-postropical Sandy,al parecer el único iluminado a su alrededor http://t.co/1SLgSSn5"	298723379	sandyB_real_82	JuanE_TRD	Tue Oct 30 03:26:56 +0000 2012	real
+263340041659621376	wow what a nice pic http://t.co/AABTESYl    during hurricane sandy http://t.co/m38dIIeG	73204779	sandyB_real_82	Logicg	Tue Oct 30 18:02:13 +0000 2012	real
+263100368215474177	Hurricane Sandy: View From Above (NYTimes) http://t.co/kbxEykLG 右半分のあたり停電してる感じですね。別の角度 http://t.co/EA6edo5S	47089091	sandyB_real_82	kjmkjm	Tue Oct 30 02:09:50 +0000 2012	real
+263469198120980480	Evacuation of NYU medical #Crazy #hurricanesandy #prayers http://t.co/y61mYfJZ	381869267	sandyB_real_04	mikaylanicole02	Wed Oct 31 02:35:26 +0000 2012	real
+263146126910312448	&lt;Dam!&gt; RT @kimbobitch1: RT @msmollymeredith: 34th street and 1st avenue in NYC. #HurricaneSandy http://t.co/3PmQOri7	43978734	sandyB_real_54	BYGGNASTY89	Tue Oct 30 05:11:40 +0000 2012	real
+263061677199749120	Verrazano Bridge holy shittt #jesuswept #bridge #waves #storm #hurricanesandy http://t.co/f8QECHML	17826162	sandyB_real_58	violinrose	Mon Oct 29 23:36:05 +0000 2012	real
+263221099087667200	The "City That Never Sleeps" has finally gone to bed #hurricanesandy #recentphoto #blackout #nyc 🗽🌃 http://t.co/bTswV5ax	420093814	sandyB_real_72	MundaneJabs	Tue Oct 30 10:09:35 +0000 2012	real
+263303032450723840	NYC in complete darkness😳 #hurricane #sandy #hurricanesandy http://t.co/wO5yY4Rf	86768069	sandyB_real_72	tonymonge1990	Tue Oct 30 15:35:09 +0000 2012	real
+264084366769156096	People helping people in New Jersey after Sandy.... http://t.co/ODWSq2DI	16071921	sandyB_real_71	guymenton	Thu Nov 01 19:19:54 +0000 2012	real
+263239029926006784	Sandy http://t.co/JbNw8Rjx	288274170	sandyB_real_54	Morsey_	Tue Oct 30 11:20:50 +0000 2012	real
+263092944624549888	All of newyork in darkness, except the Empire State Building #hurricanesandy #empirestate #newyork #darkness http://t.co/5T6SpSCy	306300920	sandyB_real_56	AntoniaCroston	Tue Oct 30 01:40:20 +0000 2012	real
+263263723773362176	#HurricaneSandy http://t.co/ibizGAAS	410954030	sandyB_real_50	iamjasonjames	Tue Oct 30 12:58:57 +0000 2012	real
+262753609224163329	Whoy. Sandy's bout it. Be safe everyone! RT @HitMyBeeper 😳 James River Bridge!! #hamptonVa #HurricaneSandy http://t.co/HN0l0Svq	25687111	sandyB_real_91	MZJESZIE	Mon Oct 29 03:11:56 +0000 2012	real
+263091139924594690	better than photoshop: #hurricanesandy Photo by sharonfeder • Instagram http://t.co/h58DeBUl	16085742	sandyB_real_82	bewellgroomed	Tue Oct 30 01:33:10 +0000 2012	real
+263108426362650625	#ThisShitCray Empire state of mind. http://t.co/gywkgAnL #manhattan #NYC #blackout #empirestate #hurricanesandy	36388685	sandyB_real_82	thilinialwis	Tue Oct 30 02:41:51 +0000 2012	real
+263040976841482242	Nigga said fuck Hurricane Sandy lmfaoo #YOLO http://t.co/QR3QwjXk	62394838	sandyB_real_75	CloudNaii	Mon Oct 29 22:13:50 +0000 2012	real
+263179702712295424	Lights out in in the city that never sleeps #HurricaneSandy #reddit http://t.co/QjyR6Cqg	25704062	sandyB_real_93	jkinch	Tue Oct 30 07:25:05 +0000 2012	real
+263112472544825344	The Empire State is the only light in the sky: http://t.co/OCPaTJ3c #hurricanesandy #tweetacane	44564112	sandyB_real_72	yudism	Tue Oct 30 02:57:56 +0000 2012	real
+263182664096436224	All #NYC  is #dark now except the #EmpireStateBuilding. #sandy #hurricanesandy  #storm #picoftheday #instapi http://t.co/PTeWxYdV	22460978	sandyB_real_56	calligraphy11	Tue Oct 30 07:36:51 +0000 2012	real
+263100225898569729	This is craziness #hurricanesandy\nhttp://t.co/mJ7a67Ml	14852138	sandyB_real_60	hpfriendsaddict	Tue Oct 30 02:09:16 +0000 2012	real
+262920565990490112	Hurricane impacting Virginia http://t.co/3lDzKVyI	18357033	sandyB_real_91	pgardnerii	Mon Oct 29 14:15:22 +0000 2012	real
+263416316394872833	“@militaryl0ve Some firefighters will risk their lives to save more than just humans during this hurricane. #Respect http://t.co/r6Jouinu”	218786596	sandyB_real_38	Sena_Says	Tue Oct 30 23:05:18 +0000 2012	real
+263087509163110400	The Village goes dark  #hurricanesandy   http://t.co/bVqfSPP6	16126838	sandyB_real_60	JamesNixonSteel	Tue Oct 30 01:18:44 +0000 2012	real
+263082134674214912	“@Kenneth_Foster “@andrewcochranx Nigga said fuck Hurricane Sandy 😂😂😂 http://t.co/5IF4VQ53””	350575386	sandyB_real_75	__Vonn	Tue Oct 30 00:57:23 +0000 2012	real
+262743106498207744	Ay yi yi RT @HitMyBeeper: James River Bridge!! #hamptonVa #HurricaneSandy http://t.co/fm6fbVcp	16465779	sandyB_real_91	samimonee	Mon Oct 29 02:30:12 +0000 2012	real
+263083712743366656	Half of Manhattan goes dark. This is crazy. #HurricaneSandy http://t.co/c0gKUgkL	15477425	sandyB_real_60	fouxdafafa	Tue Oct 30 01:03:39 +0000 2012	real
+263090296861106176	“@pourmecoffee: Empire State Building shines in the dark like a boss. http://t.co/ITCQR6PK” #likeaboss #HurricaneSandy	184629256	sandyB_real_82	Ms_Piera	Tue Oct 30 01:29:49 +0000 2012	real
+263291370435907585	Whitehall station this morning http://t.co/VNiYapKk #HurricaneSandy	17514020	sandyB_real_65	seangelles	Tue Oct 30 14:48:49 +0000 2012	real
+263243356388327425	Sandy cubre NYC https://t.co/vjJrdsSG #awesome	359639321	sandyB_real_46	edwbacca	Tue Oct 30 11:38:01 +0000 2012	real
+263080387641745408	Wow. RT @nicksumm: And the lights go out in the Village. http://t.co/XbHSUa0G (stunning pic) #HurricaneSandy	24935293	sandyB_real_60	Nock4Six	Tue Oct 30 00:50:26 +0000 2012	real
+262738042698231808	Damn!!! RT @HitMyBeeper: 😳 James River Bridge!! #hamptonVa #HurricaneSandy http://t.co/7abO7BlN	222289120	sandyB_real_91	DBoySmiff	Mon Oct 29 02:10:05 +0000 2012	real
+263067584008699905	na boa tô com medo desse furacão Sandy, olha isso https://t.co/5SVjp63B	476952459	sandyB_real_85	TamoJuntoDemi	Mon Oct 29 23:59:34 +0000 2012	real
+263088829416747008	What loses power looks like in NYC #hurricanesandy http://t.co/xnLNaKRR	55019577	sandyB_real_60	banealis	Tue Oct 30 01:23:59 +0000 2012	real
+263066244893261824	Bridge in CT almost under water thank god i live in Cali #hurricaneSandy http://t.co/mk5YNM0K	76394091	sandyB_real_39	Pinkyliz2	Mon Oct 29 23:54:14 +0000 2012	real
+263973331231973376	Dear Mainstream Media, Sandy fucked us up too. Sincerely, Cuba. http://t.co/isHZP4R2	69526491	sandyB_real_10	publictorsten	Thu Nov 01 11:58:41 +0000 2012	real
+263195459001139200	En USA hacen bien las cosas, si fuese Spain ya habría peta'o http://t.co/7ZRINs8x #hurricanesandy	122481989	sandyB_real_74	jumpingindalake	Tue Oct 30 08:27:42 +0000 2012	real
+263194555304800257	Ambulances lining up outside NYU hospital after hospital lost power #heros #hurricanesandy #prayforsandyvict http://t.co/KSeeEpfj	832756718	sandyB_real_04	CitySyllabus	Tue Oct 30 08:24:06 +0000 2012	real
+263291726339379202	«@JENNIWOWW Just was shown a picture of my town... So sorry for everyone that was affected by sandy http://t.co/4GqLQ0R4»	348775492	sandyB_real_99	only1me513	Tue Oct 30 14:50:13 +0000 2012	real
+263107811544793088	“@jeremyscahill: Best moment from Ali Velshi's Sandy coverage today: http://t.co/qhhy1qSK”	245868560	sandyB_real_27	liten_galen_ord	Tue Oct 30 02:39:25 +0000 2012	real
+262943084621471745	On way into North Wildwood (Near ocean drive). Im gona throw up now. #hurricanesandy #skank #crumb #shorelif http://t.co/rZM4PCF5	271968295	sandyB_real_42	RealSpats	Mon Oct 29 15:44:51 +0000 2012	real
+263130954271444992	Furacão Sandy, filme de apocalipse http://t.co/WVXuBITi	176130313	sandyB_real_54	ItRafaelHolanda	Tue Oct 30 04:11:22 +0000 2012	real
+263090819161022464	Crazy! @bewellgroomed: Wow! #shitgettinreal #wow #hurricanesandy Photo by nicksummers • Instagram http://t.co/2tQlKrRa	39329141	sandyB_real_60	HelenStepchuk	Tue Oct 30 01:31:53 +0000 2012	real
+263088966239145984	@sosdemi furacão sandy http://t.co/jWoIkWr4 https://t.co/w6ZEqCuh	429997305	sandyB_real_85	nathquincas	Tue Oct 30 01:24:32 +0000 2012	real
+263155343150940160	_brando_'s photo http://t.co/dadX05q7          Lower manhattan lights out. #hurricanesandy	807872294	sandyB_real_82	ElaineLin216	Tue Oct 30 05:48:17 +0000 2012	real
+263162086509654018	The city that never sleeps, is very asleep tonight. #nyc #hurricanesandy #frankenstorm #creepy http://t.co/xyp4BaTy	108735392	sandyB_real_56	KristineMannino	Tue Oct 30 06:15:05 +0000 2012	real
+263696513094520832	Hurricane Sandy devastation... in Dominican Republic... http://t.co/c7UYnWv5	16395789	sandyB_real_22	jujujulieta	Wed Oct 31 17:38:42 +0000 2012	real
+262572385356627968	“@DMVFollowers Hurricane Sandy is still a day &amp; a half away &amp; Maryland &amp; Ocean City are already flooding. http://t.co/x49vkT93”	43447490	sandyB_real_37	TaureanReign	Sun Oct 28 15:11:49 +0000 2012	real
+263165997182234624	The city that never sleeps, is very asleep tonight. #nyc #hurricanesandy #frankenstorm #creepy http://t.co/pgB8BIhC	73917003	sandyB_real_56	srevels82	Tue Oct 30 06:30:37 +0000 2012	real
+263098820773154816	#NewYork #ConyIsland #HurricaneSandy http://t.co/3j8oRe2y	381220132	sandyB_real_14	Grizz_09	Tue Oct 30 02:03:41 +0000 2012	real
+263253998398746624	Last night the Empire State Building was one of the only buildings in Manhattan with power #HurricaneSandy # http://t.co/BsMmj762	103621098	sandyB_real_72	Klange14	Tue Oct 30 12:20:18 +0000 2012	real
+263058687759896576	الله يستر , صوره اعصار ساندي بامريكا 12\n#إعصار_ساندي Hurricane Sandy http://t.co/1KBxuMzB”	432436613	sandyB_real_68	0552051046	Mon Oct 29 23:24:13 +0000 2012	real
+263041700216311808	Lmao "@PETE_DeSavage: .Nigga said fuck Hurricane Sandy lmfaoo #YOLO http://t.co/fQchBKvN"	242207838	sandyB_real_75	FamousTed	Mon Oct 29 22:16:43 +0000 2012	real
+262737562358149120	😳 James River Bridge!! #hamptonVa #HurricaneSandy http://t.co/OUV6Emvw	30979004	sandyB_real_91	HitMyBeeper	Mon Oct 29 02:08:10 +0000 2012	real
+263143460423467009	Blackout in Manhattan . Everythings out but the empire state building :( #hurricanesandy http://t.co/zjBP5NY1	40001579	sandyB_real_72	pageEchooo	Tue Oct 30 05:01:04 +0000 2012	real
+263089850071257088	NYC Blackout. #HurricaneSandy http://t.co/T2ca7qkC	292096752	sandyB_real_46	JasonWalczyk	Tue Oct 30 01:28:02 +0000 2012	real
+262992985967427584	Кран упал RT @NewYorkPost: BREAKING: Crane Collapse in Midtown #NYC #hurricance #sandy http://t.co/du1XMyl0	239467085	sandyB_real_50	duremarik	Mon Oct 29 19:03:08 +0000 2012	real
+262993735841890304	Christ. RT @PiersTonight: A crane on top of a building on W 57th street is breaking… please stay safe folks. #Sandy http://t.co/yMVkMsuO	15593675	sandyB_real_48	lloydduvalljr	Mon Oct 29 19:06:07 +0000 2012	real
+262996856471187457	Hurricane #Sandy has taken out  construction crane for 90-storey #One57 in #NYC - hope nothing like this in #Toronto https://t.co/UbFsBnCA	67395755	sandyB_real_48	mikejcw	Mon Oct 29 19:18:31 +0000 2012	real
+263130597654933504	“@EricaRN4USA 34th and 1st Avenue in Manhattan, NY - 10 minutes ago.#Hurricane #Sandy #NYC #GodHaveMercy #tcot #twcot http://t.co/Tq13FNOA”	390995920	sandyB_real_54	skirk1222	Tue Oct 30 04:09:57 +0000 2012	real
+262939094194221056	@McFaul RT @NewYorkPost: Flooding on the West Side #nyc #hurricane #sandy via @JButlerNYC http://t.co/NGom4FUR	239467085	sandyB_real_44	duremarik	Mon Oct 29 15:28:59 +0000 2012	real
+262992010309423106	A crane on top of a building on W 57th street is breaking… please stay safe folks. #Sandy http://t.co/rCdDjYon	486978402	sandyB_real_48	MsREAgentLA	Mon Oct 29 18:59:16 +0000 2012	real
+264046071557283841	Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/s6T3oHtR	132600235	sandyB_real_18	Taftshar	Thu Nov 01 16:47:43 +0000 2012	real
+263001557660991488	A crane on top of a building on W 57th street is breaking… please stay safe folks. #Sandy http://t.co/Sql7540y	6392972	sandyB_real_48	ASE	Mon Oct 29 19:37:12 +0000 2012	real
+262997975914119168	RT @MELANIATRUMP: Crane on 57 street collapsed. So dangerous! #NYC #Hurricane #Sandy http://t.co/zJVHuM5y\nCc:@baljabreen	222292977	sandyB_real_18	Talalaljebreen	Mon Oct 29 19:22:58 +0000 2012	real
+262932749025943552	«@NewYorkPost Flooding on the West Side #nyc #hurricane #sandy via @JButlerNYC http://t.co/0shGNjv9»	321048155	sandyB_real_44	Benzaiten_NYC	Mon Oct 29 15:03:47 +0000 2012	real
+263080116232540161	Some of the pictures being taken during Sandy are incredible. https://t.co/mAUwDGMw	19049591	sandyB_real_93	steosphere	Tue Oct 30 00:49:22 +0000 2012	real
+265007026323730433	The @NYMag cover is breathtaking http://t.co/E7lonxWs http://t.co/aoOOu7v8	78780761	sandyB_real_59	jozefd14	Sun Nov 04 08:26:13 +0000 2012	real
+263242690077011968	Hope no puppies in there!/RT @princessGwenie1: Dog rescued from hurricane Sandy! Firemen are not only saving the ppl! http://t.co/WzwQPARY	14973375	sandyB_real_38	barkway	Tue Oct 30 11:35:22 +0000 2012	real
+263351804459380737	I love living in the future. “@nowthisnews... Two words: working wifi. #sandy http://t.co/eBAMSEJZ” H/T: @joweldon 	391004081	sandyB_real_49	LauraATolliver	Tue Oct 30 18:48:57 +0000 2012	real
+263082400995762176	The city that never sleeps.. has turned off the lights for the night http://t.co/3Keoyzjj #Sandy	110937131	sandyB_real_93	GT_NoTR	Tue Oct 30 00:58:26 +0000 2012	real
+263285688454230017	For everyone who is complaining that we had school yesterday &amp; today &amp; that the hurricane was a "joke" I'm c http://t.co/5tLtwiVM	421674826	sandyB_real_99	shelbbbcoonrad	Tue Oct 30 14:26:14 +0000 2012	real
+263264410582265857	Firefighters in US saving doggies as well as people from the hurricane #emergencyservices #Sandy http://t.co/1WigUe1R	20191443	sandyB_real_38	Sassy_lady	Tue Oct 30 13:01:41 +0000 2012	real
+262923300869656577	The pier at Ocean City collapsed like 10 minutes ago. http://t.co/6Tgzx6Tu Sandy ass aint playing!!!!	41757160	sandyB_real_34	MeNKhy	Mon Oct 29 14:26:14 +0000 2012	real
+263436510131531777	"First responders to not only people but the animals as well, in the wake of Hurricane Sandy." http://t.co/vEiW9jGZ	248019489	sandyB_real_38	totsnachocheese	Wed Oct 31 00:25:33 +0000 2012	real
+263338232505319425	"First responders to not only people but the animals as well, in the wake of Hurricane Sandy." http://t.co/ru8oFWSR	14889175	sandyB_real_38	Peedy	Tue Oct 30 17:55:01 +0000 2012	real
+263164537073704960	This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Building. #Sandy http://t.co/URgvERty	37684517	sandyB_real_72	Laurent_44	Tue Oct 30 06:24:49 +0000 2012	real
+264550737386827778	“@GovChristie: Talking with Pres. Obama about needs in #NJ at the ROIC Friday evening. #Sandy http://t.co/Caft5QNt”\n\n- convert 2 democrat	248291743	sandyB_real_94	edwinelizabeth	Sat Nov 03 02:13:05 +0000 2012	real
+262960799667068930	@AshBundy RT New photo of OC Fishing Pier destroyed! Yes, this is the MAIN ONE by the inlet :-( #MDSandy #Hurricane http://t.co/HjXwXoyZ	191309828	sandyB_real_34	mysticalmonster	Mon Oct 29 16:55:14 +0000 2012	real
+262918439302217728	Another way to monitor the Hurricane: http://t.co/j2tOcuAZ (Here is a pic of Ocean City Pier falling apart: \nhttp://t.co/YUpcxvas )	61193021	sandyB_real_34	j_macd	Mon Oct 29 14:06:55 +0000 2012	real
+263217594297901056	Darkness over half of the city... http://t.co/SF5zQzBN #manhattan #sandy	227316304	sandyB_real_60	astarrider	Tue Oct 30 09:55:39 +0000 2012	real
+264159279676805121	@princessGwenie13d Dog rescued from hurricane Sandy! Firemen are not only saving the people! http://t.co/iA9wnkVE @abgpattyo	839790661	sandyB_real_38	TotiDalma	Fri Nov 02 00:17:34 +0000 2012	real
+263283697011286016	A dog rescued from hurricane #sandy Thank you to the men and women that risk their lives for other people (and pets!) http://t.co/YPbAFT0Y	191149363	sandyB_real_38	Elias_de_fuego	Tue Oct 30 14:18:19 +0000 2012	real
+263257626152955904	:( MT @JustinKing224: Essentially the only building w/ power in #NYC right now is the Empire State Building. #Sandy http://t.co/uMHc90zB	19314834	sandyB_real_72	jmdc88	Tue Oct 30 12:34:43 +0000 2012	real
+263084536458518528	The night the hurricane hit New York. Unimaginable. http://t.co/rZ7PKkI1	19991656	sandyB_real_60	robcaplis	Tue Oct 30 01:06:56 +0000 2012	real
+263304680845750272	That's after the 80+ house blaze from Sandy. http://t.co/Gfu66Q5y	121885257	sandyB_real_78	lifeadelica	Tue Oct 30 15:41:42 +0000 2012	real
+263229913513996289	This is...unreal. Essentially the only building with power in #NYC right now is the Empire State Bldng #Sandy http://t.co/S7ZNZ2ac”	18938079	sandyB_real_72	medhved	Tue Oct 30 10:44:36 +0000 2012	real
+264550868899205121	“@GovChristie: Talking with Pres. Obama about needs in #NJ at the ROIC Friday evening. #Sandy http://t.co/Caft5QNt”\n- u love the publicity!	248291743	sandyB_real_94	edwinelizabeth	Sat Nov 03 02:13:36 +0000 2012	real
+262988442001100800	“@PANYNJ Waters rise from Hurricane #Sandy near the JFK runways. http://t.co/dG4QWbaT” @A318Driver your definately not going #floodedairport	61261236	sandyB_real_101	Capt_tuBBymAN	Mon Oct 29 18:45:05 +0000 2012	real
+263273452948041729	This was the best RT“@jeremyscahill Best moment from Ali Velshi's Sandy coverage today: http://t.co/Ot3kPm1z”	348021936	sandyB_real_27	metalheadmold	Tue Oct 30 13:37:37 +0000 2012	real
+262895295648645120	http://t.co/B6s43ImG\n\n#sandy has not even hit land yet  not good my heart goes out to the Northeast	21483084	sandyB_real_69	dok2000	Mon Oct 29 12:34:57 +0000 2012	real
+262910231925911552	@0emiliebeth0 RT @twc_hurricane: New Jersey RT @trudigilfillian: Entrance into North Wildwood. #Sandy http://t.co/Rjb5XDpu	393636279	sandyB_real_42	Pat_M_Redz	Mon Oct 29 13:34:18 +0000 2012	real
+262972441532444672	“@PlanetPayne1D RT @twc_hurricane: New Jersey RT @TrudiGilfillian: Entrance into North Wildwood. #Sandy http://t.co/6375Rrys” Smh	604216715	sandyB_real_42	AznSneakerFreak	Mon Oct 29 17:41:30 +0000 2012	real
+265016065963196416	“@thecoolhunter: Amazing cover from New York Magazine. A view of Manhattan from above when Sandy hit http://t.co/QbD0p5Qq”	74466406	sandyB_real_59	siggisvans	Sun Nov 04 09:02:08 +0000 2012	real
+264976712381640704	RT @thecoolhunter: Amazing cover from New York Magazine. A view of Manhattan from above when Sandy hit http://t.co/wAZOh4MP	277526697	sandyB_real_59	Radi_SA	Sun Nov 04 06:25:45 +0000 2012	real
+265006148208435200	“@thecoolhunter: Amazing cover from New York Magazine. A view of Manhattan from above when Sandy hit http://t.co/5jy7YAYE”	383619564	sandyB_real_59	IanRoss13	Sun Nov 04 08:22:43 +0000 2012	real
+265127574097776640	Amazing cover from New York Magazine. A view of Manhattan from above when Sandy hit http://t.co/TxMztSKS	119154719	sandyB_real_59	moniluevanos	Sun Nov 04 16:25:14 +0000 2012	real
+264880963660685312	Indeed! RT: @thecoolhunter\nAmazing cover from New York Magazine. A view of Manhattan from above when Sandy hit http://t.co/0mzSyXPE	24380321	sandyB_real_59	jonasjchiaradia	Sun Nov 04 00:05:17 +0000 2012	real
+265015952050122752	Amazing cover from New York Magazine. A view of Manhattan from above when Sandy hit http://t.co/kuZ4iCNA	204481000	sandyB_real_59	Armanuki	Sun Nov 04 09:01:41 +0000 2012	real
+262658316264689664	RT @whitehouse President Obama on Hurricane #Sandy: "Take this very seriously": http://t.co/WHWzb7kc Photo @fema today: http://t.co/tdsfaRo4	523340239	sandyB_real_11	mohmashal80	Sun Oct 28 20:53:17 +0000 2012	real
+262702517991907329	President Obama on Hurricane #Sandy: "Take this very seriously": http://t.co/tF9IGWcF Photo  today: http://t.co/zs4AOOsa	205572345	sandyB_real_11	KitchyBolund	Sun Oct 28 23:48:55 +0000 2012	real
+262716193889206272	"@whitehouse: President Obama on Hurricane #Sandy: "Take this very seriously" http://t.co/6QWIcDKN Photo @FEMA today http://t.co/vtAcZTSF"	17344078	sandyB_real_11	Fanua	Mon Oct 29 00:43:16 +0000 2012	real
+262676481971482628	President Obama on Hurricane #Sandy: "Take this very seriously": http://t.co/joUrWYJd Photo @FEMA today: http://t.co/byviJKh6	15250661	sandyB_real_11	newscomauHQ	Sun Oct 28 22:05:28 +0000 2012	real
+262948306156650497	Living room looks like Sea World exhibit RT @nowthisnews: How high is the water in Brigantine, NJ? This high: \n\n#sandy http://t.co/50QByIl2	276194903	sandyB_real_74	danformation	Mon Oct 29 16:05:36 +0000 2012	real
+262933112458194946	RT @HurricanePhotos: RT @nowthisnews: How high is the water in Brigantine, NJ? This high: #sandy http://t.co/pfkKwofg	273495362	sandyB_real_74	frankiefronts	Mon Oct 29 15:05:13 +0000 2012	real
+262932702263668736	RT @syrieyes RT @nowthisnews: How high is the water in Brigantine, NJ? This high: \n\n#sandy http://t.co/DejzbDJo	475311308	sandyB_real_74	RddMike	Mon Oct 29 15:03:35 +0000 2012	real
+263081140791955456	#sandy @MikeElk: At least 15feet high RT @kristengwynne This photo of FDR drive under water is the best I got so far http://t.co/3yY0DjKq	18259708	sandyB_real_45	TwilightilDawn	Tue Oct 30 00:53:26 +0000 2012	real
+263248457094008832	#sandy - How high is the water in Brigantine, NJ? This high: http://t.co/GkPBkxsx // somethin' gonna give. #hurricane	172925565	sandyB_real_74	hood1960	Tue Oct 30 11:58:17 +0000 2012	real
+262950289924038656	How high is the water in Brigantine, NJ? This high: \n\n#sandy http://t.co/K8stNajT	500964316	sandyB_real_74	PHLPublicHealth	Mon Oct 29 16:13:29 +0000 2012	real
+264055913449652224	“@Alyssa_Milano: Thank goodness for people who are kind  #sandy http://t.co/8j6ABz3O /via @CarrieFairygirl”that is awesome	35648754	sandyB_real_71	_Not_ur_Avg_Joe	Thu Nov 01 17:26:50 +0000 2012	real
+264745819129925632	Thank goodness for people who are kind  #sandy http://t.co/Do9M8Jag /via @CarrieFairygirl	213692405	sandyB_real_71	Jilly473	Sat Nov 03 15:08:16 +0000 2012	real
+264055911839047680	Thank goodness for people who are kind @Alyssa_Milano  #sandy http://t.co/4KVRkeqi	59006392	sandyB_real_71	ElyseWorth	Thu Nov 01 17:26:49 +0000 2012	real
+264046145024700416	RT @barefoot_spirit Great photo of people letting others get cell phone charge during Hurricane Sandy#payitforward http://t.co/dfREq8wc	91079430	sandyB_real_71	InSyncEU	Thu Nov 01 16:48:01 +0000 2012	real
+264050566731292672	Great photo of people letting others get a cell phone charge during the Hurricane #hurricanesandy #sandy #payitforward http://t.co/Q8HMiMGp	93087165	sandyB_real_71	whatjasaykayla	Thu Nov 01 17:05:35 +0000 2012	real
+263121589711814657	Remember when President Bush was on vacation during Hurricane Katrina? This is President Obama #p2 http://t.co/wOr0M5Nb	258797930	sandyB_real_11	LitLSusie	Tue Oct 30 03:34:10 +0000 2012	real
+262989124355633153	RT @KidFury Remember when President Bush was on vacation during Hurricane Katrina? This is President Obama http://t.co/yBiEZyEX	54063501	sandyB_real_11	Ms_Shika	Mon Oct 29 18:47:48 +0000 2012	real
+263053275761352705	RT @AlexYudelson: Remember when President Bush was on vacation during Hurricane Katrina? This is President Obama #p2 http://t.co/ccbjBU9m	18491962	sandyB_real_11	CharmsInterlude	Mon Oct 29 23:02:42 +0000 2012	real
+263015669262594049	RT: Remember when President Bush was on vacation during Hurricane Katrina? This is President Obama #p2 http://t.co/p5Em5yZh	256708141	sandyB_real_11	KerryKelleyABOC	Mon Oct 29 20:33:16 +0000 2012	real
+263126963370213377	“@AlexYudelson Remember when President Bush was on vacation during Hurricane Katrina? This is President Obama #p2 http://t.co/OVaaH9E3””	121302155	sandyB_real_11	SenSHAEtional	Tue Oct 30 03:55:31 +0000 2012	real
+262769456768499712	@AlexYudelson: Remember when President Bush was on vacation during Hurricane Katrina?This is President Obama #p2 http://t.co/Nen01mc8	187425372	sandyB_real_11	SwiffThaLoc	Mon Oct 29 04:14:55 +0000 2012	real
+263009662033596416	RT @AlexYudelson Remember when President Bush was on vacation during Hurricane Katrina? This is President Obama #p2 http://t.co/fUdxBuLh	16812814	sandyB_real_11	NatureboyRowe	Mon Oct 29 20:09:24 +0000 2012	real
+262990515635617792	RT @AlexYudelson: Remember when President Bush was on vacation during Hurricane Katrina? This is President Obama #p2 http://t.co/MESuFncq”	28911179	sandyB_real_11	HardBodyRonnie	Mon Oct 29 18:53:19 +0000 2012	real
+263001828696932353	“@toshamack_ent “@AlexYudelson Remember whn Pres.Bush ws on vacation during Hurricane Katrina? This is Pres.Obama #p2 http://t.co/aBjHJCCR””	381857738	sandyB_real_11	DAT_JUHCEE_	Mon Oct 29 19:38:16 +0000 2012	real
+263271834647158784	twc_hurricane @nowthised: Wider shot of scaffolding toppling car on CPW and 92nd, across from Central Park,NYC #sandy https://t.co/AHNA29Qz	212285535	sandyB_real_21	nishangyuyi	Tue Oct 30 13:31:11 +0000 2012	real
+264566386704146433	Talking with Pres. Obama about needs in #NJ at the ROIC Friday evening. #Sandy http://t.co/Kw66mMNT	760536854	sandyB_real_94	1CoryC2	Sat Nov 03 03:15:16 +0000 2012	real
+264047586028187650	RT @anamariecox: Jersey Share. #sandy #nj (via FB) http://t.co/mCbiGcfD	483380745	sandyB_real_71	BamaAtheist	Thu Nov 01 16:53:44 +0000 2012	real
+263069633500807169	RT @jeremyscahill: Best moment from Ali Velshi's Sandy coverage today: http://t.co/Q9gw4sac ---&gt; #awesome via @LETSGORANGERS13	26901084	sandyB_real_27	Aniutachka	Tue Oct 30 00:07:42 +0000 2012	real
+265144167963963393	RT @stephgosk: A mob of marathoners heading over to Staten Island. No race They're going to help out instead. #sandy http://t.co/YXbN44LM	28827500	sandyB_real_41	gmkey	Sun Nov 04 17:31:10 +0000 2012	real
+264051628456423424	Jersey Share. #sandy #nj (via FB) http://t.co/7VATEumR	476390528	sandyB_real_71	ItalianJoy18	Thu Nov 01 17:09:48 +0000 2012	real
+263083740564189184	RT @YourAnonNews: Huge explosion just rocked the East Village, everything went dark #Sandy I'm now legit scared. http://t.co/hN1O94EV	332795902	sandyB_real_96	_fukSprint	Tue Oct 30 01:03:46 +0000 2012	real
+263059852744613888	#sandy wants in http://t.co/pWewVNUd	57105698	sandyB_real_74	sfbriansmith	Mon Oct 29 23:28:50 +0000 2012	real
+263098048224309249	“@abc7newsBayArea #Sandy MT @DianeSawyer Miles of Manhattan in a blackout. (photo: @nicksumm ) http://t.co/jVdIHKo6”	15273552	sandyB_real_60	rjtremor	Tue Oct 30 02:00:37 +0000 2012	real
+263083107597553664	No No No No No!!!!! RT @vallie: Coney Island is underwater #sandy #nenglandwxsandy http://t.co/FJRHrmZy  via @NEnglandWx	61582041	sandyB_real_14	RaoulHunt	Tue Oct 30 01:01:15 +0000 2012	real
+263145790187388928	RT @911BUFF: AERIAL PHOTO OF HUNDREDS OF AMBULANCES OUTSIDE NYU HOSPITAL ASSISTING WITH THE TRANSPORT #SANDY #911BUFF http://t.co/vscDLoOT	14725110	sandyB_real_04	peterdrew	Tue Oct 30 05:10:20 +0000 2012	real
+264514257746550785	"@SlimPaley: #Sandy #ILoveNY http://t.co/HHS8H9nW" this makes my heart smile. We must unite in times like these.	255368067	sandyB_real_71	Sarah_Jooooo	Fri Nov 02 23:48:08 +0000 2012	real
+265094736942088192	RT @stephgosk: A mob of marathoners heading over to Staten Island. No race They're going to help out instead. #sandy http://t.co/lgZiBp05	51381252	sandyB_real_41	NYCAviation	Sun Nov 04 14:14:45 +0000 2012	real
+265112729336029185	RT @stephgosk: A mob of marathoners heading over to Staten Island. No race They're going to help out instead. #sandy http://t.co/KZEA5Msc	44286580	sandyB_real_41	Das__Fox	Sun Nov 04 15:26:14 +0000 2012	real
+265106056009641987	A mob of marathoners heading over to Staten Island. No race They're going to help out instead. @nbcnightlynews #sandy http://t.co/E2oi9J7c	49320413	sandyB_real_41	pas5001	Sun Nov 04 14:59:43 +0000 2012	real
+262845132645203968	Wow RT @blogdiva GEEZUS RT @Timcast: Bridge Newport News, VA almost gone. James River bridge #Sandy #Frankenstorm http://t.co/U6Nli3Zg	108239343	sandyB_real_91	butlerisobel	Mon Oct 29 09:15:37 +0000 2012	real
+263368230360453122	cool RT @nowthisnews: Why are these New Yorkers clustered outside a closed Starbucks? Two words: working wifi. #sandy http://t.co/0INLw96x	53238305	sandyB_real_49	tianyuanlee	Tue Oct 30 19:54:13 +0000 2012	real
+263077365138223105	RT @YourAnonNews: RT @NEnglandWx: Coney Island is underwater #sandy http://t.co/IM30GddS	178232469	sandyB_real_14	akmccord72	Tue Oct 30 00:38:26 +0000 2012	real
+262923896993492992	Stay safe boys!! RT @FireIceSports: Holding it down at the Shore! #Sandy http://t.co/BtAjJ6GS	22106069	sandyB_real_42	LesSny	Mon Oct 29 14:28:36 +0000 2012	real
+263223937247346688	Evacuación de un hospital en NY ayer noche https://t.co/wPAjf1J8 #foto #Sandy	1614821	sandyB_real_04	mmadrigal	Tue Oct 30 10:20:51 +0000 2012	real
+263324144618328066	Why are these New Yorkers clustered outside a closed Starbucks? Two words: working wifi. #sandy http://t.co/6LSSzTFB	404958426	sandyB_real_49	hotrackr	Tue Oct 30 16:59:03 +0000 2012	real
+262996413540093952	o.O RT @tortoiseontour goons posting pics of their ordeal with sandy http://t.co/l3k67WV4	18066371	sandyB_real_74	axnollouse	Mon Oct 29 19:16:45 +0000 2012	real
+262914355287453696	RT@twc_hurricane\n\nMaryland --&gt; RT @i_will_overcome: So long Ocean City pier... #Sandy http://t.co/Y3tKEUbZ	145785480	sandyB_real_34	BrainyRedhead	Mon Oct 29 13:50:41 +0000 2012	real
+264047301583048704	“@anamariecox: Jersey Share. #sandy #nj (via FB) http://t.co/ZUty36Iu” fantastic people helping out people. #Sandy	242580340	sandyB_real_71	DutchWolfgang	Thu Nov 01 16:52:37 +0000 2012	real
+264052530999345152	"@anamariecox: Jersey Share. #sandy #nj (via FB) http://t.co/2Isdunzt" WOW	546736860	sandyB_real_71	Leee43	Thu Nov 01 17:13:23 +0000 2012	real
+263331589130432512	Why are these New Yorkers clustered outside a closed Starbucks? Two words: working WiFi. #sandy http://t.co/YxkhZgOX	1598011	sandyB_real_49	mdfrancois	Tue Oct 30 17:28:37 +0000 2012	real
+263320499440984064	RT @AntDeRosa:  RT @nowthisnews: y R ths New Yorkers Starbucks? : wrkn wifi. #sandy https://t.co/vVRh55N0	139993589	sandyB_real_49	elizabeth317sa	Tue Oct 30 16:44:33 +0000 2012	real
+263321322317299712	We are to dependent. RT @nowthisnews: Why are these New Yorkers clustered outside a closed Starbucks?  WiFi. #sandy http://t.co/SYnvamWh	9196782	sandyB_real_49	ChrisLeckness	Tue Oct 30 16:47:50 +0000 2012	real
+263345026325704704	Ambay mo 9ij RT @nowthisnews: Why are these New Yorkers clustered outside a closed Starbucks? working wifi. #sandy http://t.co/EkWfgs1d	71311019	sandyB_real_49	MediKrnic	Tue Oct 30 18:22:01 +0000 2012	real
+265015872345747456	@SlimPaley: I love this email a friend sent me tonight; "This must be what you meant about New Yorkers" #Sandy #ILoveNY http://t.co/Vr3CdXZQ	32486618	sandyB_real_71	navajochic	Sun Nov 04 09:01:22 +0000 2012	real
+264048561807826944	“@jeremyscahill: Best moment from Ali Velshi's Sandy coverage today: http://t.co/AtMsx1hr” hilário!	896141299	sandyB_real_27	renatodecastros	Thu Nov 01 16:57:37 +0000 2012	real
+264464164603428864	Empty Times Square in Manhattan. Hurricane #Sandy. Image courtesy of NBC: http://t.co/TQuCFSIY	775003886	sandyB_real_90	Prince__Kenneth	Fri Nov 02 20:29:05 +0000 2012	real
+263963186846367744	@BrianLehrer Rainbow over the #Gowanus Canal just a little while ago. #Sandy is on her way out. http://t.co/TNavgaFv	654143	sandyB_real_63	Adampasick	Thu Nov 01 11:18:22 +0000 2012	real
+262720581252820994	@rubinafillion: Times Square is still packed with tourists 40 minutes before Subways shut down for Hurricane #Sandy. http://t.co/TUd37X2W	108435879	sandyB_real_08	samuel_remy	Mon Oct 29 01:00:42 +0000 2012	real
+262898175810088960	@Bonita_yeah Picture: #OceanCity #Maryland Boardwalk under #Sandy #frankenstorm #hurricane #climate http://t.co/NIlnoT1X	52854408	sandyB_real_76	omarpereiratw	Mon Oct 29 12:46:24 +0000 2012	real
+263300248263348225	Awesome!!!!!RT @TUSK81: Tears. Fireman saving dog caught in hurricane: http://t.co/QgdvsoTa (Photo via @PrincessGwenie1) #Sandy	27782194	sandyB_real_38	Flutterbug123	Tue Oct 30 15:24:05 +0000 2012	real
+263027420486053889	Scary!RT @anitavanvoorst: Omg RT “@alastormspotter: Incredible surf at Lynn Beach, MA. #mawx #sandy #hurricane #flood http://t.co/Y1R0Fhmg”	187983864	sandyB_real_85	cecelsu	Mon Oct 29 21:19:58 +0000 2012	real
+263243459157180416	@hemayr Las mascotas en NY también están siendo atendidas http://t.co/1RDZB9s5 #sandy	73773282	sandyB_real_38	mauricioroth	Tue Oct 30 11:38:26 +0000 2012	real
+262532652647735298	Yeah baby RT @lisafleisher: Good morning from Cape May! (those are surfers.) #sandy http://t.co/9q1OSM3C	14390357	sandyB_real_19	DreHaynes	Sun Oct 28 12:33:56 +0000 2012	real
+263086935453614081	Lmao  RT @TheArondo: Nigga said fuck Hurricane Sandy ?????? http://t.co/jqSkecv0	582592295	sandyB_real_75	VixxenxXl	Tue Oct 30 01:16:27 +0000 2012	real
+263189152177217536	#Sandy https://t.co/VcyywbOm	774157304	sandyB_real_58	icogon	Tue Oct 30 08:02:38 +0000 2012	real
+262549485908021248	Wow RT @lisafleisher: Good morning from Cape May! (those are surfers.) #sandy http://t.co/ekQ4i8tR	242962203	sandyB_real_19	Nis_Tweets	Sun Oct 28 13:40:50 +0000 2012	real
+263108640142147584	Ahhh not the wonder wheel RT @NEnglandWx: Coney Island is underwater #sandy #nenglandwxsandy http://t.co/rKmilT0s	6418452	sandyB_real_14	allyzay	Tue Oct 30 02:42:42 +0000 2012	real
+263062130587234304	RT @iEatiBeatRepeat: HE REAL LMAO RT @MoochMyTweets: Nigga said fuck Hurricane Sandy lmfaoo #YOLO http://t.co/RnUwEwXx	161454134	sandyB_real_75	_TiffanyShante	Mon Oct 29 23:37:54 +0000 2012	real
+263963803941736449	The other side of the hurricane... Ce que les médias ont choisi d'ignorer #Sandy #Haiti http://t.co/ydME8W2F	334177788	sandyB_real_22	NormanMacIsaac	Thu Nov 01 11:20:49 +0000 2012	real
+263490059825729537	this is in dr :((( http://t.co/kJ3P4Di3 fuck sandy \n!!!	183529883	sandyB_real_22	Xo_AshleyTaylor	Wed Oct 31 03:58:20 +0000 2012	real
+263107744335273986	Coney Island is underwater #sandy #nenglandwxsandy http://t.co/4XdgmoDN	5695632	sandyB_real_14	BuzzFeed	Tue Oct 30 02:39:09 +0000 2012	real
+262664622493032448	Mira @nelmartiinez Esto esta ocurriendo ahora en Ocean Grove New Jersey alto oleaje #sandy http://t.co/MtdCtRn5 vía @buo01	161389435	sandyB_real_68	rm_28	Sun Oct 28 21:18:20 +0000 2012	real
+265319055307718656	Pretty incredible. If you haven't yet- check out this week's @NYMag cover photo #Sandy http://t.co/8f9XgGYn	175608007	sandyB_real_59	barragan922	Mon Nov 05 05:06:06 +0000 2012	real
+265001528673304576	Far out. RT “@Johnroyeo: NY sans power ... post-Sandy\nhttp://t.co/GXU46sAx”	166106613	sandyB_real_59	AFL_NSeewang	Sun Nov 04 08:04:22 +0000 2012	real
+262641550209732608	RT @Melnanial: Ocean Grove, NJ #Sandy is still not even close @Kateplusmy8 http://t.co/0vkfFgA5\n\nI HAVE ONLY ONE WORD FOR PICTURE....\n\nWOW!	183161413	sandyB_real_68	msgoody2shoes21	Sun Oct 28 19:46:39 +0000 2012	real
+263094568457748480	Brooklyn @ 34th &amp; 1st (via @matlarosa) #Sandy http://t.co/rfhX7698	188068989	sandyB_real_17	esqew	Tue Oct 30 01:46:47 +0000 2012	real
+262967737062658048	Yikes! RT @Timmtimma: Winthrop Beach #sandy http://t.co/DZoPKtqr	27351329	sandyB_real_85	GeralynK	Mon Oct 29 17:22:48 +0000 2012	real
+263087317726687232	This is absolutely incredible #Sandy RT @wfaaweather: Another picture. Photo of FDR under water. http://t.co/Wh8SE3jA	17973725	sandyB_real_45	jmielcarz	Tue Oct 30 01:17:59 +0000 2012	real
+262976151515975681	Shit&gt;“@EverythingNYC “@ARaeAshcraft @EverythingNYC east river park. 10:30 am. #sandy http://t.co/4ddRE6Ld””	137092098	sandyB_real_33	itiswhatitis_5	Mon Oct 29 17:56:15 +0000 2012	real
+265097123492687872	Love this RT @stephgosk: mob of marathoners heading to Staten Island. No race They're going to help out instead. #sandy http://t.co/6Uetq1mV	46145264	sandyB_real_41	Puresito	Sun Nov 04 14:24:14 +0000 2012	real
+262914448128348160	Wow RT @YeahThatsKosher: Sorry Penn Station. Grand Central is WAY better for flag football today. Go long. #NYC #Sandy http://t.co/U4y2gqOK	15940743	sandyB_real_26	Jacobdajew	Mon Oct 29 13:51:03 +0000 2012	real
+264333739633545216	نيوجرسي،احدهم يتبرع بمساعدة الاخرين لشحن جوالاتهم في ضل انقطاع التيار الكهربائي. اعجبتني! #ساندي sandy# @saudiinusa http://t.co/mQj7s0nr	595890329	sandyB_real_71	a7la_salma	Fri Nov 02 11:50:49 +0000 2012	real
+263943667855794176	PHOTO: The view of darkened #Manhattan after much of the city lost power due to superstorm #Sandy http://t.co/YwRIbBrq http://t.co/cYgD0yPx	912309198	sandyB_real_01	susikya	Thu Nov 01 10:00:48 +0000 2012	real
+263086409882169344	El bajo Manhatan a oscuras https://t.co/nWc1xINd #sandy	216932628	sandyB_real_55	MMIGUELHOUSE	Tue Oct 30 01:14:22 +0000 2012	real
+263320146951696384	RT @aokayyo RT @MarylandProbz This is so unreal. #OCMD #Sandy http://t.co/m7iM5jN2	390560383	sandyB_real_76	HighIs_MyHobby	Tue Oct 30 16:43:09 +0000 2012	real
+264053758311407617	Seen in Hoboken, NJ. Way to come together, people! #Sandy http://t.co/0VOGzj3j	25086163	sandyB_real_71	BombeRouge	Thu Nov 01 17:18:17 +0000 2012	real
+263118339457560577	https://t.co/wdYHSzJd Empire State resist #sandy	27636829	sandyB_real_82	yomesumo	Tue Oct 30 03:21:15 +0000 2012	real
+263077358800613376	Lmfaao RT @TheArondo: Nigga said fuck Hurricane Sandy ?????? http://t.co/ereVCOUb	24628634	sandyB_real_75	granduerveli	Tue Oct 30 00:38:24 +0000 2012	real
+262904443668930560	RT @marnielevy: Bay Head Beach, NJ at 8am. #Sandy Photo Credit FB Fan: Andrew Budai... http://t.co/Ni2Nn9hc	14123614	sandyB_real_31	threew	Mon Oct 29 13:11:18 +0000 2012	real
+263304310874587137	RT @ZelkovaVC:  View from our office right now #sandy https://t.co/c1gADDLr	139993589	sandyB_real_07	elizabeth317sa	Tue Oct 30 15:40:14 +0000 2012	real
+262810533839908864	RT @newsbreaker: PHOTO: Flooding in downtown Norfolk Virginia.\nVia @martinmmc #Sandy\nhttp://t.co/kqTMQ1PU	459510256	sandyB_real_13	lilSueCalloway	Mon Oct 29 06:58:08 +0000 2012	real
+265010076996231169	Remarkable #Sandy @nymag cover http://t.co/qoyDwjrT (h/t @EthanKlapper via @lrozen)	443318723	sandyB_real_59	fauzvic	Sun Nov 04 08:38:20 +0000 2012	real
+263017210203738112	Hey @yogaadita stay safe RT @damnitstrue East river park. 10:30 am. #sandy http://t.co/JKWaJ9A5	107012924	sandyB_real_33	NgapakBoy	Mon Oct 29 20:39:24 +0000 2012	real
+262753195334447105	This was a bridge, y'all...a bridge. #Sandy ---&gt; http://t.co/0xeVG3Sq	33712376	sandyB_real_91	MiKeCheck1718	Mon Oct 29 03:10:18 +0000 2012	real
+263346186503725056	@piersmorgan: Just got home to discover almost every car along my NY street has been smashed by trees.  #Sandy http://t.co/e0aL0hcD	255335642	sandyB_real_100	wrightpost	Tue Oct 30 18:26:38 +0000 2012	real
+263102322752774144	Gotham.  #Sandy\n\n http://t.co/moV7BmOi	116082126	sandyB_real_72	will_e_777	Tue Oct 30 02:17:36 +0000 2012	real
+263079104855805952	#ConeyIsland is under water: https://t.co/aqrDwvg1 #Sandy	17594367	sandyB_real_14	dannyvaldes	Tue Oct 30 00:45:21 +0000 2012	real
+263083060713619456	https://t.co/0hGB3Iya #Sandy darkness covers lower Manhattan and most part of #NY #اعصار_ساندي الظلام يخيم على اشهر بقعه في عالم المال	458445298	sandyB_real_73	Mr_M_AlHajri	Tue Oct 30 01:01:04 +0000 2012	real
+263078534883471360	Only light I see on my block is 1WTC #Sandy http://t.co/wGD5gNgu	1140451	sandyB_real_83	AntDeRosa	Tue Oct 30 00:43:05 +0000 2012	real
+263089990580465665	City that never sleeps? Boy that Jay-Z is full of shit. #SANDY https://t.co/xfopSLD6	38803795	sandyB_real_93	joerger_	Tue Oct 30 01:28:36 +0000 2012	real
+263093736307818497	RT @ABC RT @GMA Stunning image of much of Manhattan plunged into a power outage as #Sandy churns on.  via @nicksumm - http://t.co/Rc6Ldl0v	219872352	sandyB_real_60	il_capo_1	Tue Oct 30 01:43:29 +0000 2012	real
+263039140852031488	RT @iEatiBeatRepeat: HE REAL LMAO RT @MoochMyTweets: Nigga said fuck Hurricane Sandy lmfaoo #YOLO http://t.co/RnUwEwXx	263909656	sandyB_real_75	LoveAshleyyyyy	Mon Oct 29 22:06:32 +0000 2012	real
+264052256758960128	Seen in Hoboken, NJ.. It's so awesome to see others being selfless. #sandy http://t.co/u6q4k4xi	53893672	sandyB_real_71	swirley0812	Thu Nov 01 17:12:18 +0000 2012	real
+262871659759931392	@garethslee “@LBowers01 “@Timcast Bridge Newport News, VA almost gone. James River bridge #Sandy #Frankenstorm http://t.co/IljifS5v””	182040768	sandyB_real_91	mramorgan	Mon Oct 29 11:01:02 +0000 2012	real
+264047784527806464	WOW. Photo of ambulances lined up outside NYU Hospital to take patients after power was lost. #Sandy #RealHeroes http://t.co/J6Ah1GiB	326817962	sandyB_real_14	giabree3	Thu Nov 01 16:54:32 +0000 2012	real
+263111231827767297	Ahhh not the wonder wheel RT @NEnglandWx: Coney Island is underwater #sandy #nenglandwxsandy http://t.co/rKmilT0s	1680091	sandyB_real_14	quartzcity	Tue Oct 30 02:53:00 +0000 2012	real
+263299174139834370	https://t.co/AacScShX evacuazione dell'ospedale #Sandy	29659662	sandyB_real_04	YawnFeh	Tue Oct 30 15:19:49 +0000 2012	real
+264166815809290240	RT @NTagouri: This restores my faith in humanity. After Hurricane #Sandy... http://t.co/E9zxnY9m	66624352	sandyB_real_71	HatemNajjar	Fri Nov 02 00:47:31 +0000 2012	real
+265132623947509760	Man named Ralph in Hoboken, NJ shows true humanity after getting power back. #goodpeople #Sandy Bless you, Ralph! http://t.co/Hyj7f7jH	119483694	sandyB_real_71	Boothacus	Sun Nov 04 16:45:18 +0000 2012	real
+263082768215465984	Via  @nydailynews FDR Drive flooded in #NYC - http://t.co/aIGDTp7f #sandy	101398186	sandyB_real_45	bankofkev	Tue Oct 30 00:59:54 +0000 2012	real
+262665116036759552	President Obama on Hurricane #Sandy: http://t.co/IBZLSruT	14906077	sandyB_real_11	daniloalicino	Sun Oct 28 21:20:18 +0000 2012	real
+264109006442868736	Jersey Share. #sandy #nj (via FB) http://t.co/ICReNeD1” See, we're not all The Situation!	885689754	sandyB_real_71	LKabo137	Thu Nov 01 20:57:48 +0000 2012	real
+262919777205514240	@Bonita_yeah Picture: #OceanCity #Maryland Boardwalk under #Sandy #frankenstorm #hurricane #climate http://t.co/NIlnoT1X	371362204	sandyB_real_76	Bonita_yeah	Mon Oct 29 14:12:14 +0000 2012	real
+263156862382379008	Hurricane Sandy, when half of Manhattan went dark: http://t.co/H4YZuhnm • via @nichcarlson #sandy	5639412	sandyB_real_60	geoffrey	Tue Oct 30 05:54:19 +0000 2012	real
+262943384925265920	What do you do when you see shit like this? Lol  Brigantine, NJ?  #sandy http://t.co/E41Hu587	121306936	sandyB_real_74	LifeWitJones	Mon Oct 29 15:46:02 +0000 2012	real
+265097608291307520	RT @stephgosk: A mob of marathoners heading over to Staten Island. No race They're going to help out instead. #sandy http://t.co/lgZiBp05	15951713	sandyB_real_41	olivia_b	Sun Nov 04 14:26:09 +0000 2012	real
+263089132958539776	Wow.  “@AntDeRosa: Only light I see on my block is 1WTC #Sandy http://t.co/dVBWblei”	18858993	sandyB_real_83	veronica1021	Tue Oct 30 01:25:11 +0000 2012	real
+262752244775141378	This was a bridge, y'all...a bridge. #Sandy ---&gt; http://t.co/0xeVG3Sq	189717816	sandyB_real_91	50ShadesOfBlack	Mon Oct 29 03:06:31 +0000 2012	real
+263082201946669057	Lights out, Manhattan! #Sandy #Shit   https://t.co/QIfCucba	43392310	sandyB_real_93	Ahmed_Amr	Tue Oct 30 00:57:39 +0000 2012	real
+263193733909069825	هذه سيارات الإسعاف اصطفت لنقل المرضى من المستشفى الجامعي بنيويورك بسبب اعصار #ساندي \n\n  \n\n #Sandy #RealHeroes http://t.co/0mYWxSka””	375475659	sandyB_real_04	osamah_947	Tue Oct 30 08:20:50 +0000 2012	real
+263084628519297024	Here's a creepy photo for y'all. http://t.co/UKpGoRup #Sandy	16837157	sandyB_real_93	apartheid	Tue Oct 30 01:07:17 +0000 2012	real
+262895961649602560	35 foot section of Atlantic City Boardwalk floating down what used to be St. Katherine's place #sandy #acpress http://t.co/0tbQ2ujc	425600563	sandyB_real_02	MilWife0420	Mon Oct 29 12:37:36 +0000 2012	real
+262914016073089024	RT: “@twc_hurricane: Maryland --&gt; RT @i_will_overcome: So long Ocean City pier... #Sandy http://t.co/yy5aUD2q” #HurricaneSandy #weather	194641299	sandyB_real_34	vandongene	Mon Oct 29 13:49:20 +0000 2012	real
+262960075075907585	Boardwalk Empire, c'est plus ce que c'était https://t.co/ZTuEdKu0 https://t.co/1jFPK7tS #hurricane #sandy #AtlanticCity	71378794	sandyB_real_47	temptoetiam	Mon Oct 29 16:52:22 +0000 2012	real
+263086688954372097	WOW RT @tvdfansonline: OMG...wow RT @marikatogo: NYC has gone black. #HurricaneSandy #SANDY http://t.co/DTofWE8H	35829396	sandyB_real_93	trixiestacey	Tue Oct 30 01:15:29 +0000 2012	real
+262944726234308608	“@YaGirllll_B “@the_pussinator_ OC fishing pier @MarylandProbz #sandy http://t.co/NoTYhHIC””	277721446	sandyB_real_36	ItsMePromo_	Mon Oct 29 15:51:22 +0000 2012	real
+263053299442401280	“@damnitstrue East river park. 10:30 am. #sandy http://t.co/toBAIyOX”	46332539	sandyB_real_33	lyzsalyzsa	Mon Oct 29 23:02:48 +0000 2012	real
+263323017910820864	شما عایق بندی رو ببین با لبات بازی میکنه لامصب http://t.co/xYw6eeZY  #sandy	751012920	sandyB_real_74	johnameen	Tue Oct 30 16:54:34 +0000 2012	real
+263154621890035712	https://t.co/A9FpFTBB line of ambulances ready to transport patients #sandy	473377237	sandyB_real_04	madetheflowers	Tue Oct 30 05:45:25 +0000 2012	real
+264054356855365633	Just spotted this: how some in #Hoboken, #NewJersey are recharging their gadgets post-#Sandy. http://t.co/JwiGvM0h	76061632	sandyB_real_71	thisisjohnbook	Thu Nov 01 17:20:39 +0000 2012	real
+264055584641400832	Just spotted this: how some in #Hoboken, #NewJersey are recharging their gadgets post-#Sandy. http://t.co/JwiGvM0h	228076280	sandyB_real_71	wingwingssf	Thu Nov 01 17:25:31 +0000 2012	real
+262707366183702528	RT @chadsinclair: #StopTheStormHype RT @cwelchCNN Cuando McDonald's cierra sabes que empieza a ser serio. #sandy http://t.co/bZu5Lv0S	557291736	sandyB_real_81	retuitator	Mon Oct 29 00:08:11 +0000 2012	real
+264047872293609472	I love it when people are reduced to being decent human beings. RT @anamariecox: Jersey Share. #sandy #nj (via FB) http://t.co/iix99KVR	64233013	sandyB_real_71	EditrixJen	Thu Nov 01 16:54:53 +0000 2012	real
+262892114415865856	USA Huracán #Sandy inunda en estos momentos  las calles costeras de Atlantic City https://t.co/DlxzJ4GU  vía @aubreyjwhelan	37349440	sandyB_real_69	AugeAabye	Mon Oct 29 12:22:19 +0000 2012	real
+262773212180537345	Been to this bridge, scary #Sandy waters @DMVFollowers: bridge in Newport News is almost underwater. http://t.co/9XO06Uq1”	61560993	sandyB_real_91	kamkulit	Mon Oct 29 04:29:50 +0000 2012	real
+263111120645136384	“@GMA Stunning image of much of Manhattan plunged into a power outage as #Sandy churns on. Photo via @nicksumm - http://t.co/46ZDJLxh” wow.	98446089	sandyB_real_60	reedjl	Tue Oct 30 02:52:34 +0000 2012	real
+262815798106660864	RT @samir A rare photo of an empty Grand Central Station due to it's closing because of Hurricane Sandy. http://t.co/bOVW42Mo Nice!	600090702	sandyB_real_26	SilvioChiapusso	Mon Oct 29 07:19:03 +0000 2012	real
+262977065484169216	“@damnitstrue East river park. 10:30 am. #sandy http://t.co/y9Z3uPpr”	148181054	sandyB_real_33	aubreyfbaby89	Mon Oct 29 17:59:52 +0000 2012	real
+263108358104559616	“@jeremyscahill: Best moment from Ali Velshi's Sandy coverage today: http://t.co/qhhy1qSK”	271697761	sandyB_real_27	Da_Mc_	Tue Oct 30 02:41:35 +0000 2012	real
+265003706607599616	RT @TerynSpears: American Spirit  #Sandy #ILoveNY http://t.co/VKyIe3Q7 // This pic says it all...	111969080	sandyB_real_71	LisaSalloway	Sun Nov 04 08:13:01 +0000 2012	real
+264053437971447808	See? Jersey folks are nice. Only been telling you for 35 years. RT "@anamariecox: Jersey Share. #sandy #nj (via FB) http://t.co/PU6EFBM1"	580556165	sandyB_real_71	WickedBite46	Thu Nov 01 17:17:00 +0000 2012	real
+263087991738728449	“@abc7newsBayArea #Sandy MT @DianeSawyer Miles of Manhattan in a blackout. (photo: @nicksumm ) http://t.co/jVdIHKo6”	28372386	sandyB_real_60	TheReallyRick	Tue Oct 30 01:20:39 +0000 2012	real
+264046940189233152	Ok that made me tear up. RT @anamariecox: Jersey Share. #sandy #nj (via FB) http://t.co/4UsTQMfP	20407103	sandyB_real_71	faren800	Thu Nov 01 16:51:10 +0000 2012	real
+263081666824773633	"@dhayes202: @Gillyfish1292 @JennaKayx3  Coney Island is underwater #sandy http://t.co/3u09faZy"	18259708	sandyB_real_14	TwilightilDawn	Tue Oct 30 00:55:31 +0000 2012	real
+262987095088431105	NOAH RT @AnonymousPress WOAH! -&gt; How tall is this wave crashing on the shore? 50feet? 75feet? Lynn (MA) #HangTen #Sandy http://t.co/SQ4P7zWq	95395657	sandyB_real_85	azizxabdul	Mon Oct 29 18:39:44 +0000 2012	real
+262693953969725440	@CNNEE: Cuando cierran hasta los McDonald's, es señal de que se avecina algo fuerte #Sandy vía @cwelchCNN Nueva York http://t.co/9XQ9uDlk	90094407	sandyB_real_81	felipe1069	Sun Oct 28 23:14:53 +0000 2012	real
+263020115833012226	http://t.co/8ka4QnXd #sandy	17928305	sandyB_real_74	ramenpolanski	Mon Oct 29 20:50:56 +0000 2012	real
+262977575129849856	Damn smh RT @damnitstrue: East river park. 10:30 am. #sandy http://t.co/6THX0syC	54450270	sandyB_real_33	honeyrodriguez	Mon Oct 29 18:01:54 +0000 2012	real
+262947971073720320	Banjir RT @AOL RT @PANYNJ Flood waters from Hurricane #Sandy approach the LaGuardia Airport runways and taxiways today. http://t.co/x4UxFe0m	78814415	sandyB_real_64	CervusUnicolor	Mon Oct 29 16:04:16 +0000 2012	real
+262825069863137280	RT @MartinMMC: Empiezan a experimentar las primeras inundaciones con la marea alta en Norfolk #Sandy #hrsandy http://t.co/Hsh3g5E9	557291736	sandyB_real_13	retuitator	Mon Oct 29 07:55:54 +0000 2012	real
+263117639142998016	Parts of Queens RT @HuffingtonPost Street flooding in #NYC: in Long Island City (Photo by: Andrew Pelzer) #Sandy http://t.co/xc3KKv5u	69105670	sandyB_real_98	BrashGentleman	Tue Oct 30 03:18:28 +0000 2012	real
+265114576264245248	AMAZING PHOTO- MARATHON RUNNERS BOARDING STATEN ISLAND FERRY READY TO VOLUNTEER INSTEAD OF RUNNING. #SANDY #911BUFF http://t.co/knvxOZEn	915879847	sandyB_real_20	TopButtonBurch	Sun Nov 04 15:33:35 +0000 2012	real
+263086369528745984	The city that never sleeps.. has turned off the lights for the night http://t.co/3Keoyzjj #Sandy	32212023	sandyB_real_93	purple_spandex	Tue Oct 30 01:14:13 +0000 2012	real
+265012268180307968	All of NYC now in darkness except for the Empire State Building. #Sandy http://t.co/DfLZ33UG	132966506	sandyB_real_56	mattmoly	Sun Nov 04 08:47:03 +0000 2012	real
+263961548572225536	Water levels at LaGuardia Airport during the height of the storm.  Waters have since started to recede. #Sandy http://t.co/XTudFV7x	33833330	sandyB_real_52	derbehccke	Thu Nov 01 11:11:52 +0000 2012	real
+264184594142724100	Spare a thought for #Jamaica #sandy http://t.co/xrThZ8eq &lt;- #SufferingKnowsNoBorders	292581901	sandyB_real_09	HomelndScrutiny	Fri Nov 02 01:58:10 +0000 2012	real
+263093819560566784	L'Empire State Building ! Le seul encore allumé. #Sandy https://t.co/rMvUs8m9	200605837	sandyB_real_82	PatCanaille	Tue Oct 30 01:43:49 +0000 2012	real
+264294582496407552	Humanity :) photo from New Jersey #Sandy http://t.co/x4z8JmWA	502973158	sandyB_real_71	_AltGrEimear	Fri Nov 02 09:15:13 +0000 2012	real
+264288034416128001	Ils sont sympa ces new-yorkais (via @ppgarcia75 ) #Sandy http://t.co/jsP1IXsu	323122908	sandyB_real_71	jdeniard	Fri Nov 02 08:49:12 +0000 2012	real
+265014468885487617	I love this email a friend sent me tonight; "This must be what you meant about New Yorkers" #Sandy #ILoveNY http://t.co/mhQE3hj4	311340378	sandyB_real_71	TellyStern	Sun Nov 04 08:55:47 +0000 2012	real
+264995464393412608	Talking with Pres. Obama about needs in #NJ at the ROIC Friday evening. #Sandy http://t.co/Kw66mMNT	477072522	sandyB_real_94	santorioum	Sun Nov 04 07:40:16 +0000 2012	real
+263871140936679426	Why are these New Yorkers clustered outside a closed Starbucks? Two words: working wifi. #sandy http://t.co/PTjtnJ63	256748056	sandyB_real_49	lea_casablancas	Thu Nov 01 05:12:37 +0000 2012	real
+263303313032876032	«@kellykaye69 «@TUSK81 Tears. Fireman saving dog caught in hurricane: http://t.co/HvUhiwK3 (Photo via @princessGwenie1) #Sandy»»#Hero!	215437885	sandyB_real_38	tdlluvpit	Tue Oct 30 15:36:16 +0000 2012	real
+263212631874232321	El Empire State el único iluminado. http://t.co/kegywcs7 #Sandy #hurricanesandy	279608131	sandyB_real_72	1martublanco	Tue Oct 30 09:35:56 +0000 2012	real
+263124782869012480	RT: Coney Island is underwater #sandy #nenglandwxsandy http://t.co/ToAYYWqN	121149313	sandyB_real_14	Noticias247pr	Tue Oct 30 03:46:51 +0000 2012	real
+263040609017798659	Knock, knock. Who's there? http://t.co/Mq6Ob2z9 #sandy	300698270	sandyB_real_74	K1000B	Mon Oct 29 22:12:22 +0000 2012	real
+264814078776729600	Unbelievable scene flying over #StatenIsland in an #NYPD helicopter. Those are not little toys! #Sandy @ABC http://t.co/MNSogBJE	387129952	sandyB_real_70	EdliraTafani	Sat Nov 03 19:39:31 +0000 2012	real
+264128551878549504	Jersey Share. #sandy #nj (via FB) http://t.co/7VATEumR	18754460	sandyB_real_71	jennialewis	Thu Nov 01 22:15:28 +0000 2012	real
+264480804565024770	"Dear mainstream media, #Sandy fucked us up too. Sincerely, Cuba" http://t.co/7R9aTxE3	449576970	sandyB_real_10	GriffinWithAJ	Fri Nov 02 21:35:12 +0000 2012	real
+265010145896050688	Complimenti @iwanbaan (http://t.co/3dLObGHk) per la splendida foto sulla cover @NYTmag - Manhattan colpita da #Sandy http://t.co/TVFKeUIu	15392102	sandyB_real_59	adrianoattus	Sun Nov 04 08:38:37 +0000 2012	real
+265095965432754177	RT @stephgosk: A mob of marathoners heading over to Staten Island. No race They're going to help out instead. #sandy http://t.co/wJo22u47	264253204	sandyB_real_41	jenanniganz	Sun Nov 04 14:19:38 +0000 2012	real
+265016890437562368	Still WOW. From last night, cover of new @nymag shows stark contrast in Manhattan after #Sandy: http://t.co/QOwWV4kb via @shama_ny	42589620	sandyB_real_59	curtainqueen	Sun Nov 04 09:05:25 +0000 2012	real
+263091751458328577	“@idancohen: The Empire State is the only light in the sky #sandy  @ New York City Marble Cemetery http://t.co/o5xN69pz” #HurricaneSandy	355180289	sandyB_real_72	priyesh_gohil	Tue Oct 30 01:35:36 +0000 2012	real
+263081528869928960	“@BuzzFeedAndrew: RT @danwootton: Very scary sight. New York's gone black. https://t.co/dyKh41ub  #sandy”	14940354	sandyB_real_93	nytjim	Tue Oct 30 00:54:58 +0000 2012	real
+263302539267694594	@AnthonyCumia Too easy?? RT @BuzzFeedAndrew: RT @danwootton: Very scary sight. New York's gone black. http://t.co/EbJBBGg4  #sandy	91435680	sandyB_real_93	cmfdavis	Tue Oct 30 15:33:11 +0000 2012	real
+264464175022080000	Hurricane Sandy leaves lower Manhattan, New York dark. Image courtesy of @AP: http://t.co/YMJjIfQ1	775003886	sandyB_real_55	Prince__Kenneth	Fri Nov 02 20:29:07 +0000 2012	real
+263477865679556609	New York After Sandy :((((\nhttp://t.co/J5dtYEe0	303794576	sandyB_real_60	patsienasti26	Wed Oct 31 03:09:53 +0000 2012	real
+265005945577406464	The cover of the upcoming New York Magazine - the city and the storm http://t.co/vIU11Yzj #sandy #nyc	402771019	sandyB_real_59	JanaLeeE	Sun Nov 04 08:21:55 +0000 2012	real
+262911576795926529	#sandy w/ Statue of Liberty n background “@breaking High tide in Battery Park, New York City - @ScottCohnCNBC http://t.co/gp1WymEm”	21827727	sandyB_real_29	paigefresh	Mon Oct 29 13:39:39 +0000 2012	real
+263431695091499008	“@iTweetFacts Hurricane  #Sandy has caused New York's Time Square to almost look like a ghost town: http://t.co/bHHf2k2t”creepy	240460073	sandyB_real_25	Natasha934	Wed Oct 31 00:06:25 +0000 2012	real
+263305492066099202	Een lange rij ambulances door de straten van New York afgelopen nacht. http://t.co/hHamToyG #Sandy	78274975	sandyB_real_04	nick_enghardt	Tue Oct 30 15:44:55 +0000 2012	real
+264868269515751425	Wow! scary &amp; mesmerizing RT @usaphoto: The cover of the upcoming New York Magazine - the city and the storm http://t.co/OY0J85yq #sandy #nyc	191199787	sandyB_real_59	FirstTimeCloud	Sat Nov 03 23:14:51 +0000 2012	real
+264923590707798016	New York and Sandy!\nhttp://t.co/me5RFrBl	25754211	sandyB_real_59	SarahSkarda	Sun Nov 04 02:54:40 +0000 2012	real
+263289758300643330	«@OracleBFisher «@iTweetFacts Hurricane  #Sandy has caused New York's Time Square to almost look like a ghost town: http://t.co/D6CAbFAI»»	159925596	sandyB_real_25	SwaggaStupidTB	Tue Oct 30 14:42:24 +0000 2012	real
+263042836801404928	Hurricane Sandy in New York City http://t.co/AqvKEmFa	840607946	sandyB_real_58	Pinky_ATL	Mon Oct 29 22:21:14 +0000 2012	real
+263339374920470528	http://t.co/qLvPlGJe a picture of New York before #Sandy hit! holy crap!	43260211	sandyB_real_78	Lowie_64	Tue Oct 30 17:59:34 +0000 2012	real
+263282498786701313	bersih bgt itu banjir jg-_-gada kasur ngambang kek dsniRT @OddestFacts: 34th and 1st street in New York City. #Sandy http://t.co/MqCDCrPB	105073766	sandyB_real_17	dinibriand	Tue Oct 30 14:13:33 +0000 2012	real
+263089387754094593	Sandy Fucked up New York.. RT"@__stayygold: Manhattan is dark.. wow. I never thought id see the day. http://t.co/l9XaRXBF"	71650400	sandyB_real_93	Bryan0120	Tue Oct 30 01:26:12 +0000 2012	real
+263109325751451649	«@craigengler «@BoingBoing Power outages spread. “@danwootton: Very scary sight. New York's gone black. http://t.co/oIE7dTL9  #sandy”»»	25291190	sandyB_real_93	atwaroski	Tue Oct 30 02:45:26 +0000 2012	real
+263867616643395584	Hurricane  #Sandy has caused New York's Time Square to almost look like a ghost town: http://t.co/eyyDrBIu	468373243	sandyB_real_25	tinkerbell_fm	Thu Nov 01 04:58:36 +0000 2012	real
+265077823981621248	Amazing pic RT @BruceFeiler: This New York Magazine cover of #Sandy will go down in history. ICYMI http://t.co/Gkg9NXi3	52427633	sandyB_real_59	dukeare1	Sun Nov 04 13:07:32 +0000 2012	real
+265141726501552129	#NYCforever “RT @BruceFeiler: This New York Magazine cover of #Sandy will go down in history. http://t.co/QhKbAqk4”	410912725	sandyB_real_59	hawkliberty	Sun Nov 04 17:21:28 +0000 2012	real
+263083878242217985	Damn: RT @danwootton: Very scary sight. New York's gone black. http://t.co/kp3MQFX5  #sandy	800541512	sandyB_real_93	gjlama94	Tue Oct 30 01:04:19 +0000 2012	real
+263083030988595200	and New York goes dark http://t.co/DFMI26YL #Sandy	843631	sandyB_real_93	bentrem	Tue Oct 30 01:00:57 +0000 2012	real
+265004680759873536	Very eerie New York pic "Only light I see on my block is 1WTC" #Sandy http://t.co/6cSB5iGi via @antderosa @kenosen2	607843	sandyB_real_83	drewb	Sun Nov 04 08:16:54 +0000 2012	real
+263002847359139841	RT @mpoppel PHOTO: Construction crane dangling from 75th floor in New York City - http://t.co/FVsLl7rG #sandy	22753356	sandyB_real_18	PeterDoherty7	Mon Oct 29 19:42:19 +0000 2012	real
+263082822619762691	Lights off New York https://t.co/Ad1lgaIp #Sandy	203810008	sandyB_real_93	LandThieves	Tue Oct 30 01:00:07 +0000 2012	real
+265026383263182848	Incroyable photo en une du New York Magazine : Lower Manhattan plongé dans le noir après le passage de #Sandy : http://t.co/uRuSdt7Z	531486853	sandyB_real_59	beauduinj	Sun Nov 04 09:43:08 +0000 2012	real
+265002087774040064	The cover of the upcoming New York Magazine - the city and the storm http://t.co/8HfxgWJ9 #sandy #nyc	441326222	sandyB_real_59	CADGISforhire	Sun Nov 04 08:06:35 +0000 2012	real
+263799048463593472	NYC buses, post-Hurricane Sandy.  tags: #sandy #hurricane #weather #nyc http://t.co/vcX6PNDQ	101647054	sandyA_real_58	mterrycooke	Thu Nov 01 00:26:09 +0000 2012	real
+264031451786391553	BEAUTIFUL HOLIDAY! > RT @ariefbanang: sandy storm. http://t.co/HSRXGSP4	228798486	sandyA_real_59	RidhoSyarif	Thu Nov 01 15:49:38 +0000 2012	real
+263949303247155201	sandy storm. http://t.co/8LsepOXp	48670314	sandyA_real_59	ariefbanang	Thu Nov 01 10:23:12 +0000 2012	real
+264370111413104640	no me digas nada, te quedaste sin fasos #sandy http://t.co/gT96VMSs	14074389	sandyA_real_59	elchueco	Fri Nov 02 14:15:21 +0000 2012	real
+264309093097934848	N°1 #sandy says http://t.co/zCMyTGar	569201250	sandyA_real_62	itsROTTEN	Fri Nov 02 10:12:53 +0000 2012	real
+264412836829216768	"@NYGovCuomo: Entrance to Hugh Carey Tunnel (formerly the Brooklyn Battery) off West Street #Sandy http://t.co/epHy001U"	915024834	sandyB_real_12	abel_rolon	Fri Nov 02 17:05:07 +0000 2012	real
+264723637997805568	Shocking water level @ Path Station in downtown NYC. All this water stretching back about 5 mi to NJ. #Sandy http://t.co/VHGb4KDz	176062358	sandyB_real_23	Jack_A_Thompson	Sat Nov 03 13:40:08 +0000 2012	real
+263789217522544640	RT @DianeSawyer: Shocking water level @ Path in downtown NYC. This water stretching about 5 mi to NJ. #Sandy http://t.co/XnzbKQrG	271406655	sandyB_real_23	LadyFashion7	Wed Oct 31 23:47:05 +0000 2012	real
+264011612510355456	Shocking water level @ Path Station in downtown NYC. All this water stretching back about 5 mi to NJ. #Sandy http://t.co/VHGb4KDz	37564326	sandyB_real_23	goddesswing	Thu Nov 01 14:30:48 +0000 2012	real
+264174529239207939	A photo of the pier in Hyannisport...wow! #Sandy http://t.co/7Wc4V6yd	312214680	sandyB_real_28	oswaldheston	Fri Nov 02 01:18:10 +0000 2012	real
+264186452261363712	My prayers go out to everyone affected by Hurricane #Sandy, but especially those patients at NYU Hospital -->  http://t.co/GjE2negG	535037784	sandyB_real_35	LilLoudLondon	Fri Nov 02 02:05:33 +0000 2012	real
+264080277641498624	My prayers go out to everyone affected by Hurricane #Sandy, but especially those patients at NYU Hospital -->  http://t.co/msF1QSO4”	368642531	sandyB_real_35	2016USAOlympian	Thu Nov 01 19:03:39 +0000 2012	real
+263903442995654656	The Jones Beach Theater is underwater the day after #Sandy: http://t.co/q6FTM7Kc http://t.co/BMJa8mmi	158390120	sandyB_real_53	KRyannn	Thu Nov 01 07:20:58 +0000 2012	real
+263788022837960704	The Jones Beach Theater is underwater the day after #Sandy: http://t.co/q6FTM7Kc http://t.co/BMJa8mmi	481494079	sandyB_real_53	TomBerte	Wed Oct 31 23:42:20 +0000 2012	real
+264619065937645568	@Howelly123 this is where i'm supposed to see one direction for the 2013 tour but the hurricane destroyed it sigh http://t.co/DWvP5sH4	742012423	sandyB_real_53	NYtonighter	Sat Nov 03 06:44:36 +0000 2012	real
+264323661488611329	The Jones Beach Theater is underwater the day after #Sandy: http://t.co/q6FTM7Kc http://t.co/BMJa8mmi	250163184	sandyB_real_53	ItsMeJessica_17	Fri Nov 02 11:10:46 +0000 2012	real
+264213245584367616	Aww @nkotb RT @newsday: The Jones Beach Theater is underwater the day after #Sandy http://t.co/FJ1YB6j9 http://t.co/J8whirkJ	476474718	sandyB_real_53	PedrazaJennifer	Fri Nov 02 03:52:01 +0000 2012	real
+264468950816018434	The Nikon at Jones Beach theater was the place where I saw the boys twice & the hurricane pretty much destroyed it ): http://t.co/3li2sX6J	283263587	sandyB_real_53	xSwiftRusher	Fri Nov 02 20:48:06 +0000 2012	real
+263981416545665024	It's gotten VERY ugly in Ocean City. Almost looks like Katrina. Here's a picture of what used to be 94th street http://t.co/L5O6HLlm #Sandy	386943853	sandyB_real_57	DianaDJ7	Thu Nov 01 12:30:48 +0000 2012	real
+265228482496303104	“@piersmorgan: And the crane dangled on.... #Sandy #Breakfast #NY http://t.co/ounIdkm0” wow!	333446663	sandyB_real_86	stljs1	Sun Nov 04 23:06:12 +0000 2012	real
+263806750472413185	Don't forget to keep your thoughts & prayers with those in the northeast recovering from #Sandy http://t.co/d4e0cO40	797982518	sandyB_real_95	RayaHAlsharif	Thu Nov 01 00:56:45 +0000 2012	real
+325213350818611201	In which 4Chan thinks playing Where’s Wally with brown people and backpacks will solve terrorism: http://t.co/gk6DVBcOND	76262323	boston_fake_03,boston_fake_35	jezlash	Fri Apr 19 11:44:39 +0000 2013	humor
+325067648780099586	@psicosour ojo, a el lo acusó 4chan, no es ninguno de los que publicó el FBI. FBI: http://t.co/i0nAZTlDvb 4chan: http://t.co/Lm8lxdrZbw	49216342	boston_fake_03,boston_fake_35	aldovalencia	Fri Apr 19 02:05:41 +0000 2013	humor
+325641051811500032	Some of 4chan comm's #boston images - http://t.co/6Ap7NKHXy8 - fascinating crowd-sourced sleuthing. Also clear: RIP privacy forever.	17384057	boston_fake_03,boston_fake_35	paradoxiq	Sat Apr 20 16:04:11 +0000 2013	humor
 325282792957157377	@bluerickshaw my favorite came from 4chan  http://t.co/Ri2uk4hjw0	67570255	boston_fake_24	shahidsaeed	Fri Apr 19 16:20:35 +0000 2013	humor
-325210840498335744	For shits and giggles, 4chan's conspiracy theory #stillbetterthancnn http://t.co/ANYNIHax6u	114564602	boston_fake_35	pruittc2012	Fri Apr 19 11:34:41 +0000 2013	humor
+325210840498335744	For shits and giggles, 4chan's conspiracy theory #stillbetterthancnn http://t.co/ANYNIHax6u	114564602,boston_fake_35	pruittc2012	Fri Apr 19 11:34:41 +0000 2013	humor
 324548130970423296	4chan runs shit lol. http://t.co/XGsNHy9eeU	33557132	boston_fake_05	FuckYeahGlenn	Wed Apr 17 15:41:18 +0000 2013	humor
 325348966935982080	On Wednesday, Reddit and 4chan users published pictures of Boston Marathon bombing "suspects". They were all wrong. http://t.co/EVldP40pd4	73857293	boston_fake_03	clementgarnier	Fri Apr 19 20:43:33 +0000 2013	humor
 325148067336683521	Wow, so Sunil Tripathi is a Brown U Student that has been missing since March... http://t.co/ku2PtAuB4o.	43996430	boston_fake_19	cjbrinton	Fri Apr 19 07:25:14 +0000 2013	humor
@@ -12206,221 +12535,221 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325163221218635777	El poder de 4chan: http://t.co/7Gq6gejRu2 miles de fotos analizadas y encuentran a ""sospechosos"" (ojo, pillar con pinzas)	14054063	boston_fake_03	alexsobrino	Fri Apr 19 08:25:27 +0000 2013	humor
 325145935007068161	Sunil Tripathi was last seen in March. http://t.co/Yn6V5xNXGC	35714423	boston_fake_19	vetoshield	Fri Apr 19 07:16:46 +0000 2013	humor
 325181617981243393	@RaulVB @WajahatAli @Marcotti #SunilTripathiHoax Sunil Tripathi and Suspect 2 - They are two very different persons http://t.co/7X56eZRk6l	24573827	boston_fake_34	Marcotti	Fri Apr 19 09:38:33 +0000 2013	humor
-325513392318185472	Atentos a la "investigación ciudadana P2P" de lo de Boston que se han montado los del 4chan estos... :O http://t.co/wWFCxu0EuT (vía @axebra)	118874116	boston_fake_03	biglasses	Sat Apr 20 07:36:55 +0000 2013	humor
-324583664564445184	The detail of these photos used to identify the Boston Marathon bombing suspect is bananas… http://t.co/8zZ1v2ix39	25950370	boston_fake_03	SeanCablinasian	Wed Apr 17 18:02:30 +0000 2013	humor
-324597532548276224	Don't need feds to solve the #bostonbombing when we have #4chan!! http://t.co/eXQTPZqqbG	886672620	boston_fake_03	SantaCruzShred	Wed Apr 17 18:57:37 +0000 2013	fake
+325513392318185472	Atentos a la "investigación ciudadana P2P" de lo de Boston que se han montado los del 4chan estos... :O http://t.co/wWFCxu0EuT (vía @axebra)	118874116	boston_fake_03,boston_fake_35	biglasses	Sat Apr 20 07:36:55 +0000 2013	humor
+324583664564445184	The detail of these photos used to identify the Boston Marathon bombing suspect is bananas… http://t.co/8zZ1v2ix39	25950370	boston_fake_03,boston_fake_35	SeanCablinasian	Wed Apr 17 18:02:30 +0000 2013	humor
+324597532548276224	Don't need feds to solve the #bostonbombing when we have #4chan!! http://t.co/eXQTPZqqbG	886672620	boston_fake_03,boston_fake_35	SantaCruzShred	Wed Apr 17 18:57:37 +0000 2013	fake
 325145334739267584	PIC: Comparison of #Boston suspect Sunil Tripathi's FBI-released images/video and his MISSING poster http://t.co/EhV3ODxrJf You decide.	21992286	boston_fake_23	Oscar_Wang	Fri Apr 19 07:14:23 +0000 2013	fake
 325152091423248385	I'm not completely convinced that it's this Sunil Tripathi fellow—http://t.co/ZjWqOsRfjB	16428755	boston_fake_34	jamwil	Fri Apr 19 07:41:14 +0000 2013	fake
-324554646976868352	Brutal lo que se puede conseguir en colaboración. #4Chan analizando fotos de la maratón de #Boston atando cabos... http://t.co/4eq43HFicK	303138574	boston_fake_03	rubenson80	Wed Apr 17 16:07:12 +0000 2013	fake
+324554646976868352	Brutal lo que se puede conseguir en colaboración. #4Chan analizando fotos de la maratón de #Boston atando cabos... http://t.co/4eq43HFicK	303138574	boston_fake_03,boston_fake_35	rubenson80	Wed Apr 17 16:07:12 +0000 2013	fake
 324315545572896768	4chan and the bombing. just throwing it out there: http://t.co/dIySO7lXQm http://t.co/NxBi4tW8bQ	180460772	boston_fake_15	Slimlenny	Wed Apr 17 00:17:06 +0000 2013	fake
 324581777614180352	4chan thinks they found pictures of the bomber  -  http://t.co/0y3w24l2q8	46224814	boston_fake_08	iamyadvinder	Wed Apr 17 17:55:00 +0000 2013	fake
 324665423956176896	Ola ke ase, investigando las bombas de Boston o ke ase? #4chan http://t.co/7A4IAbVmM0	90735851	boston_fake_35	rcr866	Wed Apr 17 23:27:23 +0000 2013	fake
 325213350818611201	In which 4Chan thinks playing Where’s Wally with brown people and backpacks will solve terrorism: http://t.co/gk6DVBcOND	76262323	boston_fake_03	jezlash	Fri Apr 19 11:44:39 +0000 2013	fake
-325464125868216321	4chan ThinkTank - Imgur http://t.co/hQt2fhxE48	142785938	boston_fake_03	GlebGgs	Sat Apr 20 04:21:09 +0000 2013	fake
+325464125868216321	4chan ThinkTank - Imgur http://t.co/hQt2fhxE48	142785938	boston_fake_03,boston_fake_35	GlebGgs	Sat Apr 20 04:21:09 +0000 2013	fake
 325099014355820544	@DLoesch have you seen this? Bomber #2  looks like missing student Sunil Tripathi.  http://t.co/1phQpB0aMT  http://t.co/X9pqMtnoW5	21769179	boston_fake_13	larrygloverlive	Fri Apr 19 04:10:19 +0000 2013	fake
-325705653026975744	da 4chan think tank BOSTON  http://t.co/0ZbKMA5z0D  #photos #suspects #bombing #marathon	51410043	boston_fake_03	IsraelTucker	Sat Apr 20 20:20:53 +0000 2013	fake
-324637464927039488	@Anonymoussops @bernardosampa @urbanohumano definitely a good work anonymous. #4chan 4ver &gt;&gt; http://t.co/VSAz2qzbun	224438064	boston_fake_03	MrDDS1984	Wed Apr 17 21:36:17 +0000 2013	fake
-325101127043534850	Poo, o 4CHAN nas análises dos atentados hein. De loco!\n\nhttp://t.co/au0JRLE0qA http://t.co/Nm92oqIkmy	97034316	boston_fake_03	AriellMarques	Fri Apr 19 04:18:43 +0000 2013	fake
-324498279700234240	@DandCShow Did you guys see these pics?  http://t.co/AwkA3cC4dg  #reddit #4chan #bostonstrong	21324077	boston_fake_03	SignoreDago	Wed Apr 17 12:23:13 +0000 2013	fake
-324604457847488512	http://t.co/ykSVPMWD6h  #4chan FTW	201914406	boston_fake_03	mtdisme	Wed Apr 17 19:25:08 +0000 2013	fake
-324580144478048258	Wow, creepy. #Boston #Bombing ID the suspect? http://t.co/mKbnnYCcUs	114819961	boston_fake_03	JaclynIsaac	Wed Apr 17 17:48:31 +0000 2013	fake
+325705653026975744	da 4chan think tank BOSTON  http://t.co/0ZbKMA5z0D  #photos #suspects #bombing #marathon	51410043	boston_fake_03,boston_fake_35	IsraelTucker	Sat Apr 20 20:20:53 +0000 2013	fake
+324637464927039488	@Anonymoussops @bernardosampa @urbanohumano definitely a good work anonymous. #4chan 4ver &gt;&gt; http://t.co/VSAz2qzbun	224438064	boston_fake_03,boston_fake_35	MrDDS1984	Wed Apr 17 21:36:17 +0000 2013	fake
+325101127043534850	Poo, o 4CHAN nas análises dos atentados hein. De loco!\n\nhttp://t.co/au0JRLE0qA http://t.co/Nm92oqIkmy	97034316	boston_fake_03,boston_fake_35	AriellMarques	Fri Apr 19 04:18:43 +0000 2013	fake
+324498279700234240	@DandCShow Did you guys see these pics?  http://t.co/AwkA3cC4dg  #reddit #4chan #bostonstrong	21324077	boston_fake_03,boston_fake_35	SignoreDago	Wed Apr 17 12:23:13 +0000 2013	fake
+324604457847488512	http://t.co/ykSVPMWD6h  #4chan FTW	201914406	boston_fake_03,boston_fake_35	mtdisme	Wed Apr 17 19:25:08 +0000 2013	fake
+324580144478048258	Wow, creepy. #Boston #Bombing ID the suspect? http://t.co/mKbnnYCcUs	114819961	boston_fake_03,boston_fake_35	JaclynIsaac	Wed Apr 17 17:48:31 +0000 2013	fake
 324558285225209857	@YourAnonNews its not that guy, you can see his backpack from another angle http://t.co/DFRglxjp68 #BostonMarathon	50858723	boston_fake_16	Tadlette	Wed Apr 17 16:21:39 +0000 2013	fake
-324510098259050496	@BBCWorld @BBCBreaking @BBCNews Probably worth checking these out. http://t.co/r6nemCxOCr #4chan #identified #boston #marathon #bombers	241810080	boston_fake_03	FaultyBeard	Wed Apr 17 13:10:11 +0000 2013	fake
-324635274887970816	my best guess ala 4chan regarding Boston \nhttp://t.co/QTJ4XHonGC\nhere is the rest of the pics 4 chan has of that day, http://t.co/jO0BPnUfmn	109661488	boston_fake_03	SOS3Today	Wed Apr 17 21:27:35 +0000 2013	fake
+324510098259050496	@BBCWorld @BBCBreaking @BBCNews Probably worth checking these out. http://t.co/r6nemCxOCr #4chan #identified #boston #marathon #bombers	241810080	boston_fake_03,boston_fake_35	FaultyBeard	Wed Apr 17 13:10:11 +0000 2013	fake
+324635274887970816	my best guess ala 4chan regarding Boston \nhttp://t.co/QTJ4XHonGC\nhere is the rest of the pics 4 chan has of that day, http://t.co/jO0BPnUfmn	109661488	boston_fake_03,boston_fake_07,boston_fake_35	SOS3Today	Wed Apr 17 21:27:35 +0000 2013	fake
 324435205433724929	Hilarious if 4chan solves this bombing case. They got tons of these posted. http://t.co/qI9I0YKatR	16037772	boston_fake_26	BlakeYo	Wed Apr 17 08:12:35 +0000 2013	fake
 325067648780099586	@psicosour ojo, a el lo acusó 4chan, no es ninguno de los que publicó el FBI. FBI: http://t.co/i0nAZTlDvb 4chan: http://t.co/Lm8lxdrZbw	49216342	boston_fake_03	aldovalencia	Fri Apr 19 02:05:41 +0000 2013	fake
 324545148908363777	http://t.co/pS4KetWGaW #4chan	396729812	boston_fake_01	RutgerDrent	Wed Apr 17 15:29:27 +0000 2013	fake
 324267996044460035	"They say" this is a #pic of a man lurking on a rooftop during the the #bostonmarathon #explosion...… http://t.co/RYtgpktBYT	266869357	boston_fake_09	broadwaybeezy	Tue Apr 16 21:08:09 +0000 2013	fake
 324513597852098561	Wow 4chan. That was fast: http://t.co/3vHkPCr8tR	363958072	boston_fake_15	Alpha_and_Delta	Wed Apr 17 13:24:05 +0000 2013	fake
-324979270248173568	#4Chan got some fame on internet but I can say that I am impressed on what they had done and discovered http://t.co/MUH6yTWCAZ via @imgur	608583	boston_fake_03	Zeinobia	Thu Apr 18 20:14:30 +0000 2013	fake
-325064824306429953	4chan melhor que FBI :) http://t.co/aiGcdBXRUz	323637124	boston_fake_03	bruunowtf	Fri Apr 19 01:54:28 +0000 2013	fake
+324979270248173568	#4Chan got some fame on internet but I can say that I am impressed on what they had done and discovered http://t.co/MUH6yTWCAZ via @imgur	608583	boston_fake_03,boston_fake_35	Zeinobia	Thu Apr 18 20:14:30 +0000 2013	fake
+325064824306429953	4chan melhor que FBI :) http://t.co/aiGcdBXRUz	323637124	boston_fake_03,boston_fake_35	bruunowtf	Fri Apr 19 01:54:28 +0000 2013	fake
 324333359356579841	4chan spots a #Boston Bombing suspect - http://t.co/3c4TOQxL4b	105148135	boston_fake_15	giggitygreg	Wed Apr 17 01:27:53 +0000 2013	fake
 325641051811500032	Some of 4chan comm's #boston images - http://t.co/6Ap7NKHXy8 - fascinating crowd-sourced sleuthing. Also clear: RIP privacy forever.	17384057	boston_fake_03	paradoxiq	Sat Apr 20 16:04:11 +0000 2013	fake
 324631982518726656	4Chan seems to think they've found one of the Boston Marathon Bombers and I agree http://t.co/1cncwgC7eK	419544419	boston_fake_29	smitchell550	Wed Apr 17 21:14:30 +0000 2013	fake
 324356688272560128	4chan spots a suspect http://t.co/u3Ovlyl4Tp [http://t.co/oUotrsGuZv] #consp @joerogan	1228761494	boston_fake_15	Reddit4Savages	Wed Apr 17 03:00:35 +0000 2013	fake
-324874410374877185	http://t.co/TTcLPjXHVs investigación bombas Boston #4chan	348687483	boston_fake_03	isaponferrada	Thu Apr 18 13:17:49 +0000 2013	fake
-324569472952320003	#4chan solves the bombings? http://t.co/YeTDt6cLZS via @imgur	394713293	boston_fake_03	AnssiMuhonen	Wed Apr 17 17:06:07 +0000 2013	fake
+324874410374877185	http://t.co/TTcLPjXHVs investigación bombas Boston #4chan	348687483	boston_fake_03,boston_fake_35	isaponferrada	Thu Apr 18 13:17:49 +0000 2013	fake
+324569472952320003	#4chan solves the bombings? http://t.co/YeTDt6cLZS via @imgur	394713293	boston_fake_03,boston_fake_35	AnssiMuhonen	Wed Apr 17 17:06:07 +0000 2013	fake
 325282792957157377	@bluerickshaw my favorite came from 4chan  http://t.co/Ri2uk4hjw0	67570255	boston_fake_24	shahidsaeed	Fri Apr 19 16:20:35 +0000 2013	fake
 324936511160213505	4chan Conspiracies 1 of 2 http://t.co/KbYZr9aAiQ	142869850	boston_fake_18	brennen_says	Thu Apr 18 17:24:35 +0000 2013	fake
-325243838518149120	good job 4chan! http://t.co/XSnnqe6ROH	24618459	boston_fake_03	softwaredoug	Fri Apr 19 13:45:48 +0000 2013	fake
-324642477577494530	#boston #4chan  http://t.co/e7m4xLcjna	353738582	boston_fake_03	ThomasZbo	Wed Apr 17 21:56:12 +0000 2013	fake
+325243838518149120	good job 4chan! http://t.co/XSnnqe6ROH	24618459	boston_fake_03,boston_fake_35	softwaredoug	Fri Apr 19 13:45:48 +0000 2013	fake
+324642477577494530	#boston #4chan  http://t.co/e7m4xLcjna	353738582	boston_fake_03,boston_fake_35	ThomasZbo	Wed Apr 17 21:56:12 +0000 2013	fake
 324128489244614656	man on the roof-tops of #bostonmarathon while bomb goes off http://t.co/yFZEuQ47hu	65174989	boston_fake_09	DeeJayBliss1	Tue Apr 16 11:53:48 +0000 2013	fake
 324930742041866242	navy seals at #bostonmarathon with back packs n remote devices on cell phones http://t.co/k9sNfXJvi8	1354971384	boston_fake_03	aggressiveink	Thu Apr 18 17:01:40 +0000 2013	fake
-325361625869717505	E aí que o 4chan DESVENDOU quem são os responsáveis pela bomba de Boston http://t.co/ZZu0An6h2p	51582409	boston_fake_03	LRagazzi	Fri Apr 19 21:33:51 +0000 2013	fake
+325361625869717505	E aí que o 4chan DESVENDOU quem são os responsáveis pela bomba de Boston http://t.co/ZZu0An6h2p	51582409	boston_fake_03,boston_fake_35	LRagazzi	Fri Apr 19 21:33:51 +0000 2013	fake
 325149501813837824	Wow. This was posted yesterday on 4chan. Seemed like some people were in the know about the suspect. http://t.co/g7QU4AktXV	24276757	boston_fake_12	dennyluan	Fri Apr 19 07:30:56 +0000 2013	fake
 324383323097022464	4chan spots a suspect http://t.co/Sb6t7nyP3b [http://t.co/ODs9wcPaxD] #consp @duncantrussell	1237247743	boston_fake_15	Reddit4DTFHfans	Wed Apr 17 04:46:25 +0000 2013	fake
-325226222235828226	Here's the thread. Not one of the real suspects is on here. RT @brianboyer: 4chan is on it. Fascinating. http://t.co/R53NODzVtB	24774702	boston_fake_03	_DirtyCee	Fri Apr 19 12:35:48 +0000 2013	fake
-324676674442629120	#4chan crowdsourcing #Boston bomb investigation - /b/ http://t.co/7YcFjWsKo2	308422575	boston_fake_03	UnfitToPrint	Thu Apr 18 00:12:06 +0000 2013	fake
-324845303566065664	#4chan ThinkTank http://t.co/rnqC1QKu8R #BostonMarathon	589903475	boston_fake_03	Anonymous_48	Thu Apr 18 11:22:10 +0000 2013	fake
+325226222235828226	Here's the thread. Not one of the real suspects is on here. RT @brianboyer: 4chan is on it. Fascinating. http://t.co/R53NODzVtB	24774702	boston_fake_03,boston_fake_35	_DirtyCee	Fri Apr 19 12:35:48 +0000 2013	fake
+324676674442629120	#4chan crowdsourcing #Boston bomb investigation - /b/ http://t.co/7YcFjWsKo2	308422575	boston_fake_03,boston_fake_35	UnfitToPrint	Thu Apr 18 00:12:06 +0000 2013	fake
+324845303566065664	#4chan ThinkTank http://t.co/rnqC1QKu8R #BostonMarathon	589903475	boston_fake_03,boston_fake_35	Anonymous_48	Thu Apr 18 11:22:10 +0000 2013	fake
 325210840498335744	For shits and giggles, 4chan's conspiracy theory #stillbetterthancnn http://t.co/ANYNIHax6u	114564602	boston_fake_35	pruittc2012	Fri Apr 19 11:34:41 +0000 2013	fake
-324620538465120256	#4CHAN haciendo el trabajo del FBI http://t.co/CPONsVv0O8 o.O #Boston #/b/	225092182	boston_fake_03	Stanne_Z	Wed Apr 17 20:29:02 +0000 2013	fake
-325051229791203328	4chan picks out some boston suspects. crazy spooky. http://t.co/OqAbKozQav	11813582	boston_fake_03	mirceap	Fri Apr 19 01:00:27 +0000 2013	fake
+324620538465120256	#4CHAN haciendo el trabajo del FBI http://t.co/CPONsVv0O8 o.O #Boston #/b/	225092182	boston_fake_03,boston_fake_35	Stanne_Z	Wed Apr 17 20:29:02 +0000 2013	fake
+325051229791203328	4chan picks out some boston suspects. crazy spooky. http://t.co/OqAbKozQav	11813582	boston_fake_03,boston_fake_35	mirceap	Fri Apr 19 01:00:27 +0000 2013	fake
 324548130970423296	4chan runs shit lol. http://t.co/XGsNHy9eeU	33557132	boston_fake_05	FuckYeahGlenn	Wed Apr 17 15:41:18 +0000 2013	fake
 324991612025462784	It looks like 4chan might have really found something - Why are private http://t.co/iVYfUtQ2Mh [http://t.co/RbYBX2qXll] #anon @YourAnonNews	1350469116	boston_fake_18	rsubversive	Thu Apr 18 21:03:33 +0000 2013	fake
-324710785773363200	this shit crazy. wonder if they photoshopped #4chan http://t.co/v00nx4Fw0D	206443802	boston_fake_03	rckgot1twatchin	Thu Apr 18 02:27:38 +0000 2013	fake
+324710785773363200	this shit crazy. wonder if they photoshopped #4chan http://t.co/v00nx4Fw0D	206443802	boston_fake_03,boston_fake_35	rckgot1twatchin	Thu Apr 18 02:27:38 +0000 2013	fake
 324590974753976320	4Chan zoekt het uit. http://t.co/wMQbCv9W3R	66641469	boston_fake_04	JeffreyPieters	Wed Apr 17 18:31:33 +0000 2013	fake
 324468904128806912	4chan beweert de bommenlegger uit #Boston te hebben gevonden op foto http://t.co/YDyFCkEPDb	142691676	boston_fake_01	loyvh	Wed Apr 17 10:26:29 +0000 2013	fake
 324522267973402624	Os caras do 4chan identificaram o terrorista da maratona de Boston, jura mesmo? https://t.co/reoR7wki6i http://t.co/MKUuo8PKyQ	10522982	boston_fake_17	JoaoLuiz	Wed Apr 17 13:58:32 +0000 2013	fake
 325135832207990784	No idea if "Suspect 2" is missing Brown student Sunil Tripathi but looks more than a little like him: http://t.co/iwJ7iO3WKB	37636667	boston_fake_30	mtsw	Fri Apr 19 06:36:37 +0000 2013	fake
-324798280787714048	En 4chan ya han encontrado a los terroristas de Boston http://t.co/Cb98QtbVcU #boston #4chan	360657338	boston_fake_03	gzapico	Thu Apr 18 08:15:19 +0000 2013	fake
-325490517725028353	some follow up images on the 4chan post from an hour ago: http://t.co/QlqaMpdpXA\n\n"The internet wins" -@teklocust	4739831	boston_fake_03	dwbl	Sat Apr 20 06:06:01 +0000 2013	fake
-325348966935982080	On Wednesday, Reddit and 4chan users published pictures of Boston Marathon bombing "suspects". They were all wrong. http://t.co/EVldP40pd4	73857293	boston_fake_03	clementgarnier	Fri Apr 19 20:43:33 +0000 2013	fake
+324798280787714048	En 4chan ya han encontrado a los terroristas de Boston http://t.co/Cb98QtbVcU #boston #4chan	360657338	boston_fake_03,boston_fake_35	gzapico	Thu Apr 18 08:15:19 +0000 2013	fake
+325490517725028353	some follow up images on the 4chan post from an hour ago: http://t.co/QlqaMpdpXA\n\n"The internet wins" -@teklocust	4739831	boston_fake_03,boston_fake_35	dwbl	Sat Apr 20 06:06:01 +0000 2013	fake
+325348966935982080	On Wednesday, Reddit and 4chan users published pictures of Boston Marathon bombing "suspects". They were all wrong. http://t.co/EVldP40pd4	73857293	boston_fake_03,boston_fake_35	clementgarnier	Fri Apr 19 20:43:33 +0000 2013	fake
 324338610465816576	@th3j35t3r what do you make of what 4chan has come up with? http://t.co/sMWgRS2jo3	1126189711	boston_fake_04	ClownLilBro	Wed Apr 17 01:48:45 +0000 2013	fake
 324537751934484480	4chan found the bomb http://t.co/Zrs8WOqomz	221060333	boston_fake_24	C_Y88	Wed Apr 17 15:00:04 +0000 2013	fake
 324607148313153538	The man believed to be the bomber.. #boston #bostonbombing #bostonmarathon #prayforboston #pray4boston… http://t.co/akb08AyBld	22892301	boston_fake_02	TIHammer	Wed Apr 17 19:35:49 +0000 2013	fake
-324528633463050241	http://t.co/xBNwxhIVHo #BostonMarathon #4chan via @reddit	26972597	boston_fake_03	The_Ni	Wed Apr 17 14:23:50 +0000 2013	fake
-325170782131073024	The internet wins. Did 4chan find the Boston Marathon bombers? http://t.co/45UUc5Gjal	1605021	boston_fake_03	carhartl	Fri Apr 19 08:55:30 +0000 2013	fake
+324528633463050241	http://t.co/xBNwxhIVHo #BostonMarathon #4chan via @reddit	26972597	boston_fake_03,boston_fake_35	The_Ni	Wed Apr 17 14:23:50 +0000 2013	fake
+325170782131073024	The internet wins. Did 4chan find the Boston Marathon bombers? http://t.co/45UUc5Gjal	1605021	boston_fake_03,boston_fake_35	carhartl	Fri Apr 19 08:55:30 +0000 2013	fake
 324330330108612608	@samsteinhp check out the 4chan kiddies investigative work http://t.co/7C1wRki92C	16259867	boston_fake_26	tmoneymonsta	Wed Apr 17 01:15:51 +0000 2013	fake
-324740982576914435	Una muestra que #4Chan no es solo mierda, sino una inteligencia anonima, a veces borracha, pero efectiva : http://t.co/wmD0pEejVM #Boston	15114233	boston_fake_03	ElReticente	Thu Apr 18 04:27:38 +0000 2013	fake
+324740982576914435	Una muestra que #4Chan no es solo mierda, sino una inteligencia anonima, a veces borracha, pero efectiva : http://t.co/wmD0pEejVM #Boston	15114233	boston_fake_03,boston_fake_35	ElReticente	Thu Apr 18 04:27:38 +0000 2013	fake
 324361628353191937	Don't worry guys, 4chan is on the case now...  http://t.co/tv5u5N9tiy	15308003	boston_fake_26	rpriedy	Wed Apr 17 03:20:13 +0000 2013	fake
-324565662339059712	#4Chan analizó las imágenes del atentado en #Boston y encontró supuestos implicados. http://t.co/84GH58OHJP	416678640	boston_fake_03	LuisDavCastillo	Wed Apr 17 16:50:58 +0000 2013	fake
+324565662339059712	#4Chan analizó las imágenes del atentado en #Boston y encontró supuestos implicados. http://t.co/84GH58OHJP	416678640	boston_fake_03,boston_fake_35	LuisDavCastillo	Wed Apr 17 16:50:58 +0000 2013	fake
 324587251503886336	Lets see if 4chan identified the bomber http://t.co/0kmcAxkqup http://t.co/kJZq8NAMx6	182672637	boston_fake_22	John_E_Smoker	Wed Apr 17 18:16:45 +0000 2013	fake
-325256788201066500	Been following the stuff happening in boston. Got linked this regarding the bombings. http://t.co/hlDQKHxiC3 Sometimes 4chan gets it right	327970384	boston_fake_03	Sikoras1992	Fri Apr 19 14:37:15 +0000 2013	fake
-325085389582901250	Impressive and gamechanging - crowd-sourced detective work via 4chan http://t.co/OaESe8EiV9	40958266	boston_fake_03	DerekMartian	Fri Apr 19 03:16:11 +0000 2013	fake
-325265059897024512	4chan ThinkTank - Imgur http://t.co/ND1kJvPhKb	251738262	boston_fake_03	pinboardpopular	Fri Apr 19 15:10:08 +0000 2013	fake
+325256788201066500	Been following the stuff happening in boston. Got linked this regarding the bombings. http://t.co/hlDQKHxiC3 Sometimes 4chan gets it right	327970384	boston_fake_03,boston_fake_35	Sikoras1992	Fri Apr 19 14:37:15 +0000 2013	fake
+325085389582901250	Impressive and gamechanging - crowd-sourced detective work via 4chan http://t.co/OaESe8EiV9	40958266	boston_fake_03,boston_fake_35	DerekMartian	Fri Apr 19 03:16:11 +0000 2013	fake
+325265059897024512	4chan ThinkTank - Imgur http://t.co/ND1kJvPhKb	251738262	boston_fake_03,boston_fake_35	pinboardpopular	Fri Apr 19 15:10:08 +0000 2013	fake
 324512492011278337	@YourAnonNews  4chan spots another pair of suspects. This one really gave me chills. http://t.co/MMMaoxEVau	775750844	boston_fake_04	AnonJackAzzz	Wed Apr 17 13:19:41 +0000 2013	fake
-325431243183370241	@bilinkis @goldenmax yo también tengo mis dudas de que este resuelto después de haber visto lo de 4chan. http://t.co/aU8pBZl4U2	44552093	boston_fake_03	soke_	Sat Apr 20 02:10:29 +0000 2013	fake
+325431243183370241	@bilinkis @goldenmax yo también tengo mis dudas de que este resuelto después de haber visto lo de 4chan. http://t.co/aU8pBZl4U2	44552093	boston_fake_03,boston_fake_35	soke_	Sat Apr 20 02:10:29 +0000 2013	fake
 324389467345522688	4chan spots a Boston Marathon bombings suspect http://t.co/mRFDwpNczH	6953352	boston_fake_15	shamhardy	Wed Apr 17 05:10:50 +0000 2013	fake
-324674672413270016	#4chan's effort to catch the #Boston bombers - amazing http://t.co/mj0YoHuZW7	1330339369	boston_fake_03	3IPBitcoin	Thu Apr 18 00:04:08 +0000 2013	fake
+324674672413270016	#4chan's effort to catch the #Boston bombers - amazing http://t.co/mj0YoHuZW7	1330339369	boston_fake_03,boston_fake_35	3IPBitcoin	Thu Apr 18 00:04:08 +0000 2013	fake
 324551203562344449	RT @C_R3yna06: 4chan &gt; FBI http://t.co/da4FbhJwWs	44428351	boston_fake_05	TAK3OV3R	Wed Apr 17 15:53:31 +0000 2013	fake
-325047131905871872	4chan ThinkTank - Imgur http://t.co/VOLezm4vxO	85853721	boston_fake_03	GugaCash	Fri Apr 19 00:44:09 +0000 2013	fake
-325233605964070913	Reddit and 4chan's efforts to identify the Boston bombers. http://t.co/nNnMLnBzms http://t.co/sBsROBIg2P Not even close	17153944	boston_fake_03	fraserferguson	Fri Apr 19 13:05:08 +0000 2013	fake
+325047131905871872	4chan ThinkTank - Imgur http://t.co/VOLezm4vxO	85853721	boston_fake_03,boston_fake_35	GugaCash	Fri Apr 19 00:44:09 +0000 2013	fake
+325233605964070913	Reddit and 4chan's efforts to identify the Boston bombers. http://t.co/nNnMLnBzms http://t.co/sBsROBIg2P Not even close	17153944	boston_fake_03,boston_fake_35	fraserferguson	Fri Apr 19 13:05:08 +0000 2013	fake
 324526766481870848	Plus look how he's carrying it. Looks like he's about to sit it down. #prayforboston http://t.co/YyWGdbsI1e	276369555	boston_fake_01	colegoodlett	Wed Apr 17 14:16:25 +0000 2013	fake
-325166355747835906	Kudos 4chan http://t.co/KccwMpAJr3 Damn, their images are better than the FBI's	26971007	boston_fake_03	blebon	Fri Apr 19 08:37:55 +0000 2013	fake
+325166355747835906	Kudos 4chan http://t.co/KccwMpAJr3 Damn, their images are better than the FBI's	26971007	boston_fake_03,boston_fake_35	blebon	Fri Apr 19 08:37:55 +0000 2013	fake
 324611966758957056	I'll laugh my ass off if 4chan actually were able to find the bombing suspect, this picture looks somewhat convicing http://t.co/rk1eDwr7Vq	36779913	boston_fake_14	chris_longboard	Wed Apr 17 19:54:58 +0000 2013	fake
 324996041285980160	It looks like 4chan might have really found something... #PrayForBoston #BostonBombing http://t.co/DrLPtbJ7pb	490491827	boston_fake_18	DaltonLGilbert	Thu Apr 18 21:21:09 +0000 2013	fake
 325148067336683521	Wow, so Sunil Tripathi is a Brown U Student that has been missing since March... http://t.co/ku2PtAuB4o.	43996430	boston_fake_19	cjbrinton	Fri Apr 19 07:25:14 +0000 2013	fake
 324572829230178305	The people of Boston ask your help identifying these men associated with the backpack bombs at the Boston Marathon http://t.co/u5fX9Gksbf	16611239	boston_fake_31	Glossology	Wed Apr 17 17:19:27 +0000 2013	fake
-324583175953215489	#Boston #4chan ThinkTank: http://t.co/AbLIYga34E	130234848	boston_fake_03	samueljcarlson	Wed Apr 17 18:00:34 +0000 2013	fake
-325264870591299585	@ReyxelRojiblank lo dicen por 4chan. De ahi sacaron las fotos los telediarios españoles haciendolas pasar x oficiales http://t.co/8S2sa3nAp2	355568240	boston_fake_03	yoryito2004	Fri Apr 19 15:09:22 +0000 2013	fake
+324583175953215489	#Boston #4chan ThinkTank: http://t.co/AbLIYga34E	130234848	boston_fake_03,boston_fake_35	samueljcarlson	Wed Apr 17 18:00:34 +0000 2013	fake
+325264870591299585	@ReyxelRojiblank lo dicen por 4chan. De ahi sacaron las fotos los telediarios españoles haciendolas pasar x oficiales http://t.co/8S2sa3nAp2	355568240	boston_fake_03,boston_fake_35	yoryito2004	Fri Apr 19 15:09:22 +0000 2013	fake
 324527935413436416	@TheMatthewKeys Have you seen/heard anything about this? http://t.co/v82rdCVIqH (via @dcturner @SimoRoth &amp; 4Chan users )	16886246	boston_fake_01	Siouxfire	Wed Apr 17 14:21:03 +0000 2013	fake
-325135810326327296	Se ve que los de 4chan ya han empezado http://t.co/onL4644fVG	335312155	boston_fake_03	CaoticaEconomia	Fri Apr 19 06:36:32 +0000 2013	fake
+325135810326327296	Se ve que los de 4chan ya han empezado http://t.co/onL4644fVG	335312155	boston_fake_03,boston_fake_35	CaoticaEconomia	Fri Apr 19 06:36:32 +0000 2013	fake
 324569471253630976	@OClairouin @samuellaurent Et 4Chan étant 4Chan, ca donne aussi http://t.co/qv0ZSH2jB6	193786214	boston_fake_26	tseymat	Wed Apr 17 17:06:06 +0000 2013	fake
-325196907955761152	@Barbaraayuso Antes los de 4chan ya habían hecho algo parecido http://t.co/nNp6jAdiun	48271233	boston_fake_03	juayhi	Fri Apr 19 10:39:19 +0000 2013	fake
-325307612050640897	http://t.co/qOdBcSpmgG 4chan teve a manha, apos que a mídia nem vai falar nada	251241632	boston_fake_03	pedro_antuna	Fri Apr 19 17:59:13 +0000 2013	fake
+325196907955761152	@Barbaraayuso Antes los de 4chan ya habían hecho algo parecido http://t.co/nNp6jAdiun	48271233	boston_fake_03,boston_fake_35	juayhi	Fri Apr 19 10:39:19 +0000 2013	fake
+325307612050640897	http://t.co/qOdBcSpmgG 4chan teve a manha, apos que a mídia nem vai falar nada	251241632	boston_fake_03,boston_fake_35	pedro_antuna	Fri Apr 19 17:59:13 +0000 2013	fake
 325030184199811072	http://t.co/oCwVNpf2PI http://t.co/9hwsuCH7TJ 83 C.S.I. 4chan.	1105084915	boston_fake_07	benittto6	Thu Apr 18 23:36:49 +0000 2013	fake
-324578933427302401	Maybe we should outsource our intelligence work to #Reddit and #4chan: Check out http://t.co/hyLs9xHDis and http://t.co/hcciCk4uW2	10935232	boston_fake_03	eshep	Wed Apr 17 17:43:42 +0000 2013	fake
+324578933427302401	Maybe we should outsource our intelligence work to #Reddit and #4chan: Check out http://t.co/hyLs9xHDis and http://t.co/hcciCk4uW2	10935232	boston_fake_03,boston_fake_35	eshep	Wed Apr 17 17:43:42 +0000 2013	fake
 324526695531040769	4chan is on the case. http://t.co/wHctp20bzf	19722133	boston_fake_01	MoronPundit	Wed Apr 17 14:16:08 +0000 2013	fake
-324582306511728640	so, 4chan helps find #bostonmarathon bombing suspect(s)? http://t.co/wkrFlxTL9D	15441577	boston_fake_03	m_dunn	Wed Apr 17 17:57:06 +0000 2013	fake
+324582306511728640	so, 4chan helps find #bostonmarathon bombing suspect(s)? http://t.co/wkrFlxTL9D	15441577	boston_fake_03,boston_fake_35	m_dunn	Wed Apr 17 17:57:06 +0000 2013	fake
 324590719153094659	Los de 4chan cuando quieren son muy grandes. Buscando al causante de lo de Boston: http://t.co/AV0xaxekyX	112528053	boston_fake_29	Seroko111	Wed Apr 17 18:30:32 +0000 2013	fake
-325289142575570946	Um es nochmal festzuhalten:4chan &amp; reddit lagen mit ihrem witch hunt zu 100%falsch. Nur unschuldige wurden "erkannt". http://t.co/D47totRig7	72614956	boston_fake_03	SenorNiceGuy	Fri Apr 19 16:45:49 +0000 2013	fake
+325289142575570946	Um es nochmal festzuhalten:4chan &amp; reddit lagen mit ihrem witch hunt zu 100%falsch. Nur unschuldige wurden "erkannt". http://t.co/D47totRig7	72614956	boston_fake_03,boston_fake_35	SenorNiceGuy	Fri Apr 19 16:45:49 +0000 2013	fake
 325236486381383680	some amazing analysis of the photographic evidence from the #bostonbombing by the guys at #4chan: http://t.co/YkNtXSjGr9	10468472	boston_fake_27	shanemagee	Fri Apr 19 13:16:35 +0000 2013	fake
 324999947592294400	Fucking faggots B. I pray karma lets us get to them 1st America. #BostonBombers #prayforboston http://t.co/akkg2YdEQS	130547662	boston_fake_06	PictureSpitter	Thu Apr 18 21:36:40 +0000 2013	fake
-324517112234270720	4chan tror sig ha hittat en misstänkt. http://t.co/GliZFUrrLt https://t.co/sCqwcSi5UM Alla är detektiver numera ;)	18763641	boston_fake_01	davexphoto	Wed Apr 17 13:38:03 +0000 2013	fake
+324517112234270720	4chan tror sig ha hittat en misstänkt. http://t.co/GliZFUrrLt https://t.co/sCqwcSi5UM Alla är detektiver numera ;)	18763641	boston_fake_01,boston_fake_17	davexphoto	Wed Apr 17 13:38:03 +0000 2013	fake
 325154445354758144	Shits crazy RT @Blueraydre: FBI missing person / Bombing suspect = Same person #4Chan http://t.co/FezORWhKV7	133608149	boston_fake_10	ALPRADA	Fri Apr 19 07:50:35 +0000 2013	fake
-324629642151591936	http://t.co/43c7yFQSAt #boston #4chan	20729120	boston_fake_03	uaddafac	Wed Apr 17 21:05:12 +0000 2013	fake
-324590308845301760	#4Chan does #Boston http://t.co/4e3DthsbzF	20654315	boston_fake_03	abraaten	Wed Apr 17 18:28:54 +0000 2013	fake
+324629642151591936	http://t.co/43c7yFQSAt #boston #4chan	20729120	boston_fake_03,boston_fake_35	uaddafac	Wed Apr 17 21:05:12 +0000 2013	fake
+324590308845301760	#4Chan does #Boston http://t.co/4e3DthsbzF	20654315	boston_fake_03,boston_fake_35	abraaten	Wed Apr 17 18:28:54 +0000 2013	fake
 324590475413696512	@JasonBarnett Probably not then, 4chan &amp; Reddit IDed younger guys. I saw another mention of a white baseball cap: http://t.co/Sc42hfu7Yi	1199551	boston_fake_04	TierneyODea	Wed Apr 17 18:29:34 +0000 2013	fake
-324572177020116992	Look at this #4chan thinktank pic gallery: http://t.co/51CkG45awR Remember those faces. If they're arrested, the Internet solved this case.	125386263	boston_fake_03	marty_lang	Wed Apr 17 17:16:51 +0000 2013	fake
+324572177020116992	Look at this #4chan thinktank pic gallery: http://t.co/51CkG45awR Remember those faces. If they're arrested, the Internet solved this case.	125386263	boston_fake_03,boston_fake_35	marty_lang	Wed Apr 17 17:16:51 +0000 2013	fake
 324789744192065536	4chan investiga lo de Boston. http://t.co/EZ35IYwBgS	255744834	boston_fake_04	Postfapshotgun	Thu Apr 18 07:41:23 +0000 2013	fake
 324325848352161792	Damn 4chan already got the bomber http://t.co/bkvZkOwtvS	16259867	boston_fake_15	tmoneymonsta	Wed Apr 17 00:58:02 +0000 2013	fake
-324559423441879042	Interesting case of internet vigilantism using #4Chan/#Reddit; response to #Boston http://t.co/jsK9B9UwfU http://t.co/HFmw7m0XAl @interwhut	285193554	boston_fake_03	myrandatanck	Wed Apr 17 16:26:11 +0000 2013	fake
-325163221218635777	El poder de 4chan: http://t.co/7Gq6gejRu2 miles de fotos analizadas y encuentran a ""sospechosos"" (ojo, pillar con pinzas)	14054063	boston_fake_03	alexsobrino	Fri Apr 19 08:25:27 +0000 2013	fake
+324559423441879042	Interesting case of internet vigilantism using #4Chan/#Reddit; response to #Boston http://t.co/jsK9B9UwfU http://t.co/HFmw7m0XAl @interwhut	285193554	boston_fake_03,boston_fake_35	myrandatanck	Wed Apr 17 16:26:11 +0000 2013	fake
+325163221218635777	El poder de 4chan: http://t.co/7Gq6gejRu2 miles de fotos analizadas y encuentran a ""sospechosos"" (ojo, pillar con pinzas)	14054063	boston_fake_03,boston_fake_35	alexsobrino	Fri Apr 19 08:25:27 +0000 2013	fake
 325145935007068161	Sunil Tripathi was last seen in March. http://t.co/Yn6V5xNXGC	35714423	boston_fake_19	vetoshield	Fri Apr 19 07:16:46 +0000 2013	fake
 325173128491851776	@Genowolf Well here's a short explanation according to 4chan (who found him before the FBI) http://t.co/xqKLuMldnl	284792574	boston_fake_12	Boo_Billamy	Fri Apr 19 09:04:49 +0000 2013	fake
 324504112001597443	Because 4chan doesn't like bad guys with no cause. http://t.co/lHK2NBqK2Q	600369612	boston_fake_14	SecretlyAlaskan	Wed Apr 17 12:46:23 +0000 2013	fake
 324584780928806912	FBI believes they found the PREP who left the bag at the Boston Marathon looks American smh http://t.co/fDMBVFKmMR	29442869	boston_fake_01	JAY_AON	Wed Apr 17 18:06:56 +0000 2013	fake
-324582851939012608	#boston #4chan #anon http://t.co/sOU5FGv3Fk	17576000	boston_fake_03	perlox	Wed Apr 17 17:59:17 +0000 2013	fake
-324771811508240385	#Boston bombing crowdsourced investigation. Fascinating and a bit scary too http://t.co/9Sgw6Tr2in #4chan #reddit	3558021	boston_fake_03	yan_luong	Thu Apr 18 06:30:08 +0000 2013	fake
-324843084997341184	Where's Wally features in pic #12 if you look carefully. RT @C0d3Fr0sty\n#4chan ThinkTank http://t.co/NzOeMpCtps #BostonMarathon	15486485	boston_fake_03	Asher_Wolf	Thu Apr 18 11:13:21 +0000 2013	fake
-325073678465368065	@jaketapper this has been going around on redditt is it real? "4chan Think Tank on Boston Bombers" http://t.co/2i8sXIMVGD	15907414	boston_fake_03	IvanGH	Fri Apr 19 02:29:39 +0000 2013	fake
+324582851939012608	#boston #4chan #anon http://t.co/sOU5FGv3Fk	17576000	boston_fake_03,boston_fake_35	perlox	Wed Apr 17 17:59:17 +0000 2013	fake
+324771811508240385	#Boston bombing crowdsourced investigation. Fascinating and a bit scary too http://t.co/9Sgw6Tr2in #4chan #reddit	3558021	boston_fake_03,boston_fake_35	yan_luong	Thu Apr 18 06:30:08 +0000 2013	fake
+324843084997341184	Where's Wally features in pic #12 if you look carefully. RT @C0d3Fr0sty\n#4chan ThinkTank http://t.co/NzOeMpCtps #BostonMarathon	15486485	boston_fake_03,boston_fake_35	Asher_Wolf	Thu Apr 18 11:13:21 +0000 2013	fake
+325073678465368065	@jaketapper this has been going around on redditt is it real? "4chan Think Tank on Boston Bombers" http://t.co/2i8sXIMVGD	15907414	boston_fake_03,boston_fake_35	IvanGH	Fri Apr 19 02:29:39 +0000 2013	fake
 324173097307615234	Whoever you are. We will find you. #creepy #bostonmarathon #prayforboston http://t.co/7pUOSJeo78	189351771	boston_fake_09	vdivo	Tue Apr 16 14:51:03 +0000 2013	fake
-325201250603905024	4chan exposed the bombers our gov set this shit up http://t.co/SYngrcntEf   &lt;---- click that link and see the truth	187815003	boston_fake_03	IHateUDBeatz	Fri Apr 19 10:56:34 +0000 2013	fake
-325423566889816066	aqui está o dossiê que circulou o 4chan e o reddit nesses ultimos dias http://t.co/rBYjbz5BOc nenhum dos suspeitos eram os reais terroristas	8845262	boston_fake_03	caiomatrix	Sat Apr 20 01:39:59 +0000 2013	fake
-325121564309856257	The 4chan ThinkTank. Crazy how good these guys are. http://t.co/gJMiSGsaMS via @imgur	34731785	boston_fake_03	four_sides	Fri Apr 19 05:39:56 +0000 2013	fake
-324521381385625601	Parece que 4chan encontró al responsable de los ataques\nhttp://t.co/eAGPoL1h31\nhttp://t.co/bOpILmK3yO	17258005	boston_fake_16	ricard089	Wed Apr 17 13:55:01 +0000 2013	fake
-324798038105272320	#boston #4chan Was the Boston bomb an inside job to ban guns? http://t.co/ZBZxrPWHV8	314227180	boston_fake_03	EoinMagrath	Thu Apr 18 08:14:21 +0000 2013	fake
+325201250603905024	4chan exposed the bombers our gov set this shit up http://t.co/SYngrcntEf   &lt;---- click that link and see the truth	187815003	boston_fake_03,boston_fake_35	IHateUDBeatz	Fri Apr 19 10:56:34 +0000 2013	fake
+325423566889816066	aqui está o dossiê que circulou o 4chan e o reddit nesses ultimos dias http://t.co/rBYjbz5BOc nenhum dos suspeitos eram os reais terroristas	8845262	boston_fake_03,boston_fake_35	caiomatrix	Sat Apr 20 01:39:59 +0000 2013	fake
+325121564309856257	The 4chan ThinkTank. Crazy how good these guys are. http://t.co/gJMiSGsaMS via @imgur	34731785	boston_fake_03,boston_fake_35	four_sides	Fri Apr 19 05:39:56 +0000 2013	fake
+324521381385625601	Parece que 4chan encontró al responsable de los ataques\nhttp://t.co/eAGPoL1h31\nhttp://t.co/bOpILmK3yO	17258005	boston_fake_16,boston_fake_17	ricard089	Wed Apr 17 13:55:01 +0000 2013	fake
+324798038105272320	#boston #4chan Was the Boston bomb an inside job to ban guns? http://t.co/ZBZxrPWHV8	314227180	boston_fake_03,boston_fake_35	EoinMagrath	Thu Apr 18 08:14:21 +0000 2013	fake
 325181617981243393	@RaulVB @WajahatAli @Marcotti #SunilTripathiHoax Sunil Tripathi and Suspect 2 - They are two very different persons http://t.co/7X56eZRk6l	24573827	boston_fake_34	Marcotti	Fri Apr 19 09:38:33 +0000 2013	fake
 325308244912402432	FBI missing person / Bombing suspect = Same person #4Chan http://t.co/XE9Cy0M3hm #RETWEET	394024863	boston_fake_10	jeffrogomez	Fri Apr 19 18:01:44 +0000 2013	fake
-324849780708745216	This is the 4chan I admire.\nhttp://t.co/5JubZbQkrL\n#4chan #Boston	322373921	boston_fake_03	The_Horologist	Thu Apr 18 11:39:57 +0000 2013	fake
+324849780708745216	This is the 4chan I admire.\nhttp://t.co/5JubZbQkrL\n#4chan #Boston	322373921	boston_fake_03,boston_fake_35	The_Horologist	Thu Apr 18 11:39:57 +0000 2013	fake
 325153259847303168	FBI missing person / Bombing suspect = Same person #4Chan http://t.co/ZO7tzCvN1Z	191175879	boston_fake_10	Blueraydre	Fri Apr 19 07:45:52 +0000 2013	fake
-325353056017473536	@Twitler13 Like this Pic says: http://t.co/RaALSLsCPq  the 4Chan thinktank with the suspicious bomb squad guys SHARE AS MUCH AS POSSIBLE RT	1032812042	boston_fake_03	Anonymoussops	Fri Apr 19 20:59:47 +0000 2013	fake
-325206482457083904	They really are legion ... http://t.co/o4cJIf3K2N #4Chan #Boston bombs.	1215009757	boston_fake_03	Mawu3n4	Fri Apr 19 11:17:22 +0000 2013	fake
-324547942100914176	#4chan en chasse. RT “@joffrey: Boston suspects. http://t.co/V64bYrUt6q”	18002294	boston_fake_03	imnotalone	Wed Apr 17 15:40:33 +0000 2013	fake
+325353056017473536	@Twitler13 Like this Pic says: http://t.co/RaALSLsCPq  the 4Chan thinktank with the suspicious bomb squad guys SHARE AS MUCH AS POSSIBLE RT	1032812042	boston_fake_03,boston_fake_35	Anonymoussops	Fri Apr 19 20:59:47 +0000 2013	fake
+325206482457083904	They really are legion ... http://t.co/o4cJIf3K2N #4Chan #Boston bombs.	1215009757	boston_fake_03,boston_fake_35	Mawu3n4	Fri Apr 19 11:17:22 +0000 2013	fake
+324547942100914176	#4chan en chasse. RT “@joffrey: Boston suspects. http://t.co/V64bYrUt6q”	18002294	boston_fake_03,boston_fake_35	imnotalone	Wed Apr 17 15:40:33 +0000 2013	fake
 325062042342027264	Reddit is on to something... Boston Bomber #2 sure looks like missing student Sunil Tripathi.  http://t.co/GyCIuofsW4 http://t.co/koZ2qL8Od9	14456276	boston_fake_13	ChristianChance	Fri Apr 19 01:43:24 +0000 2013	fake
-325034100215910400	Tweeted yesterday morning: RT @ScottBeale: 4chan’s analysis of photos from the Boston bombings http://t.co/g5M3DOkGYt	176585658	boston_fake_03	Jobanthe1st	Thu Apr 18 23:52:22 +0000 2013	fake
+325034100215910400	Tweeted yesterday morning: RT @ScottBeale: 4chan’s analysis of photos from the Boston bombings http://t.co/g5M3DOkGYt	176585658	boston_fake_03,boston_fake_35	Jobanthe1st	Thu Apr 18 23:52:22 +0000 2013	fake
 324532372479541249	Did #4chan just identify a #Boston bombing suspect? http://t.co/qdHO2wiNGq	47395300	boston_fake_01	jriseden	Wed Apr 17 14:38:41 +0000 2013	fake
-325392508685266945	Flipant les fotos creades desde 4chan per resoldre el tema de la marató de bostón : http://t.co/wk19uWHGU3 http://t.co/zrQhDJdgIz	203499546	boston_fake_03	ernestoschez	Fri Apr 19 23:36:34 +0000 2013	fake
-324585727109234688	My mind is blown - http://t.co/cudmctY3uE\n#4chan	16145556	boston_fake_03	copymatt	Wed Apr 17 18:10:42 +0000 2013	fake
-325695542875258881	4chan analysis of the Boston bombs.. they look like secret police! http://t.co/GuajqSaJUj #4chan #boston #bombs #internetjustice	201185778	boston_fake_03	McKGraKucPauNad	Sat Apr 20 19:40:43 +0000 2013	fake
+325392508685266945	Flipant les fotos creades desde 4chan per resoldre el tema de la marató de bostón : http://t.co/wk19uWHGU3 http://t.co/zrQhDJdgIz	203499546	boston_fake_03,boston_fake_35	ernestoschez	Fri Apr 19 23:36:34 +0000 2013	fake
+324585727109234688	My mind is blown - http://t.co/cudmctY3uE\n#4chan	16145556	boston_fake_03,boston_fake_35	copymatt	Wed Apr 17 18:10:42 +0000 2013	fake
+325695542875258881	4chan analysis of the Boston bombs.. they look like secret police! http://t.co/GuajqSaJUj #4chan #boston #bombs #internetjustice	201185778	boston_fake_03,boston_fake_35	McKGraKucPauNad	Sat Apr 20 19:40:43 +0000 2013	fake
 325082497417359363	Wow... the missing kid Sunil Tripathi sure does look like suspect #2... http://t.co/uegrHmBeJJ	8349572	boston_fake_13	justin_hart	Fri Apr 19 03:04:41 +0000 2013	fake
-324694897301016577	The internet is an amazing thing. #4chan \nhttp://t.co/kgnanlYVnP	116903390	boston_fake_03	mongrol23	Thu Apr 18 01:24:30 +0000 2013	fake
+324694897301016577	The internet is an amazing thing. #4chan \nhttp://t.co/kgnanlYVnP	116903390	boston_fake_03,boston_fake_35	mongrol23	Thu Apr 18 01:24:30 +0000 2013	fake
 324579998524661760	People seem sure this is the ID'd suspect http://t.co/bAqmmF8u0g Can they find any credible news feeds confirming it?	46051092	boston_fake_14	RichardLuciano1	Wed Apr 17 17:47:56 +0000 2013	fake
-325217425295568896	"@dallassnyder: Did 4chan just find the Boston bomber? http://t.co/POjR3wXrWl" @danrweki @davie_mo @rude_end @RugyendoQuotes	279004495	boston_fake_03	Mr_Bgzmc	Fri Apr 19 12:00:51 +0000 2013	fake
-324628936522866688	So eery RT @tommyrusso: Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/FGrTohNiUU	48133037	boston_fake_03	chefklb01	Wed Apr 17 21:02:24 +0000 2013	fake
-324612286327177216	Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/pBCKU3M7RK	3382981	boston_fake_03	tommyrusso	Wed Apr 17 19:56:14 +0000 2013	fake
-324627749266419712	RT @tommyrusso: Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/Jy7aUSDTFN #boston #prayforboston	423957364	boston_fake_03	Caleb__bartlett	Wed Apr 17 20:57:41 +0000 2013	fake
-324622319114932224	RT @tommyrusso: Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/Jy7aUSDTFN #boston #prayforboston	15878114	boston_fake_03	erikblair	Wed Apr 17 20:36:06 +0000 2013	fake
+325217425295568896	"@dallassnyder: Did 4chan just find the Boston bomber? http://t.co/POjR3wXrWl" @danrweki @davie_mo @rude_end @RugyendoQuotes	279004495	boston_fake_03,boston_fake_35	Mr_Bgzmc	Fri Apr 19 12:00:51 +0000 2013	fake
+324628936522866688	So eery RT @tommyrusso: Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/FGrTohNiUU	48133037	boston_fake_03,boston_fake_35	chefklb01	Wed Apr 17 21:02:24 +0000 2013	fake
+324612286327177216	Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/pBCKU3M7RK	3382981	boston_fake_03,boston_fake_35	tommyrusso	Wed Apr 17 19:56:14 +0000 2013	fake
+324627749266419712	RT @tommyrusso: Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/Jy7aUSDTFN #boston #prayforboston	423957364	boston_fake_03,boston_fake_35	Caleb__bartlett	Wed Apr 17 20:57:41 +0000 2013	fake
+324622319114932224	RT @tommyrusso: Amazing Work! #4Chan crowdsources #bomb suspect PHOTOS! http://t.co/Jy7aUSDTFN #boston #prayforboston	15878114	boston_fake_03,boston_fake_35	erikblair	Wed Apr 17 20:36:06 +0000 2013	fake
 324895544176693250	FBI Hunting for 2 Arab Men seen Holding Bags with Bombs at Marathon Explosion. http://t.co/ui7JoGhFCt Photo: http://t.co/754isZ1B8v"	270194849	boston_fake_32	FinaBucher	Thu Apr 18 14:41:48 +0000 2013	fake
 324924246843346945	Boston – FBI Hunting for 2 Arab Men seen Holding Bags with Bombs atMarathon Explosion. http://t.co/yndOBf1VUU  Photo: http://t.co/iTiCnIcnX8	629701822	boston_fake_32	kingcmoney24	Thu Apr 18 16:35:51 +0000 2013	fake
 324876776000077824	Boston – FBI Hunting for 2 Arab Men seen Holding Bags with Bombs at Marathon Explosion. http://t.co/XAegnqiMVs Photo: http://t.co/hq8Iw7jVSB	25222914	boston_fake_32	vosiznies	Thu Apr 18 13:27:13 +0000 2013	fake
-324609009799794689	“@13Damage: BREAKING: 4chan on Imgur helping to find possible bombing suspect. Spread the info please http://t.co/Lv2Cxi0z5n”	57419906	boston_fake_03	JamMasterJim	Wed Apr 17 19:43:13 +0000 2013	fake
-324617563243958272	Extensive analysis of possible Boston marathon bombing suspect pictures. Amazing what can be seen after fact http://t.co/pixKWCwyjI	61306156	boston_fake_03	jim_utter	Wed Apr 17 20:17:12 +0000 2013	fake
-324610085882044416	This site has a ton of evidence (pictures) on who they believe the bombing suspect is from Monday's Boston Marathon. http://t.co/jI4j8ukpmt	376041160	boston_fake_03	Tulaneproblems	Wed Apr 17 19:47:30 +0000 2013	fake
-324577256888496129	WOW! Look at this from the bombing...suspect pictures, etc. http://t.co/7aHT49qSm3 http://t.co/wfUp3s6h2q	15194217	boston_fake_03	MomDot	Wed Apr 17 17:37:03 +0000 2013	fake
+324609009799794689	“@13Damage: BREAKING: 4chan on Imgur helping to find possible bombing suspect. Spread the info please http://t.co/Lv2Cxi0z5n”	57419906	boston_fake_03,boston_fake_35	JamMasterJim	Wed Apr 17 19:43:13 +0000 2013	fake
+324617563243958272	Extensive analysis of possible Boston marathon bombing suspect pictures. Amazing what can be seen after fact http://t.co/pixKWCwyjI	61306156	boston_fake_03,boston_fake_35	jim_utter	Wed Apr 17 20:17:12 +0000 2013	fake
+324610085882044416	This site has a ton of evidence (pictures) on who they believe the bombing suspect is from Monday's Boston Marathon. http://t.co/jI4j8ukpmt	376041160	boston_fake_03,boston_fake_35	Tulaneproblems	Wed Apr 17 19:47:30 +0000 2013	fake
+324577256888496129	WOW! Look at this from the bombing...suspect pictures, etc. http://t.co/7aHT49qSm3 http://t.co/wfUp3s6h2q	15194217	boston_fake_03,boston_fake_35	MomDot	Wed Apr 17 17:37:03 +0000 2013	fake
 324523400280305664	What happens when you give 4chan Pictures of the Boston Bombing? http://t.co/YZssTQTAbZ	20316389	boston_fake_20	leonoldman	Wed Apr 17 14:03:02 +0000 2013	fake
 324588779635605506	CNN keeps referencing these images as the possible suspect of Boston bombing: http://t.co/5GtZuACutC Not confirmed, but they think it's him.	30301496	boston_fake_02	ValeWolf	Wed Apr 17 18:22:50 +0000 2013	fake
-324581928542031872	POSSIBLE pics of the bombing suspect http://t.co/4Let6JyJ0u http://t.co/CS2HU5FNQD	345960906	boston_fake_16	i__Cam	Wed Apr 17 17:55:36 +0000 2013	fake
-324595989090562048	BREAKING: 4chan on Imgur helping to find possible bombing suspect. Spread the info please http://t.co/I1pj0ZUX3x	735424633	boston_fake_03	IndioTechKnow	Wed Apr 17 18:51:29 +0000 2013	fake
-324521785569710080	Pictures of possible suspect in the marathon bombing #BostonStrong http://t.co/PCcl4oz6Wc	26538294	boston_fake_03	BostonDuke	Wed Apr 17 13:56:37 +0000 2013	fake
-324578733061193728	Here are some better pics of the bombing suspect:  http://t.co/O2XEIPvSKj….    http://t.co/XQY1yh4HOv	17430737	boston_fake_03	eaglesdontflock	Wed Apr 17 17:42:55 +0000 2013	fake
-324625688244142080	really good collection of pictures from the bombing, ID'ing a possible suspect or two.. http://t.co/Ji3uwBrMeL	612320117	boston_fake_03	mindofaloner	Wed Apr 17 20:49:29 +0000 2013	fake
+324581928542031872	POSSIBLE pics of the bombing suspect http://t.co/4Let6JyJ0u http://t.co/CS2HU5FNQD	345960906	boston_fake_16,boston_fake_17	i__Cam	Wed Apr 17 17:55:36 +0000 2013	fake
+324595989090562048	BREAKING: 4chan on Imgur helping to find possible bombing suspect. Spread the info please http://t.co/I1pj0ZUX3x	735424633	boston_fake_03,boston_fake_35	IndioTechKnow	Wed Apr 17 18:51:29 +0000 2013	fake
+324521785569710080	Pictures of possible suspect in the marathon bombing #BostonStrong http://t.co/PCcl4oz6Wc	26538294	boston_fake_03,boston_fake_35	BostonDuke	Wed Apr 17 13:56:37 +0000 2013	fake
+324578733061193728	Here are some better pics of the bombing suspect:  http://t.co/O2XEIPvSKj….    http://t.co/XQY1yh4HOv	17430737	boston_fake_03,boston_fake_35	eaglesdontflock	Wed Apr 17 17:42:55 +0000 2013	fake
+324625688244142080	really good collection of pictures from the bombing, ID'ing a possible suspect or two.. http://t.co/Ji3uwBrMeL	612320117	boston_fake_03,boston_fake_35	mindofaloner	Wed Apr 17 20:49:29 +0000 2013	fake
 324584196586737664	4chan may have possibly found the bomber http://t.co/sYHDit5Jql #boston #fbi	565203769	boston_fake_01	SamTEXASShelton	Wed Apr 17 18:04:37 +0000 2013	fake
-324531787931996160	Some people on 4chan think they've found the Boston Marathon bomber. Pics: https://t.co/hXSy7pRJmG \nhttp://t.co/b6aBpsPDgR  You thoughts?	15795580	boston_fake_01	Jake_W	Wed Apr 17 14:36:22 +0000 2013	fake
+324531787931996160	Some people on 4chan think they've found the Boston Marathon bomber. Pics: https://t.co/hXSy7pRJmG \nhttp://t.co/b6aBpsPDgR  You thoughts?	15795580	boston_fake_01,boston_fake_16	Jake_W	Wed Apr 17 14:36:22 +0000 2013	fake
 324501940329394178	4chan may have found the bomber http://t.co/8WgBpTobZP	79222411	boston_fake_01	Buddish_Atheist	Wed Apr 17 12:37:46 +0000 2013	fake
 324513161904537601	.@bwake77 Someone from 4chan might have found the bomber. \nhttp://t.co/vGDU99gh9D	131997737	boston_fake_01	kiki_strumm3r	Wed Apr 17 13:22:21 +0000 2013	fake
 324536663495811072	4chan may have found the bomber http://t.co/O5eCzW5t8N	97799827	boston_fake_01	Jake_Hicks77	Wed Apr 17 14:55:44 +0000 2013	fake
 324552680838156290	Wooooooooow 4chan found the Boston bomber??? http://t.co/t6nm3K1VfW	132601075	boston_fake_01	IsaacHaze85	Wed Apr 17 15:59:23 +0000 2013	fake
-324573102723981314	4Chan *may* have found the Boston Marathon bomber http://t.co/9qaVHcy2lI http://t.co/muPn4k1Tjn http://t.co/f54RxTD904	15941343	boston_fake_01	db	Wed Apr 17 17:20:32 +0000 2013	fake
+324573102723981314	4Chan *may* have found the Boston Marathon bomber http://t.co/9qaVHcy2lI http://t.co/muPn4k1Tjn http://t.co/f54RxTD904	15941343	boston_fake_01,boston_fake_16,boston_fake_17	db	Wed Apr 17 17:20:32 +0000 2013	fake
 324475416893091840	"4chan may have found the bomber" http://t.co/OFv018lyP1	65639095	boston_fake_01	ShikkokuNoHana	Wed Apr 17 10:52:22 +0000 2013	fake
 324505971017785344	!!!! 4chan might have just found the Boston bomber: http://t.co/jBpq59fwsQ	15459365	boston_fake_01	Larington	Wed Apr 17 12:53:47 +0000 2013	fake
 324508845353349120	“@SimoRoth: !!!! 4chan might have just found the Boston bomber: http://t.co/PFDGNzuKin”  &lt; Amazing if this turns out to be true	14234180	boston_fake_01	jearle	Wed Apr 17 13:05:12 +0000 2013	fake
-324573369095831552	4Chan may have found the bomber:\nhttp://t.co/NbnR1v9VYM &amp; http://t.co/8EG7FATluO &amp; http://t.co/HJZx1LuAVq\nIs that the 8yr old in yellow sqr?	179986153	boston_fake_01	gregdickey	Wed Apr 17 17:21:36 +0000 2013	fake
+324573369095831552	4Chan may have found the bomber:\nhttp://t.co/NbnR1v9VYM &amp; http://t.co/8EG7FATluO &amp; http://t.co/HJZx1LuAVq\nIs that the 8yr old in yellow sqr?	179986153	boston_fake_01,boston_fake_16,boston_fake_17	gregdickey	Wed Apr 17 17:21:36 +0000 2013	fake
 325513392318185472	Atentos a la "investigación ciudadana P2P" de lo de Boston que se han montado los del 4chan estos... :O http://t.co/wWFCxu0EuT (vía @axebra)	118874116	boston_fake_03	biglasses	Sat Apr 20 07:36:55 +0000 2013	fake
 325164356943900672	@dansinker Did you see this post? here's a gif of the missing brown student blending into the boston bombing suspect\n http://t.co/d27pWdvZUK	57345997	boston_fake_10	JarredMcGinnis	Fri Apr 19 08:29:58 +0000 2013	fake
 325150935364022272	wow RT @BillyCorben: Gif of missing Brown University student Sunil Tripathi and Suspect 2 in Boston Marathon bombing: http://t.co/viQvc4pjzB	18198414	boston_fake_10	warriorsworld	Fri Apr 19 07:36:38 +0000 2013	fake
 325159845764415488	“RT @BillyCorben: Gif of missing Brown University student Sunil Tripathi and Suspect 2 in Boston Marathon bombing: http://t.co/sS3cY70Xmd” 😧	59021599	boston_fake_10	theclarissab	Fri Apr 19 08:12:03 +0000 2013	fake
 324583664564445184	The detail of these photos used to identify the Boston Marathon bombing suspect is bananas… http://t.co/8zZ1v2ix39	25950370	boston_fake_03	SeanCablinasian	Wed Apr 17 18:02:30 +0000 2013	fake
 325146251190472704	I think it's safe to say this is suspect 2 and Boston police scanner has identified him by name https://t.co/I95ZkqGDSf	14016032	boston_fake_21	CDReed	Fri Apr 19 07:18:01 +0000 2013	fake
-324638323316506624	Alleged Boston Bombing Suspect Photo Timeline: http://t.co/pNtIunONXJ #boston #marathon #4chan	4913841	boston_fake_03	ADNxtc	Wed Apr 17 21:39:42 +0000 2013	fake
+324638323316506624	Alleged Boston Bombing Suspect Photo Timeline: http://t.co/pNtIunONXJ #boston #marathon #4chan	4913841	boston_fake_03,boston_fake_35	ADNxtc	Wed Apr 17 21:39:42 +0000 2013	fake
 324554636923125761	Second suspect in the Boston Bombings http://t.co/DAjka26PHI	15933201	boston_fake_01	Icey_Ranks	Wed Apr 17 16:07:10 +0000 2013	fake
-325042121499365376	Good compilation of Boston suspect photos/evidence. RT @gothamity: http://t.co/UHQipaAyaD	10103142	boston_fake_03	DirtySocks85	Fri Apr 19 00:24:15 +0000 2013	fake
+325042121499365376	Good compilation of Boston suspect photos/evidence. RT @gothamity: http://t.co/UHQipaAyaD	10103142	boston_fake_03,boston_fake_35	DirtySocks85	Fri Apr 19 00:24:15 +0000 2013	fake
 324596948969603073	Suspect for Boston bombing: http://t.co/qmnwPMsiz5	83416503	boston_fake_08	JohnJCooke	Wed Apr 17 18:55:18 +0000 2013	fake
-324599027293372417	http://t.co/rdcx4cgQNW BOSTON SUSPECT ID'D? #prayforboston #boston #marathon #bostonmarathon	257276752	boston_fake_03	GTreize13	Wed Apr 17 19:03:33 +0000 2013	fake
-324519561577762818	This going around about Boston bombing suspect #Boston #prayforboston \n        http://t.co/YWJiMpmKEZ	1262145379	boston_fake_03	DESTINATIONphto	Wed Apr 17 13:47:47 +0000 2013	fake
-324574648492752896	While everybody Tweets about possible ID of Boston marathon bombing suspect, this is DEFINITELY worth a look - http://t.co/0RHZ1V2Gxj	217430745	boston_fake_03	DanBrechlinRJ	Wed Apr 17 17:26:41 +0000 2013	fake
+324599027293372417	http://t.co/rdcx4cgQNW BOSTON SUSPECT ID'D? #prayforboston #boston #marathon #bostonmarathon	257276752	boston_fake_03,boston_fake_35	GTreize13	Wed Apr 17 19:03:33 +0000 2013	fake
+324519561577762818	This going around about Boston bombing suspect #Boston #prayforboston \n        http://t.co/YWJiMpmKEZ	1262145379	boston_fake_03,boston_fake_35	DESTINATIONphto	Wed Apr 17 13:47:47 +0000 2013	fake
+324574648492752896	While everybody Tweets about possible ID of Boston marathon bombing suspect, this is DEFINITELY worth a look - http://t.co/0RHZ1V2Gxj	217430745	boston_fake_03,boston_fake_35	DanBrechlinRJ	Wed Apr 17 17:26:41 +0000 2013	fake
 325157607427948544	An interesting GIF of the missing Brown student and the Boston Marathon suspect http://t.co/mtPUoPrMb9	465947829	boston_fake_10	jeverettesports	Fri Apr 19 08:03:09 +0000 2013	fake
 325177553713238016	Morphing du suspect de Boston et celui arrêté ce soir (mort ? ) http://t.co/IVOxnEzY5z	591487443	boston_fake_10	truit49	Fri Apr 19 09:22:24 +0000 2013	fake
 325157291395543040	@NickyAACampbell Boston bomb suspect Sunil Tripathi https://t.co/ReF1Hmfngv	138477097	boston_fake_11	4d2b	Fri Apr 19 08:01:54 +0000 2013	fake
-324627017486188544	4Chan crowd-sourcing the Boston marathon bombing suspect search via security footage: http://t.co/1VuBqDgCnw	255151550	boston_fake_03	Laur_Ly	Wed Apr 17 20:54:46 +0000 2013	fake
-324627453190475776	RT "@sodagrrl: More images of bombing suspect? http://t.co/geBhZ6NC1q" #BostonMarathon #BostonBombings	188337532	boston_fake_03	Jaysway4	Wed Apr 17 20:56:30 +0000 2013	fake
+324627017486188544	4Chan crowd-sourcing the Boston marathon bombing suspect search via security footage: http://t.co/1VuBqDgCnw	255151550	boston_fake_03,boston_fake_35	Laur_Ly	Wed Apr 17 20:54:46 +0000 2013	fake
+324627453190475776	RT "@sodagrrl: More images of bombing suspect? http://t.co/geBhZ6NC1q" #BostonMarathon #BostonBombings	188337532	boston_fake_03,boston_fake_35	Jaysway4	Wed Apr 17 20:56:30 +0000 2013	fake
 324593912528400384	Photo collage showing apparent bombing suspect.  I can't vouch for the source though.  #24hourNews http://t.co/VaDma7dvH1	16044083	boston_fake_28	cscojames	Wed Apr 17 18:43:14 +0000 2013	fake
 324551861426348033	Boston Bombing Suspect? http://t.co/ExORdEKI6M	116553896	boston_fake_14	BRADOnTheBeat	Wed Apr 17 15:56:08 +0000 2013	fake
-324585690157428736	Boston marathon suspect Pictures http://t.co/lnSptYRcmu\nhttp://t.co/j65rHXOKdV\nhttp://t.co/79P47s9G07	14541832	boston_fake_01	fireashes	Wed Apr 17 18:10:33 +0000 2013	fake
-325004295181316096	@DJDharmaNYC Boston Marathon Bombing Suspect: ID'd By 4Chan Think Tank? | http://t.co/MQPtvYB8sQ | http://t.co/LHM2HTwpcV	310552948	boston_fake_03	trustkill28	Thu Apr 18 21:53:56 +0000 2013	fake
-324612897936375809	“@tradefast: very nice work - re bombing suspect http://t.co/UGNscEvylf”	46791557	boston_fake_03	awaknd	Wed Apr 17 19:58:40 +0000 2013	fake
-324623991107112960	RT @chucktweet: Interesting photo composites and notes on potential Boston bombing suspect backpacks. http://t.co/gxWTB7fPqL	28741557	boston_fake_03	ThommyNoodlez	Wed Apr 17 20:42:45 +0000 2013	fake
-324561185485758464	@PhillyD Maybe give this a RT. Possible suspect from the Boston Marathon. http://t.co/XTNhlnagUs\n\nFull gallery http://t.co/q11e4g88yP	29290431	boston_fake_03	MyNameIs_Landon	Wed Apr 17 16:33:11 +0000 2013	fake
+324585690157428736	Boston marathon suspect Pictures http://t.co/lnSptYRcmu\nhttp://t.co/j65rHXOKdV\nhttp://t.co/79P47s9G07	14541832	boston_fake_01,boston_fake_16,boston_fake_17	fireashes	Wed Apr 17 18:10:33 +0000 2013	fake
+325004295181316096	@DJDharmaNYC Boston Marathon Bombing Suspect: ID'd By 4Chan Think Tank? | http://t.co/MQPtvYB8sQ | http://t.co/LHM2HTwpcV	310552948	boston_fake_03,boston_fake_35	trustkill28	Thu Apr 18 21:53:56 +0000 2013	fake
+324612897936375809	“@tradefast: very nice work - re bombing suspect http://t.co/UGNscEvylf”	46791557	boston_fake_03,boston_fake_35	awaknd	Wed Apr 17 19:58:40 +0000 2013	fake
+324623991107112960	RT @chucktweet: Interesting photo composites and notes on potential Boston bombing suspect backpacks. http://t.co/gxWTB7fPqL	28741557	boston_fake_03,boston_fake_35	ThommyNoodlez	Wed Apr 17 20:42:45 +0000 2013	fake
+324561185485758464	@PhillyD Maybe give this a RT. Possible suspect from the Boston Marathon. http://t.co/XTNhlnagUs\n\nFull gallery http://t.co/q11e4g88yP	29290431	boston_fake_03,boston_fake_07,boston_fake_35	MyNameIs_Landon	Wed Apr 17 16:33:11 +0000 2013	fake
 325152550556925952	RT @Salon: GIF compares missing Brown student Sunil Tripathi to Boston bomb suspect named on police scanner http://t.co/cYiKEuI7ad	39176578	boston_fake_10	91Jayhawk	Fri Apr 19 07:43:03 +0000 2013	fake
 325077806201593857	Boston Bomber suspect is missing person Sunil Tripathi http://t.co/vX3JpU1maU	319791338	boston_fake_33	LegenDerry_	Fri Apr 19 02:46:03 +0000 2013	fake
 325149579282640896	interesting photo http://t.co/BBUV2VmW6o Boston suspect #2?	474363536	boston_fake_25	JonTytor	Fri Apr 19 07:31:15 +0000 2013	fake
-324581847541628928	More images of bombing suspect? http://t.co/QybGwWmm54	17292374	boston_fake_03	sodagrrl	Wed Apr 17 17:55:17 +0000 2013	fake
+324581847541628928	More images of bombing suspect? http://t.co/QybGwWmm54	17292374	boston_fake_03,boston_fake_35	sodagrrl	Wed Apr 17 17:55:17 +0000 2013	fake
 324533353623724032	Possible suspect in Boston bombing? http://t.co/coVIB7vBmI #auspol	50858723	boston_fake_14	Tadlette	Wed Apr 17 14:42:35 +0000 2013	fake
-324850550954930176	Possible suspects identified  - http://t.co/vELg37ddTG #Bostonbombings #4chan	39736888	boston_fake_03	Bernie_Nam	Thu Apr 18 11:43:01 +0000 2013	fake
+324850550954930176	Possible suspects identified  - http://t.co/vELg37ddTG #Bostonbombings #4chan	39736888	boston_fake_03,boston_fake_35	Bernie_Nam	Thu Apr 18 11:43:01 +0000 2013	fake
 324568758234521600	4chan sur les traces du poseur de bombes de Boston http://t.co/EV7f9rtQ0U	147967552	boston_fake_04	pigxid	Wed Apr 17 17:03:16 +0000 2013	fake
 324558591690424322	RT @Nico_dude: 4chan sur les traces du poseur de bombes de Boston http://t.co/jbmEquwBYJ	18342885	boston_fake_04	jthibon	Wed Apr 17 16:22:52 +0000 2013	fake
 324557656482271232	4chan sur les traces du poseur de bombes de Boston http://t.co/1n14IVLsQt	80682624	boston_fake_04	Nico_dude	Wed Apr 17 16:19:09 +0000 2013	fake
 325410298943119362	RIP Tamerlan and free Dzhokhar Tsarnaev. This corrupt society will never stop blaming people. Who will… http://t.co/xAGDE2Zyha	404834177	boston_real_26	theophilustfu	Sat Apr 20 00:47:15 +0000 2013	real
 325161806463135744	#Boston #Watertown #BPD New picture of Sunil Tripathi tonight, in a 7-11: https://t.co/ae5deGvp5s	32633543	boston_real_11	Jonathan_Mora	Fri Apr 19 08:19:50 +0000 2013	real
-325142448881930240	New Release: Suspect 1: Mike Mulugeta Suspect 2: Sunil Tripathi.  || Suspect 1: http://t.co/K8e3G5wBUp || Suspect 2: http://t.co/0weisVVMKJ"	185472553	boston_real_06	KAL301	Fri Apr 19 07:02:55 +0000 2013	real
+325142448881930240	New Release: Suspect 1: Mike Mulugeta Suspect 2: Sunil Tripathi.  || Suspect 1: http://t.co/K8e3G5wBUp || Suspect 2: http://t.co/0weisVVMKJ"	185472553	boston_real_06,boston_real_07	KAL301	Fri Apr 19 07:02:55 +0000 2013	real
 325147818568347648	1 of the boston marathon suspects is \nSunil Tripathi Missing brown/ivy league student http://t.co/kz83UIbr4b	5416852	boston_real_07	Bahska	Fri Apr 19 07:24:15 +0000 2013	real
 325269317312737280	Boston bombings suspects innocent: father #BostonMarathon #Kenya http://t.co/CJq4ZhKnqp http://t.co/saen4lqRwc	1310276047	boston_real_27	NewsKenyaCoKe	Fri Apr 19 15:27:03 +0000 2013	real
 325258025873063936	This is so sad the bomber and the 8 year old boy that died #prayforboston http://t.co/nU4h6hmYT3	345397274	boston_real_25	jZukauskas	Fri Apr 19 14:42:11 +0000 2013	real
 325289987044151296	This is just sad πΆπ”. The 8 yr old that died, the bomber, nd the bag. #prayforboston #watertown http://t.co/bADr2c817m	322146919	boston_real_25	bailabzz305	Fri Apr 19 16:49:11 +0000 2013	real
-325145026764099584	#Breaking: New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/7wd814SlJx ||  Suspect 2: http://t.co/I2sCCfr03W	871024819	boston_real_06	fraudstrong	Fri Apr 19 07:13:09 +0000 2013	real
-325143399583850496	RT @YourAnonNews: New FBI #BostonMarathon Suspect Photos: ||1: http://t.co/XUtUbLmbk5 ||  2: http://t.co/ru7OBMIWRw	20044440	boston_real_06	Edourdoo	Fri Apr 19 07:06:41 +0000 2013	real
-325239528753332225	RT @YourAnonNews New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/thdDmfqKcL Suspect 2: http://t.co/FhcMARx5vA	43180061	boston_real_06	tapoutG	Fri Apr 19 13:28:40 +0000 2013	real
-325140954430443520	#Breaking: New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/pfCNpvPnt6 ||  Suspect 2: http://t.co/y6WqWPY8Fs	279390084	boston_real_06	YourAnonNews	Fri Apr 19 06:56:59 +0000 2013	real
+325145026764099584	#Breaking: New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/7wd814SlJx ||  Suspect 2: http://t.co/I2sCCfr03W	871024819	boston_real_06,boston_real_07	fraudstrong	Fri Apr 19 07:13:09 +0000 2013	real
+325143399583850496	RT @YourAnonNews: New FBI #BostonMarathon Suspect Photos: ||1: http://t.co/XUtUbLmbk5 ||  2: http://t.co/ru7OBMIWRw	20044440	boston_real_06,boston_real_07	Edourdoo	Fri Apr 19 07:06:41 +0000 2013	real
+325239528753332225	RT @YourAnonNews New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/thdDmfqKcL Suspect 2: http://t.co/FhcMARx5vA	43180061	boston_real_06,boston_real_07	tapoutG	Fri Apr 19 13:28:40 +0000 2013	real
+325140954430443520	#Breaking: New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/pfCNpvPnt6 ||  Suspect 2: http://t.co/y6WqWPY8Fs	279390084	boston_real_06,boston_real_07	YourAnonNews	Fri Apr 19 06:56:59 +0000 2013	real
 325410298943119362	RIP Tamerlan and free Dzhokhar Tsarnaev. This corrupt society will never stop blaming people. Who willβ€¦ http://t.co/xAGDE2Zyha	404834177	boston_real_26	theophilustfu	Sat Apr 20 00:47:15 +0000 2013	real
 325082419059367938	RT @TEDchris: Reddit users crowdsource photo of Boston suspect, zoom, enhance. http://t.co/rqaFZNjpFa Source: http://t.co/wRjT7Sgpdo	60133202	boston_real_10	ScottWilsonID	Fri Apr 19 03:04:23 +0000 2013	real
 325106721062260737	β€@TEDchris: Wild how Reddit users crowdsource photo of Boston suspect, zoom, enhance. http://t.co/kE9fQtsGRS Source: http://t.co/3A9iunoY1lβ€	8288752	boston_real_10	jamiesk	Fri Apr 19 04:40:57 +0000 2013	real
@@ -12430,11 +12759,11 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325309548783083523	Fuck these two tools #prayforboston http://t.co/yaGYL9mrKV	224550839	boston_real_26	aGoodmanThinks	Fri Apr 19 18:06:55 +0000 2013	real
 327097650212139008	Since the second Boston bombing suspect was apprehended on Friday, there's been a wave of support,β€¦ http://t.co/zd3fcVj2Dt	256386386	boston_real_23	0fficial__M	Wed Apr 24 16:32:11 +0000 2013	real
 325416365009813504	#THATSHOWWEFREAKINGDOIT #CAPTURED #ManHunt #BostonBomber #WeGotHim #BostonMarathon #GoToHell #USARules http://t.co/YOyFtLL0ZN	438793613	boston_real_27	ItsAlexisMoore	Sat Apr 20 01:11:22 +0000 2013	real
-324998429178744832	#BostonMarathon PHOTOS of Suspect 2 in white cap, seen planting bomb on surveillance http://t.co/wUDHoIHlYe http://t.co/W2Hjpha485	240361325	boston_real_01	ActionNewsMatt	Thu Apr 18 21:30:38 +0000 2013	real
+324998429178744832	#BostonMarathon PHOTOS of Suspect 2 in white cap, seen planting bomb on surveillance http://t.co/wUDHoIHlYe http://t.co/W2Hjpha485	240361325	boston_real_01,boston_real_02	ActionNewsMatt	Thu Apr 18 21:30:38 +0000 2013	real
 325137399275483138	New FBI photo of Boston bombing suspect 2 http://t.co/IPHLJuk2VR	19329393	boston_real_07	PerezHilton	Fri Apr 19 06:42:51 +0000 2013	real
 325000577606115328	Suspect #1 for Boston Marathon attack #repost #this http://t.co/kWc4NkFT4p	825687612	boston_real_29	whateverwonder	Thu Apr 18 21:39:10 +0000 2013	real
 325016269864718337	Boston bombings suspect #2 #Boston #bostonmarathon #handsoverhearts #prayforboston #bostonhelp #bostonstrong http://t.co/Qh2nPX5jX0	595025793	boston_real_02	mclarkhamilton	Thu Apr 18 22:41:31 +0000 2013	real
-325210841895026688	Boston Marathon bombing suspects ID'd as brothers from Russia; 1 suspect dead http://t.co/hm5M668jyG #Boston http://t.co/Qr6FyqVNEC	16164289	boston_real_06	MyCentralJersey	Fri Apr 19 11:34:41 +0000 2013	real
+325210841895026688	Boston Marathon bombing suspects ID'd as brothers from Russia; 1 suspect dead http://t.co/hm5M668jyG #Boston http://t.co/Qr6FyqVNEC	16164289	boston_real_06,boston_real_07	MyCentralJersey	Fri Apr 19 11:34:41 +0000 2013	real
 325411921564139520	Beyond any doubt the single  most sad/disturbing/eerie/bizarre photo I have ever seen. #prayforbostonβ€¦ http://t.co/fhDFGISNFg	98309019	boston_real_25	davidjbier	Sat Apr 20 00:53:42 +0000 2013	real
 325264020812730368	This made me tear up a lil . π‘π™π±π¥π” #boston #prayforboston http://t.co/Q7alf8LFcm	94599508	boston_real_25	RenatoMRego	Fri Apr 19 15:06:00 +0000 2013	real
 325234960535539712	The FBI has released a new photo of suspect Dzhokhar Tsarnaev http://t.co/9xFMdgkFUQ	14511951	boston_real_27	HuffingtonPost	Fri Apr 19 13:10:31 +0000 2013	real
@@ -12452,7 +12781,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325319288091185152	This just makes your heart drop. #Prayforboston #bostonmarathon there are multiple kids and familiesβ€¦ http://t.co/RrX5aoZIIl	18464321	boston_real_25	Michael_Luv	Fri Apr 19 18:45:37 +0000 2013	real
 325012307019177984	Suspect 2 from Boston Marathon Bombing. http://t.co/TiDZbkUxBi	167613890	boston_real_02	IGot_MyReasons	Thu Apr 18 22:25:47 +0000 2013	real
 325055137171271681	Boston Marathon suspect #2 with white hat (far left) running from explosion, no backpack.. http://t.co/fB8KXPURE5	18490583	boston_real_15	ruraldeity	Fri Apr 19 01:15:58 +0000 2013	real
-325072170235617282	Unknown Suspect #2 Boston Bombing #FBI Wanted Poster http://t.co/uiqLE3QRms	19207243	boston_real_01	Ammidon	Fri Apr 19 02:23:39 +0000 2013	real
+325072170235617282	Unknown Suspect #2 Boston Bombing #FBI Wanted Poster http://t.co/uiqLE3QRms	19207243	boston_real_01,boston_real_02,boston_real_05,boston_real_29	Ammidon	Fri Apr 19 02:23:39 +0000 2013	real
 325252804832792576	#BOLO for #boston bombing suspect Dzhokhar Tsarnaev. He may be driving a gray Honda CRV, withβ€¦ http://t.co/mILcZLdM1z	15391102	boston_real_27	wusa9	Fri Apr 19 14:21:26 +0000 2013	real
 325216123224207361	Boston RIC released this flier showing at large suspect Dzhokhar Tsarnaev. He may be armed &amp; dangerous. http://t.co/haGuhy7xYA ht @suntimes	23439779	boston_real_12	soonisnow	Fri Apr 19 11:55:40 +0000 2013	real
 325329217367711745	#CommunityAlert: As search for Dzhokhar Tsarnaev continues, we thank you 4 your continued cooperation &amp; support. http://t.co/zZD1SzTO8u	19185333	boston_real_27	Boston_Police	Fri Apr 19 19:25:04 +0000 2013	real
@@ -12500,11 +12829,11 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325289314634330112	#PunkAss #bitch #DzhokharTsarnaev #BostonMarathon #bomber http://t.co/0uK6BElcd2	308742477	boston_real_27	Mosh_Deadward	Fri Apr 19 16:46:30 +0000 2013	real
 325163720441475073	Suspect #2 in Boston Marathon bombing still at large and considered armed and dangerous. #watertown http://t.co/TqPjzxPV6O	22114216	boston_real_11	mandaya	Fri Apr 19 08:27:26 +0000 2013	real
 325231783413174273	Updated photo of Boston bombing suspect 2 released by FBI: http://t.co/RbhrOFmq1P http://t.co/FMGLupgBpx	28635233	boston_real_27	dkny	Fri Apr 19 12:57:54 +0000 2013	real
-325185091389239296	Guys! #FBI Suspect 2 of the #BostonMarathon Bombing of #ATLARGE IN #BOSTON. Right now reports areβ€¦ http://t.co/RyesjkAZ5h	1360427264	boston_real_02	Bique4Tars	Fri Apr 19 09:52:22 +0000 2013	real
+325185091389239296	Guys! #FBI Suspect 2 of the #BostonMarathon Bombing of #ATLARGE IN #BOSTON. Right now reports areβ€¦ http://t.co/RyesjkAZ5h	1360427264	boston_real_02,boston_real_04	Bique4Tars	Fri Apr 19 09:52:22 +0000 2013	real
 325003591083520000	Suspect in Boston marathon bombing http://t.co/0Uc1Eas3dN	335150201	boston_real_01	TwittaSmile	Thu Apr 18 21:51:09 +0000 2013	real
 325025723070955520	#FBI #Suspected #Boston #BostonMarathon #Prayforboston #pray4boston http://t.co/Hn6ZgqhYhj	129959523	boston_real_24	FedeMaXiPeru	Thu Apr 18 23:19:05 +0000 2013	real
 325101207649656832	A very clear photo of suspect no. 2 in Boston -- check him out in white hat turning  corner on the left http://t.co/OnCLOX3JTm	101315380	boston_real_15	Duckfannumero1	Fri Apr 19 04:19:02 +0000 2013	real
-325150263683993600	You're done!! Can't wait until they find these assholes!! #prayforboston #justice π™β¤ http://t.co/pPX1iDNoNU	244653228	boston_real_06	JBunnySnooks90	Fri Apr 19 07:33:58 +0000 2013	real
+325150263683993600	You're done!! Can't wait until they find these assholes!! #prayforboston #justice π™β¤ http://t.co/pPX1iDNoNU	244653228	boston_real_06,boston_real_07	JBunnySnooks90	Fri Apr 19 07:33:58 +0000 2013	real
 325172591360872449	Police: Boston bombing "Suspect #2" reportedly armed and dangerous still on the loose -- latest photo: http://t.co/4IaxRbq36o	14511951	boston_real_11	HuffingtonPost	Fri Apr 19 09:02:42 +0000 2013	real
 325399825057189888	#Dzokhar #Tsarnaev #gta #saintsrow #gameover #boston #marathon Use game genie next time, you'll lastβ€¦ http://t.co/lPAGRFTLRW	202070599	boston_real_27	JerseyJiN410	Sat Apr 20 00:05:38 +0000 2013	real
 325274069853429760	Victim Martin Richard standing in front of bomber moments before #prayforboston #RIP πΆ http://t.co/04kBxmIrgd	314330551	boston_real_25	Maria_Renee8	Fri Apr 19 15:45:56 +0000 2013	real
@@ -12529,7 +12858,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325208618364461057	Brothers possibly from Chechnya....WOW!! Gotta Google that one. #Manhunt #Craziness http://t.co/9oVyuBY9Xt	240478191	boston_real_07	MsKnwItAlll	Fri Apr 19 11:25:51 +0000 2013	real
 325020428739432449	Suspect 2 in #BostonMarathon bombing - do you know this man? 1-800-CALL-FBI http://t.co/2JY0pvnaym	1118320249	boston_real_02	PPDMattVeasey	Thu Apr 18 22:58:03 +0000 2013	real
 325038909635579905	White hat to the left of photo..walking away from scene no bag http://t.co/lfPuoXQrXC boston bombing suspect. From reddit	169141592	boston_real_15	Glecour	Fri Apr 19 00:11:29 +0000 2013	real
-325037166478639104	#ManHunt #Boston #Wanted nbcnews's photo http://t.co/Wd3RKjdDyU	27639394	boston_real_04	MeAndMissJones	Fri Apr 19 00:04:34 +0000 2013	real
+325037166478639104	#ManHunt #Boston #Wanted nbcnews's photo http://t.co/Wd3RKjdDyU	27639394	boston_real_04,boston_real_24	MeAndMissJones	Fri Apr 19 00:04:34 +0000 2013	real
 325022301991084032	Does anyone else think that this suspect from the Boston Bombings looks like @kyleskrazy http://t.co/AxJjegmSyf	506726439	boston_real_02	re_KLINEr_34	Thu Apr 18 23:05:30 +0000 2013	real
 325276939445207040	#BOLO for #boston bombing suspect Dzhokhar Tsarnaev. He may be driving a gray Honda CRV, withβ€¦ http://t.co/mILcZLdM1z	551131903	boston_real_27	dnofdc	Fri Apr 19 15:57:20 +0000 2013	real
 325407401861849088	So disturbing. Get the  bastard !! #bostonmarathon #bostonstrong http://t.co/c5H36wFEUX	412667161	boston_real_25	maryellenkeefe	Sat Apr 20 00:35:45 +0000 2013	real
@@ -12576,7 +12905,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325002063404756996	#bostonmarathon #boston here are 2 persons of interest the #fbi would like to speak with. If youβ€¦ http://t.co/iUhWD17dGM	21168053	boston_real_24	KyleJDuffield	Thu Apr 18 21:45:04 +0000 2013	real
 325276917915869184	#repost -- I have no words.. This picture is self-explanatory #RIP Martin β¤β¤ #BostonStrong #PrayForBoston http://t.co/qBk1DXrCLm	33115719	boston_real_25	alysse_nicole	Fri Apr 19 15:57:15 +0000 2013	real
 325156797902114816	Image of Boston Marathon Blasts Suspect http://t.co/Nu7sw8OdjZ	308029684	boston_real_04	andrewadms	Fri Apr 19 07:59:56 +0000 2013	real
-325213917737525248	Praying for everybody safety  in #Watertown . Praying that whatever it takes let the last one come toβ€¦ http://t.co/Pxn3WrT8ax	334342284	boston_real_06	dukehigh1221	Fri Apr 19 11:46:54 +0000 2013	real
+325213917737525248	Praying for everybody safety  in #Watertown . Praying that whatever it takes let the last one come toβ€¦ http://t.co/Pxn3WrT8ax	334342284	boston_real_06,boston_real_07	dukehigh1221	Fri Apr 19 11:46:54 +0000 2013	real
 325428775217152002	#captured #endofmanhunt #rotinhell good job everyone! http://t.co/sMmGSSWh7Q	457127175	boston_real_27	jHK_lee3	Sat Apr 20 02:00:40 +0000 2013	real
 325093818582048768	Wow. "@magicandrew: From friend in local news in Boston. MT @amorse9: http://t.co/Decg0C5HNf Suspect #2 moving around corner on left."	101570231	boston_real_15	psgrigg	Fri Apr 19 03:49:40 +0000 2013	real
 325242587491491840	New released photo of suspect Dzhokhar Tsarnaev currently being sought by police http://t.co/11YWNXR1ON http://t.co/MdJmk7saSP	66237835	boston_real_27	AOL	Fri Apr 19 13:40:50 +0000 2013	real
@@ -12594,9 +12923,9 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325393081065164801	You can run but you can't hide!! You're going down you lil fucker!!!π π‘ #boston #watertownβ€¦ http://t.co/cKoacCkVCj	321236099	boston_real_27	Cifarox151	Fri Apr 19 23:38:50 +0000 2013	real
 325255092599144449	FBI ΰΉ€ΰΈΰΈΆΰΈ ΰΈ²ΰΈΰΈ΅ΰΈ·ΰΈ­ΰΈ£ΰΈ°ΰΉ€ΰΈΰΈ΄ΰΈ”ΰΈ΅ΰΈ²ΰΈ£ΰΈ²ΰΈΰΈ­ΰΈ™ΰΈΰΈ­ΰΈΰΈ•ΰΈ±ΰΈ™ ΰΈ—ΰΈµΰΉΰΈΰΈ³ΰΈ¥ΰΈ±ΰΈ‡ΰΈ«ΰΈ¥ΰΈΰΈ«ΰΈ™ΰΈµ ΰΈΰΈ·ΰΉΰΈ­ Dzhokhar A. Tsarnaev   http://t.co/AHzNQyJuCj	390532223	boston_real_27	pai_kanyapat	Fri Apr 19 14:30:31 +0000 2013	real
 325163468334448640	We're coming for you. #PrayForBoston #PrayerWorks http://t.co/SPgmV4vXiS	33054830	boston_real_11	MrMarcosMiranda	Fri Apr 19 08:26:26 +0000 2013	real
-325132992752283648	New pictures of suspect 1: http://t.co/HYFXz6IoSr suspect 2: http://t.co/EopUbDzxRZ #BostonMarathon	15814618	boston_real_06	hasanahmad80	Fri Apr 19 06:25:20 +0000 2013	real
+325132992752283648	New pictures of suspect 1: http://t.co/HYFXz6IoSr suspect 2: http://t.co/EopUbDzxRZ #BostonMarathon	15814618	boston_real_06,boston_real_07	hasanahmad80	Fri Apr 19 06:25:20 +0000 2013	real
 325035745419083776	#FBI #Suspected #Boston #BostonMarathon #Prayforboston #pray4boston http://t.co/Hn6ZgqhYhj	102439355	boston_real_24	TheEnigma88	Thu Apr 18 23:58:55 +0000 2013	real
-325170147671277568	#bostonmarathon #cowards #fuckingbastards http://t.co/fbBvsO8Wvv	45070733	boston_real_06	Santiagosway	Fri Apr 19 08:52:59 +0000 2013	real
+325170147671277568	#bostonmarathon #cowards #fuckingbastards http://t.co/fbBvsO8Wvv	45070733	boston_real_06,boston_real_07	Santiagosway	Fri Apr 19 08:52:59 +0000 2013	real
 325076685143801857	Confused as to why on earth are people getting worked up about #bostonmarathon #bombing suspectsβ€¦ http://t.co/v1785Klo8l	15641037	boston_real_24	TarynHofert	Fri Apr 19 02:41:36 +0000 2013	real
 325416498095067137	#Boston #Bombing #Coward #Captured http://t.co/7hOe59kRGS	262240091	boston_real_27	MrNomadic	Sat Apr 20 01:11:53 +0000 2013	real
 325276030656983042	Boston Marathon Bombing UPDATE:\n\nThe suspect pictured above in the black hat, Tamerlan Tsarnaev, 26,β€¦ http://t.co/LVXf4prNz1	1332127069	boston_real_26	TheCelebriTea	Fri Apr 19 15:53:43 +0000 2013	real
@@ -12618,10 +12947,10 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325410596508033024	BREAKING NEWS: BOSTON POLICE GOT EM!!!!! 2nd Suspect in Custody!!! #boston http://t.co/JExFbh0h3L	79539293	boston_real_27	SOMDWxNews	Sat Apr 20 00:48:26 +0000 2013	real
 325115605093081088	Help Boston by sharing the suspects' pics. Suspect #2. #helpboston #bostonbombing #bostonbombers http://t.co/bMd7pspXgq	38087704	boston_real_02	NicoleMonroe	Fri Apr 19 05:16:15 +0000 2013	real
 325006277661040641	And Reddit ID's the hat worn by suspect #1: http://t.co/luw1NonckB The whole "armchair investigator" aspect of this is fascinating.	16193982	boston_real_13	billmurphyjr	Thu Apr 18 22:01:49 +0000 2013	real
-325069181605249024	Photos of the alleged #BostonMarathon bombing suspects. I wonder if they're still consideredβ€¦ http://t.co/mfREFmEcNr	39555442	boston_real_04	CSI_GotGame	Fri Apr 19 02:11:47 +0000 2013	real
+325069181605249024	Photos of the alleged #BostonMarathon bombing suspects. I wonder if they're still consideredβ€¦ http://t.co/mfREFmEcNr	39555442	boston_real_04,boston_real_28	CSI_GotGame	Fri Apr 19 02:11:47 +0000 2013	real
 325010699040485377	Suspect in Boston bombing!!!!!!! Please share and contact police with any information!!!!! Please helpβ€¦ http://t.co/oRESuyz7f5	792551180	boston_real_24	Feelwursoul2014	Thu Apr 18 22:19:23 +0000 2013	real
 325107267282280448	http://t.co/nQcGPKqIfM the Boston suspect, the bomb, and the little boy who died.	724695361	boston_real_25	dylageis	Fri Apr 19 04:43:07 +0000 2013	real
-325087816910528512	New high resolution photograph of suspect in Boston explosion (David Green via New York Times) http://t.co/TdAJcsSuXv http://t.co/YPhgcy47Pb	45565185	boston_real_10	intelligencer	Fri Apr 19 03:25:50 +0000 2013	real
+325087816910528512	New high resolution photograph of suspect in Boston explosion (David Green via New York Times) http://t.co/TdAJcsSuXv http://t.co/YPhgcy47Pb	45565185	boston_real_10,boston_real_15	intelligencer	Fri Apr 19 03:25:50 +0000 2013	real
 325142092655517697	DerniΓ¨re Minute: Publication de la photo du suspect no.1 de l'attentat de Boston @YourAnonNews \nhttp://t.co/AeyG658tvo	281978875	boston_real_06	lavoixpeuhle	Fri Apr 19 07:01:30 +0000 2013	real
 325259819055476736	#WANTED: Suspect identified as 19 year-old Dzhokhar Tsarnaev of Cambridge. Suspect considered armed &amp;β€¦ http://t.co/e6l1TBouBb	74589554	boston_real_27	Jumala12	Fri Apr 19 14:49:18 +0000 2013	real
 325325667036180480	Russians are too Mayne!!!"@BREAKlNG: #WANTED: 19 yr-old Dzhokhar Tsarnaev. Suspect armed and dangerous. Call 1(800) http://t.co/JvTsnTHBCo"	39056772	boston_real_27	G_M_D17	Fri Apr 19 19:10:57 +0000 2013	real
@@ -12636,7 +12965,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325169766090285056	#bostonmarathon this picture makes me angry and sad at the same time!!! #coward!!! http://t.co/m4K0gwg7By	45070733	boston_real_25	Santiagosway	Fri Apr 19 08:51:28 +0000 2013	real
 325056309697327104	Digital billboards showing Boston Marathon suspects around Boston area. Suspect #1: http://t.co/nHAi4RYcAG (@MassBillboards)	1020058453	boston_real_16	BuzzFeedNews	Fri Apr 19 01:20:38 +0000 2013	real
 325222895989166080	This makes me sick to my stomach. #repost #prayforboston http://t.co/huRbqhoZRU	398249419	boston_real_25	mike_ahern11	Fri Apr 19 12:22:35 +0000 2013	real
-324999545534701568	#Suspects in the #bostonmarathon bombings nbcnews's photo http://t.co/szZhqggET4	29873472	boston_real_04	mafphoto	Thu Apr 18 21:35:04 +0000 2013	real
+324999545534701568	#Suspects in the #bostonmarathon bombings nbcnews's photo http://t.co/szZhqggET4	29873472	boston_real_04,boston_real_07	mafphoto	Thu Apr 18 21:35:04 +0000 2013	real
 325415513570295808	Thank god #prayforboston http://t.co/SV8CMfQGMU	68323942	boston_real_27	amandabalsamo	Sat Apr 20 01:07:59 +0000 2013	real
 325257563115503617	β€@Boston_Police #WANTED: Photo of 19 year-old Dzhokhar Tsarnaev released. Suspect considered armed &amp; dangerous. http://t.co/klHoLbXj1fβ€	340350321	boston_real_27	ritarookie	Fri Apr 19 14:40:20 +0000 2013	real
 325256142773186564	FBI photo of Boston bombing suspect!! https://t.co/HWJSHsIUgk	15351231	boston_real_27	DanMarrero	Fri Apr 19 14:34:42 +0000 2013	real
@@ -12653,7 +12982,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325251158291652608	Suspect of the boston marathon bombing at loose his heavily arm may have bombs with him  if you seeβ€¦ http://t.co/7OiYVKlE6l	203467280	boston_real_27	javi521980	Fri Apr 19 14:14:53 +0000 2013	real
 325073174872064000	The 8-year-old boy who died in the Boston bombing was photographed next to a suspect: http://t.co/s8m1oUWCjj	46323313	boston_real_25	scb0212	Fri Apr 19 02:27:39 +0000 2013	real
 325165533798486016	BREAKING: Boston PD says 1 marathon bomber killed in shootout, suspect No. 2 still sought, believed armed, dangerous http://t.co/AQGvVyiP5B	9229732	boston_real_11	MyFOX9	Fri Apr 19 08:34:39 +0000 2013	real
-325051231968059394	Share this. Possible suspect in Boston Bombing #Boston http://t.co/n8iRkG1dZh	616188525	boston_real_02	the_guz_man	Fri Apr 19 01:00:27 +0000 2013	real
+325051231968059394	Share this. Possible suspect in Boston Bombing #Boston http://t.co/n8iRkG1dZh	616188525	boston_real_02,boston_real_03,boston_real_04,boston_real_24,boston_real_29	the_guz_man	Fri Apr 19 01:00:27 +0000 2013	real
 325012235661479936	PLEASE SHARE SHARE SHARE, til u can't share anymore! #SUSPECTS in #bombings #PRAYFORBOSTON http://t.co/m30wwIxnu7	237050553	boston_real_24	LDCCF	Thu Apr 18 22:25:30 +0000 2013	real
 325004822870908929	Here's a clearer picture of the two suspects in #BostonMarathon . Have you seen them? #FBIβ€¦ http://t.co/k1ydZ9YCQn	353537691	boston_real_24	ParaisoSencillo	Thu Apr 18 21:56:02 +0000 2013	real
 325230468775673857	FBI just posted New Photo of Suspect #2,  Dzhokhar Tsarnaev.   #BostonMarthon http://t.co/FB7lbHGSCB	125114542	boston_real_27	lsigalov	Fri Apr 19 12:52:40 +0000 2013	real
@@ -12662,7 +12991,7 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325131169970651136	FBI release new photos of Boston Marathon explosions suspect http://t.co/H5vcdBNWHl http://t.co/DekAhpndDA	1140451	boston_real_07	AntDeRosa	Fri Apr 19 06:18:06 +0000 2013	real
 325414838715154435	#boston #captured #pieceofshit @ Tha Crib!!! http://t.co/IaQ4SS7OuA	35869589	boston_real_27	Juice247gp	Sat Apr 20 01:05:18 +0000 2013	real
 325004772476325888	Here they are. Go get them #BostonMarathon #bombers #fbi #photo #prayforBoston http://t.co/HWsbvrSToP	24470070	boston_real_24	kozmohairnyc	Thu Apr 18 21:55:50 +0000 2013	real
-325215062157582337	One left π’£π’¥π’π¤π”« #bostonmarathon #fuckedwiththewrongcity #wegonnagetyou #youcanrunbutyoucanhideβ€¦ http://t.co/x4XAa50QGM	523922077	boston_real_06	Andrizzle13_	Fri Apr 19 11:51:27 +0000 2013	real
+325215062157582337	One left π’£π’¥π’π¤π”« #bostonmarathon #fuckedwiththewrongcity #wegonnagetyou #youcanrunbutyoucanhideβ€¦ http://t.co/x4XAa50QGM	523922077	boston_real_06,boston_real_07	Andrizzle13_	Fri Apr 19 11:51:27 +0000 2013	real
 325419830129868800	Gotcha fucker, hope you rot in Guantanamo Bay. #prayForboston #Boston http://t.co/mBGRQFYzJW	325284163	boston_real_27	dHamari17	Sat Apr 20 01:25:08 +0000 2013	real
 325234285105790976	New suspect photo from @Boston_Police: 19 year-old Dzhokhar Tsarnaev of Cambridge. Considered armed &amp;β€¦ http://t.co/madlm7RYSW	313846768	boston_real_22	Ariiek_Germanot	Fri Apr 19 13:07:50 +0000 2013	real
 325069559474302976	RT @nycjim Wow. "@magicandrew From friend in news in Boston. MT @amorse9 http://t.co/pYPcGbtXrV Suspect #2 moving around corner on left."	401089503	boston_real_15	jamesx61	Fri Apr 19 02:13:17 +0000 2013	real
@@ -12694,12 +13023,12 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325243169849634816	FBI releases new photo of suspect Dzhokhar Tsarnaev. RT !  http://t.co/7pfrKHQTjx	1334998123	boston_real_27	FOX19BenK	Fri Apr 19 13:43:09 +0000 2013	real
 325232060476321792	FBI releases new photo of remaining Boston bombing suspect http://t.co/rQdDxNgCM0	16538186	boston_real_27	WCSH6	Fri Apr 19 12:59:00 +0000 2013	real
 325166815099617280	FBI Released Images of TWO Boston Marathon Explosion Last Night after Boston Press Meet .\n\nThe BLACKβ€¦ http://t.co/HJGWbtq9vH	308029684	boston_real_26	andrewadms	Fri Apr 19 08:39:44 +0000 2013	real
-325061512622391296	BASKO SAYS IT'S THIS ONE: RT "Boston Bomb suspect pics - GREAT versions by @TheMatthewKeys http://t.co/2uMt0GkdXH"	382134136	boston_real_04	plussone	Fri Apr 19 01:41:18 +0000 2013	real
+325061512622391296	BASKO SAYS IT'S THIS ONE: RT "Boston Bomb suspect pics - GREAT versions by @TheMatthewKeys http://t.co/2uMt0GkdXH"	382134136	boston_real_04,boston_real_18,boston_real_29	plussone	Fri Apr 19 01:41:18 +0000 2013	real
 325220541940252675	#Bomb #BM #8YearOld #Boston #PrayForBoston http://t.co/dE0X73qfRU	335211316	boston_real_25	Trick_SMD	Fri Apr 19 12:13:14 +0000 2013	real
 325200072717520898	This is the 2nd Suspect from the Boston Marathon Bombing,  he is on the run! http://t.co/4AuWwT8LRf	941851482	boston_real_11	Sex_Ta_sy	Fri Apr 19 10:51:53 +0000 2013	real
 325253470724689921	Search continues for Boston bombing suspect still at large #WFTV9 http://t.co/Gp4yMdmIYf http://t.co/oonjogK5zs	15782216	boston_real_27	WFTV	Fri Apr 19 14:24:05 +0000 2013	real
 325313358339375104	Question:  Why is the media not calling Dzhokhar and Tamerlan Tsarnaev TERRORISTS?????\n\nAnswer:β€¦ http://t.co/rEyHzsbKv9	273396421	boston_real_26	trali1975	Fri Apr 19 18:22:03 +0000 2013	real
-325156508134408194	Photo of Boston Marathon Explosion Suspects .\n\nAccording 2 Boston Globe - One gets arrested duringβ€¦ http://t.co/4qYV1QbPy0	308029684	boston_real_02	andrewadms	Fri Apr 19 07:58:47 +0000 2013	real
+325156508134408194	Photo of Boston Marathon Explosion Suspects .\n\nAccording 2 Boston Globe - One gets arrested duringβ€¦ http://t.co/4qYV1QbPy0	308029684	boston_real_02,boston_real_24	andrewadms	Fri Apr 19 07:58:47 +0000 2013	real
 325281651611533312	#BostonMarathon #8yearold #Suspect #Bomb http://t.co/srwDP3EGNE	433076196	boston_real_25	KyleRaposo	Fri Apr 19 16:16:03 +0000 2013	real
 325416894809133059	#prayforboston Let him loose and let the Bean Town southies have him #BostonIrish http://t.co/vR1cUEzgpa	27569271	boston_real_27	AdamDre	Sat Apr 20 01:13:28 +0000 2013	real
 325067419649458178	"@DanPonceTV: A new photo of Boston suspect shows him walking, not running, from scene look to the left of the photo:http://t.co/0FQcqIGWJh"	74752544	boston_real_15	MichaelOrtega08	Fri Apr 19 02:04:46 +0000 2013	real
@@ -12719,15 +13048,15 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 325436649095958528	#manhunt #FBI#1-800 http://t.co/uWfXwT3GZS	372065487	boston_real_27	David33Nicholas	Sat Apr 20 02:31:58 +0000 2013	real
 325038797228228608	http://t.co/ZmRbE2BlKe Boston suspect on left of this photo in white cap - after bomb went off - no sign of backpack.	58595529	boston_real_15	Danarazzi	Fri Apr 19 00:11:02 +0000 2013	real
 325071573855920129	Suspect number 1- please share. #prayforboston http://t.co/0AlxEB9uR8	21325072	boston_real_24	liannesanderson	Fri Apr 19 02:21:17 +0000 2013	real
-325231203282198528	We Got One, Lets Get The Other A$$Hole!!!!! #prayforboston #USA #FBI #Swat #CIA &lt;--- Yeah I Taggedβ€¦ http://t.co/fyMT6FEftK	18223147	boston_real_06	FilthyRockstar	Fri Apr 19 12:55:36 +0000 2013	real
+325231203282198528	We Got One, Lets Get The Other A$$Hole!!!!! #prayforboston #USA #FBI #Swat #CIA &lt;--- Yeah I Taggedβ€¦ http://t.co/fyMT6FEftK	18223147	boston_real_06,boston_real_07	FilthyRockstar	Fri Apr 19 12:55:36 +0000 2013	real
 325045077162479618	@tarastrong http://t.co/sDqkcy1IGt Suspect #2 running away from the explosion. Can this get a RT hoping someone can ID him? #BostonStrong	59341420	boston_real_15	Sixchr	Fri Apr 19 00:36:00 +0000 2013	real
-325069343660597248	Still images from Boston bomber suspect video: http://t.co/vOZY5TBfz9 \n#tcot #tlot #bostonmarathon	849342841	boston_real_04	He_Has_Failed	Fri Apr 19 02:12:25 +0000 2013	real
+325069343660597248	Still images from Boston bomber suspect video: http://t.co/vOZY5TBfz9 \n#tcot #tlot #bostonmarathon	849342841	boston_real_04,boston_real_29	He_Has_Failed	Fri Apr 19 02:12:25 +0000 2013	real
 325424197792833536	π‘π’Άπ‘π’Ά #BostonStrong #prayforboston http://t.co/3C1UERnUBn	256386386	boston_real_27	0fficial__M	Sat Apr 20 01:42:29 +0000 2013	real
 325113428261888001	4chan finds clear picture of Boston marathon bombing subject - zoom in #bostonmarathon \n\nhttps://t.co/ICRl18dixE http://t.co/Pvd5o7q2pY	19515992	boston_real_10	DerRalf	Fri Apr 19 05:07:36 +0000 2013	real
 325070248195801089	Pic of The two suspects sought by the FBI in connection with the #BostonMarathon bombings| http://t.co/GxRZdlxZz9β€ ~ @BloombergNews	34511619	boston_real_24	Gmontadaro	Fri Apr 19 02:16:01 +0000 2013	real
 325136799611645952	This is probably the saddest photo of the Boston bombing of the 8 year old victim and the suspect in the background. http://t.co/3Y2XkZBnW6	599005706	boston_real_25	fuckyeahkayla	Fri Apr 19 06:40:28 +0000 2013	real
 325234531273670657	Breaking: FBI has released new photo of suspect Dzhokhar Tsarnaev.  #manhunt http://t.co/E3DLGFUu6d	16470996	boston_real_27	foxrio2	Fri Apr 19 13:08:49 +0000 2013	real
-325429256471601152	Got that bastard today! #prayforBoston http://t.co/e1N8y1Txi5	250921387	boston_real_27	BlakeWilson18	Sat Apr 20 02:02:35 +0000 2013	real
+325429256471601152	Got that bastard today! #prayforBoston http://t.co/e1N8y1Txi5	250921387	boston_real_27,boston_real_08	BlakeWilson18	Sat Apr 20 02:02:35 +0000 2013	real
 325118230811254785	Possible suspects for the Boston Bombing. #boston #bostonbomb #aidforboston #prayforboston if anyoneβ€¦ http://t.co/jX4ihn9oQy	51439310	boston_real_24	CockneyThuggin	Fri Apr 19 05:26:41 +0000 2013	real
 325083654273519616	Suspect in the Boston Marathon Bombing I hope I find them first http://t.co/YfBxch5wXA	74065488	boston_real_04	Bertneversleeps	Fri Apr 19 03:09:17 +0000 2013	real
 325204319802642433	#Boston bombing subject shot and killed. One down, one to go. #BostonMarathon #rememberingBostonβ€¦ http://t.co/J9xoKuOgbE	29595671	boston_real_06	Flababe10	Fri Apr 19 11:08:46 +0000 2013	real
@@ -13142,19 +13471,6 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 452282509040971776	Underwater bedroom at Poseidon Undersea Resort in Fiji. Who wouldn't like to live in a place like this! http://t.co/3IuvtPhiv2 \n#luxury	2372203838	underwater_fake_01	Lacey_Knight_	Sat Apr 05 03:12:07 +0000 2014	fake
 456262825820684289	Underwater bedroom at Poseidon Undersea Resort located in Fiji. Who wouldn't like to live in a place like this http://t.co/9Ryt007iZ2”	49928104	underwater_fake_01	MissAlisshaDoll	Wed Apr 16 02:48:29 +0000 2014	fake
 457661160985493504	“Underwater bedroom at Poseidon Undersea Resort located in Fiji. Who wouldn't like to live in a place like this http://t.co/6ewlkFaXI9”	2358490120	underwater_fake_01	TamsynMRichards	Sat Apr 19 23:24:58 +0000 2014	fake
-449432519034015744	Rock Elephant http://t.co/CugLl6gc7k via @9GAG http://t.co/kgTbIkYyzG	303999755	elephant_fake_01	TeoAtsek	Fri Mar 28 06:27:17 +0000 2014	fake
-449204205585063936	Rock on Mr Elephant, rock on https://t.co/jUrm6xlcQl http://t.co/3tV7IszIYn	48263427	elephant_fake_01	RaffaLee	Thu Mar 27 15:20:03 +0000 2014	fake
-449216734298271744	Elephant shaped rock. Dat nature http://t.co/IQUQDE0CGU	1953337176	elephant_fake_01	Nadstuh	Thu Mar 27 16:09:50 +0000 2014	fake
-449308181655982081	Elephant Rock http://t.co/o4kJbetnfI	38190194	elephant_fake_01	Coade86	Thu Mar 27 22:13:12 +0000 2014	fake
-449251102249070592	Rock Elephant http://t.co/TelxrbXMdt	1646339984	elephant_fake_01	yFun_net	Thu Mar 27 18:26:24 +0000 2014	fake
-449531492536832001	Rock Elephant http://t.co/hIW5lWgbbP via @9GAG http://t.co/at6Q04QdEt	79173317	elephant_fake_01	CaliforniaMacii	Fri Mar 28 13:00:34 +0000 2014	fake
-449262223656226817	Rock Elephant http://t.co/bWbJgjnr6I	1672664058	elephant_fake_01	FailFlat	Thu Mar 27 19:10:35 +0000 2014	fake
-449454053643124736	Rock Elephant http://t.co/JvaMsPKc85 #NeMemes esto es real??? http://t.co/LAiZUJSPgF	146269583	elephant_fake_01	Turkish001	Fri Mar 28 07:52:51 +0000 2014	fake
-449243704151527424	CC @CorinnePerpinya ! ;) RT @GiveMeInternet: Rock Elephant http://t.co/6ZnB4Ich19	526185604	elephant_fake_01	Pweaunay	Thu Mar 27 17:57:00 +0000 2014	fake
-449228495365738499	Elephant carved out of solid rock. Magnificent http://t.co/DMsOq0IttH	15582699	elephant_fake_01	charlie_white	Thu Mar 27 16:56:34 +0000 2014	fake
-449635236255903744	Elephant rock http://t.co/BN3gww9Cun	1607075166	elephant_fake_01	Bill_Eckert_99	Fri Mar 28 19:52:48 +0000 2014	fake
-449507773177679872	Rock Elephant http://t.co/KN28lpPxmZ http://t.co/NNpAneV8qX	116975041	elephant_fake_01	StarTalerTimes	Fri Mar 28 11:26:19 +0000 2014	fake
-449233581844729856	Rock Elephant http://t.co/rfHKDjulv5	66722117	elephant_fake_01	douglasrvieira	Thu Mar 27 17:16:46 +0000 2014	fake
 453268666747207680	Underwater bedroom at Poseidon Undersea Resort located in Fiji. Who wouldn't like to live in a place like this http://t.co/tkH4wEYz5S	925608110	underwater_fake_01	SunshineHanefy	Mon Apr 07 20:30:46 +0000 2014	fake
 457581739939217409	💋“@nevermore_007: RT "@AmazingPicx: Underwater Bedroom, Conrad Maldives Rangali Island Hotel. http://t.co/QA66HQ3G5S"”	81567516	underwater_fake_02	highrisefacade	Sat Apr 19 18:09:22 +0000 2014	fake
 457583595260215296	💋“@nevermore_007: RT "@AmazingPicx: Underwater Bedroom, Conrad Maldives Rangali Island Hotel. http://t.co/QA66HQ3G5S"”	28734033	underwater_fake_02	Carol_Cole	Sat Apr 19 18:16:45 +0000 2014	fake
@@ -13247,6 +13563,19 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 456494601516249088	"@EARTH_PlCTURES: Underwater bedroom at Poseidon Undersea Resort located in Fiji. http://t.co/gMaKVrj7Ld"\npls 😜	954121106	underwater_fake_01	fathiahmeow	Wed Apr 16 18:09:28 +0000 2014	fake
 456519386530975744	“@EARTH_PlCTURES: Underwater bedroom at Poseidon Undersea Resort located in Fiji. http://t.co/zbO3ZaEjmF” je veux qu'on m'emmène là !	1092795056	underwater_fake_01	EvaGrlt	Wed Apr 16 19:47:58 +0000 2014	fake
 456905447534911488	Underwater bedroom at Poseidon Undersea Resort located in Fiji. http://t.co/jDXeZ4t40J	1670899266	underwater_fake_01	yu7du2ki6	Thu Apr 17 21:22:02 +0000 2014	fake
+449432519034015744	Rock Elephant http://t.co/CugLl6gc7k via @9GAG http://t.co/kgTbIkYyzG	303999755	elephant_fake_01	TeoAtsek	Fri Mar 28 06:27:17 +0000 2014	fake
+449204205585063936	Rock on Mr Elephant, rock on https://t.co/jUrm6xlcQl http://t.co/3tV7IszIYn	48263427	elephant_fake_01	RaffaLee	Thu Mar 27 15:20:03 +0000 2014	fake
+449216734298271744	Elephant shaped rock. Dat nature http://t.co/IQUQDE0CGU	1953337176	elephant_fake_01	Nadstuh	Thu Mar 27 16:09:50 +0000 2014	fake
+449308181655982081	Elephant Rock http://t.co/o4kJbetnfI	38190194	elephant_fake_01	Coade86	Thu Mar 27 22:13:12 +0000 2014	fake
+449251102249070592	Rock Elephant http://t.co/TelxrbXMdt	1646339984	elephant_fake_01	yFun_net	Thu Mar 27 18:26:24 +0000 2014	fake
+449531492536832001	Rock Elephant http://t.co/hIW5lWgbbP via @9GAG http://t.co/at6Q04QdEt	79173317	elephant_fake_01	CaliforniaMacii	Fri Mar 28 13:00:34 +0000 2014	fake
+449262223656226817	Rock Elephant http://t.co/bWbJgjnr6I	1672664058	elephant_fake_01	FailFlat	Thu Mar 27 19:10:35 +0000 2014	fake
+449454053643124736	Rock Elephant http://t.co/JvaMsPKc85 #NeMemes esto es real??? http://t.co/LAiZUJSPgF	146269583	elephant_fake_01	Turkish001	Fri Mar 28 07:52:51 +0000 2014	fake
+449243704151527424	CC @CorinnePerpinya ! ;) RT @GiveMeInternet: Rock Elephant http://t.co/6ZnB4Ich19	526185604	elephant_fake_01	Pweaunay	Thu Mar 27 17:57:00 +0000 2014	fake
+449228495365738499	Elephant carved out of solid rock. Magnificent http://t.co/DMsOq0IttH	15582699	elephant_fake_01	charlie_white	Thu Mar 27 16:56:34 +0000 2014	fake
+449635236255903744	Elephant rock http://t.co/BN3gww9Cun	1607075166	elephant_fake_01	Bill_Eckert_99	Fri Mar 28 19:52:48 +0000 2014	fake
+449507773177679872	Rock Elephant http://t.co/KN28lpPxmZ http://t.co/NNpAneV8qX	116975041	elephant_fake_01	StarTalerTimes	Fri Mar 28 11:26:19 +0000 2014	fake
+449233581844729856	Rock Elephant http://t.co/rfHKDjulv5	66722117	elephant_fake_01	douglasrvieira	Thu Mar 27 17:16:46 +0000 2014	fake
 433209817851654144	Private movie theater, only at #Sochi http://t.co/tEDLsW2tLN	40644092	sochi_fake_3	Xaveriansakanto	Tue Feb 11 12:04:03 +0000 2014	fake
 432025098023759873	Double your toilets, double your fun… http://t.co/Tn2OEJDSGf #sochifails http://t.co/BQcbVrs2f7	22590635	sochi_fake_16	moonytweets	Sat Feb 08 05:36:24 +0000 2014	fake
 431124801126535169	Made a lot of new friends this morning #sochi #Sochi2014 #SochiProblems http://t.co/jGrstUJ7fF	2327737424	sochi_fake_11	SochiFails	Wed Feb 05 17:58:57 +0000 2014	fake
@@ -14150,6 +14479,15 @@ tweetId	tweetText	userId	imageId	username	timestamp	label
 444123242442129408	They found flight MH370!!!!! Lol http://t.co/RfWmWdbv54	1593889836	malaysia_fake_24	ibrahimbathich	Thu Mar 13 14:50:07 +0000 2014	humor
 443320727572205569	Tak lawak pukimak cibai . \n\n“@SYAFIQBAKHARI: MH370 telah dijumpai berkeliaran 😳 http://t.co/cHdISvQwU3”	1101252169	malaysia_fake_24	xxxerul	Tue Mar 11 09:41:12 +0000 2014	humor
 443055672150597633	MH370 selamat mendarat dilapangan Batu Berendam, Melaka. http://t.co/XO8GFM4MaT	444421812	malaysia_fake_24	Nursyaheerin	Mon Mar 10 16:07:58 +0000 2014	humor
+443536693220478976	Una aplicación para tener diversión... ¿la usarías? http: \/\/t.co\/4W2QaPlC8t via @mashable http: \/\/t.co\/6EDPineB4X http: \/\/t.co\/sJ0s1Ciqlz	1357499126	livr_01	OneBlis	Tue Mar 11 23: 59: 22 +0000 2014	fake
+443385193781411840	Utiliser son iPhone en étant bourré ? LIVR, UNE APP SEULEMENT POUR LES BOURRÉS http: \/\/t.co\/MQawPOSiQc #application http: \/\/t.co\/zjKJpKtJNj	1586039396	livr_02	nosinessfr	Tue Mar 11 13: 57: 22 +0000 2014	fake
+443223200059494400	Liver un facebook para cuando andas pedo http: \/\/t.co\/1sivd33y1j http: \/\/t.co\/cP63lVuAz8	856993014	livr_03	Asfaltika1	Tue Mar 11 03: 13: 40 +0000 2014	fake
+443223199853985793	Liver un facebook para cuando andas pedo http: \/\/t.co\/QooT43Vg09 http: \/\/t.co\/ufDf4FuUIC	1222984861	livr_03	Asfaltika_	Tue Mar 11 03: 13: 40 +0000 2014	fake
+443144318555942912	Livr: Social network unlocks features the more drunk you get http: \/\/t.co\/x3lCDzZ7ep is a big fake. But I want it. http: \/\/t.co\/kaOoRVgjot	15211585	livr_04	Tiffy4u	Mon Mar 10 22: 00: 13 +0000 2014	fake
+443141201504792579	#LIVR the social network you can only access when you're drunk… http: \/\/t.co\/VLK8xnAjJT http: \/\/t.co\/WU608w79vk	15144505	livr_03	seanearley	Mon Mar 10 21: 47: 50 +0000 2014	fake
+443134457919193088	VIDEO: Livr, una app con detector de alcohol &gt;&gt; http: \/\/t.co\/aTAETQdnZI http: \/\/t.co\/In27XqumHq	88957440	livr_02	Imagen_Mx	Mon Mar 10 21: 21: 02 +0000 2014	fake
+443107177507471361	¿Qué se acabó la fiesta? ¡Crean una red social para borrachitos! #Livr ¿A quién le regalarías esta App? http: \/\/t.co\/BojivEViv2	1472769786	livr_01	gritapop	Mon Mar 10 19: 32: 38 +0000 2014	fake
+443026334210883585	El mundo está loco... una red social que solo te acepta si estás borracho... #livr http: \/\/t.co\/AQcfOCLych http: \/\/t.co\/CWYG2cilqt	432027164	livr_02	pedroooBCB	Mon Mar 10 14: 11: 23 +0000 2014	fake
 445526611845472256	A new fish discovered in Arkansas ( PIGFISH ) http: \/\/t.co\/qqoMmHVItg	138044681	pigFish_01	Rainbow_Uapa	Mon Mar 17 11: 46: 36 +0000 2014	fake
 445483287038164992	Pigfish http: \/\/t.co\/SKDZvFAx6e	1707171746	pigFish_01	johnfrombrom	Mon Mar 17 08: 54: 26 +0000 2014	fake
 445043948969398272	New species of fish found at Arkansas http: \/\/t.co\/E218nP6DZd	54699626	pigFish_01	oliviadodson_	Sun Mar 16 03: 48: 40 +0000 2014	fake
