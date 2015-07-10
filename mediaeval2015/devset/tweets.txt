@@ -12526,14 +12526,12 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325067648780099586	@psicosour ojo, a el lo acusó 4chan, no es ninguno de los que publicó el FBI. FBI: http://t.co/i0nAZTlDvb 4chan: http://t.co/Lm8lxdrZbw	49216342	boston_fake_03,boston_fake_35	aldovalencia	Fri Apr 19 02:05:41 +0000 2013	humor
 325641051811500032	Some of 4chan comm's #boston images - http://t.co/6Ap7NKHXy8 - fascinating crowd-sourced sleuthing. Also clear: RIP privacy forever.	17384057	boston_fake_03,boston_fake_35	paradoxiq	Sat Apr 20 16:04:11 +0000 2013	humor
 325282792957157377	@bluerickshaw my favorite came from 4chan  http://t.co/Ri2uk4hjw0	67570255	boston_fake_24	shahidsaeed	Fri Apr 19 16:20:35 +0000 2013	humor
-325210840498335744	For shits and giggles, 4chan's conspiracy theory #stillbetterthancnn http://t.co/ANYNIHax6u	114564602,boston_fake_35	pruittc2012	Fri Apr 19 11:34:41 +0000 2013	humor
+325210840498335744	For shits and giggles, 4chan's conspiracy theory #stillbetterthancnn http://t.co/ANYNIHax6u	114564602	boston_fake_35	pruittc2012	Fri Apr 19 11:34:41 +0000 2013	humor
 324548130970423296	4chan runs shit lol. http://t.co/XGsNHy9eeU	33557132	boston_fake_05	FuckYeahGlenn	Wed Apr 17 15:41:18 +0000 2013	humor
 325348966935982080	On Wednesday, Reddit and 4chan users published pictures of Boston Marathon bombing "suspects". They were all wrong. http://t.co/EVldP40pd4	73857293	boston_fake_03	clementgarnier	Fri Apr 19 20:43:33 +0000 2013	humor
-325148067336683521	Wow, so Sunil Tripathi is a Brown U Student that has been missing since March... http://t.co/ku2PtAuB4o.	43996430	boston_fake_19	cjbrinton	Fri Apr 19 07:25:14 +0000 2013	humor
 325196907955761152	@Barbaraayuso Antes los de 4chan ya habían hecho algo parecido http://t.co/nNp6jAdiun	48271233	boston_fake_03	juayhi	Fri Apr 19 10:39:19 +0000 2013	humor
-325289142575570946	Um es nochmal festzuhalten:4chan &amp; reddit lagen mit ihrem witch hunt zu 100%falsch. Nur unschuldige wurden "erkannt". http://t.co/D47totRig7	72614956	boston_fake_03	SenorNiceGuy	Fri Apr 19 16:45:49 +0000 2013	humor
-325163221218635777	El poder de 4chan: http://t.co/7Gq6gejRu2 miles de fotos analizadas y encuentran a ""sospechosos"" (ojo, pillar con pinzas)	14054063	boston_fake_03	alexsobrino	Fri Apr 19 08:25:27 +0000 2013	humor
-325145935007068161	Sunil Tripathi was last seen in March. http://t.co/Yn6V5xNXGC	35714423	boston_fake_19	vetoshield	Fri Apr 19 07:16:46 +0000 2013	humor
+325289142575570946	Um es nochmal festzuhalten:4chan &amp; reddit lagen mit ihrem witch hunt zu 100%falsch. Nur unschuldige wurden "erkannt". http://t.co/D47totRig7	72614956	boston_fake_03,boston_fake_35	SenorNiceGuy	Fri Apr 19 16:45:49 +0000 2013	humor
+325163221218635777	El poder de 4chan: http://t.co/7Gq6gejRu2 miles de fotos analizadas y encuentran a ""sospechosos"" (ojo, pillar con pinzas)	14054063	boston_fake_03,boston_fake_35	alexsobrino	Fri Apr 19 08:25:27 +0000 2013	humor
 325181617981243393	@RaulVB @WajahatAli @Marcotti #SunilTripathiHoax Sunil Tripathi and Suspect 2 - They are two very different persons http://t.co/7X56eZRk6l	24573827	boston_fake_34	Marcotti	Fri Apr 19 09:38:33 +0000 2013	humor
 325513392318185472	Atentos a la "investigación ciudadana P2P" de lo de Boston que se han montado los del 4chan estos... :O http://t.co/wWFCxu0EuT (vía @axebra)	118874116	boston_fake_03,boston_fake_35	biglasses	Sat Apr 20 07:36:55 +0000 2013	humor
 324583664564445184	The detail of these photos used to identify the Boston Marathon bombing suspect is bananas… http://t.co/8zZ1v2ix39	25950370	boston_fake_03,boston_fake_35	SeanCablinasian	Wed Apr 17 18:02:30 +0000 2013	humor
@@ -12544,7 +12542,6 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 324315545572896768	4chan and the bombing. just throwing it out there: http://t.co/dIySO7lXQm http://t.co/NxBi4tW8bQ	180460772	boston_fake_15	Slimlenny	Wed Apr 17 00:17:06 +0000 2013	fake
 324581777614180352	4chan thinks they found pictures of the bomber  -  http://t.co/0y3w24l2q8	46224814	boston_fake_08	iamyadvinder	Wed Apr 17 17:55:00 +0000 2013	fake
 324665423956176896	Ola ke ase, investigando las bombas de Boston o ke ase? #4chan http://t.co/7A4IAbVmM0	90735851	boston_fake_35	rcr866	Wed Apr 17 23:27:23 +0000 2013	fake
-325213350818611201	In which 4Chan thinks playing Where’s Wally with brown people and backpacks will solve terrorism: http://t.co/gk6DVBcOND	76262323	boston_fake_03	jezlash	Fri Apr 19 11:44:39 +0000 2013	fake
 325464125868216321	4chan ThinkTank - Imgur http://t.co/hQt2fhxE48	142785938	boston_fake_03,boston_fake_35	GlebGgs	Sat Apr 20 04:21:09 +0000 2013	fake
 325099014355820544	@DLoesch have you seen this? Bomber #2  looks like missing student Sunil Tripathi.  http://t.co/1phQpB0aMT  http://t.co/X9pqMtnoW5	21769179	boston_fake_13	larrygloverlive	Fri Apr 19 04:10:19 +0000 2013	fake
 325705653026975744	da 4chan think tank BOSTON  http://t.co/0ZbKMA5z0D  #photos #suspects #bombing #marathon	51410043	boston_fake_03,boston_fake_35	IsraelTucker	Sat Apr 20 20:20:53 +0000 2013	fake
@@ -12557,19 +12554,16 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 324510098259050496	@BBCWorld @BBCBreaking @BBCNews Probably worth checking these out. http://t.co/r6nemCxOCr #4chan #identified #boston #marathon #bombers	241810080	boston_fake_03,boston_fake_35	FaultyBeard	Wed Apr 17 13:10:11 +0000 2013	fake
 324635274887970816	my best guess ala 4chan regarding Boston \nhttp://t.co/QTJ4XHonGC\nhere is the rest of the pics 4 chan has of that day, http://t.co/jO0BPnUfmn	109661488	boston_fake_03,boston_fake_07,boston_fake_35	SOS3Today	Wed Apr 17 21:27:35 +0000 2013	fake
 324435205433724929	Hilarious if 4chan solves this bombing case. They got tons of these posted. http://t.co/qI9I0YKatR	16037772	boston_fake_26	BlakeYo	Wed Apr 17 08:12:35 +0000 2013	fake
-325067648780099586	@psicosour ojo, a el lo acusó 4chan, no es ninguno de los que publicó el FBI. FBI: http://t.co/i0nAZTlDvb 4chan: http://t.co/Lm8lxdrZbw	49216342	boston_fake_03	aldovalencia	Fri Apr 19 02:05:41 +0000 2013	fake
 324545148908363777	http://t.co/pS4KetWGaW #4chan	396729812	boston_fake_01	RutgerDrent	Wed Apr 17 15:29:27 +0000 2013	fake
 324267996044460035	"They say" this is a #pic of a man lurking on a rooftop during the the #bostonmarathon #explosion...… http://t.co/RYtgpktBYT	266869357	boston_fake_09	broadwaybeezy	Tue Apr 16 21:08:09 +0000 2013	fake
 324513597852098561	Wow 4chan. That was fast: http://t.co/3vHkPCr8tR	363958072	boston_fake_15	Alpha_and_Delta	Wed Apr 17 13:24:05 +0000 2013	fake
 324979270248173568	#4Chan got some fame on internet but I can say that I am impressed on what they had done and discovered http://t.co/MUH6yTWCAZ via @imgur	608583	boston_fake_03,boston_fake_35	Zeinobia	Thu Apr 18 20:14:30 +0000 2013	fake
 325064824306429953	4chan melhor que FBI :) http://t.co/aiGcdBXRUz	323637124	boston_fake_03,boston_fake_35	bruunowtf	Fri Apr 19 01:54:28 +0000 2013	fake
 324333359356579841	4chan spots a #Boston Bombing suspect - http://t.co/3c4TOQxL4b	105148135	boston_fake_15	giggitygreg	Wed Apr 17 01:27:53 +0000 2013	fake
-325641051811500032	Some of 4chan comm's #boston images - http://t.co/6Ap7NKHXy8 - fascinating crowd-sourced sleuthing. Also clear: RIP privacy forever.	17384057	boston_fake_03	paradoxiq	Sat Apr 20 16:04:11 +0000 2013	fake
 324631982518726656	4Chan seems to think they've found one of the Boston Marathon Bombers and I agree http://t.co/1cncwgC7eK	419544419	boston_fake_29	smitchell550	Wed Apr 17 21:14:30 +0000 2013	fake
 324356688272560128	4chan spots a suspect http://t.co/u3Ovlyl4Tp [http://t.co/oUotrsGuZv] #consp @joerogan	1228761494	boston_fake_15	Reddit4Savages	Wed Apr 17 03:00:35 +0000 2013	fake
 324874410374877185	http://t.co/TTcLPjXHVs investigación bombas Boston #4chan	348687483	boston_fake_03,boston_fake_35	isaponferrada	Thu Apr 18 13:17:49 +0000 2013	fake
 324569472952320003	#4chan solves the bombings? http://t.co/YeTDt6cLZS via @imgur	394713293	boston_fake_03,boston_fake_35	AnssiMuhonen	Wed Apr 17 17:06:07 +0000 2013	fake
-325282792957157377	@bluerickshaw my favorite came from 4chan  http://t.co/Ri2uk4hjw0	67570255	boston_fake_24	shahidsaeed	Fri Apr 19 16:20:35 +0000 2013	fake
 324936511160213505	4chan Conspiracies 1 of 2 http://t.co/KbYZr9aAiQ	142869850	boston_fake_18	brennen_says	Thu Apr 18 17:24:35 +0000 2013	fake
 325243838518149120	good job 4chan! http://t.co/XSnnqe6ROH	24618459	boston_fake_03,boston_fake_35	softwaredoug	Fri Apr 19 13:45:48 +0000 2013	fake
 324642477577494530	#boston #4chan  http://t.co/e7m4xLcjna	353738582	boston_fake_03,boston_fake_35	ThomasZbo	Wed Apr 17 21:56:12 +0000 2013	fake
@@ -12581,10 +12575,8 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325226222235828226	Here's the thread. Not one of the real suspects is on here. RT @brianboyer: 4chan is on it. Fascinating. http://t.co/R53NODzVtB	24774702	boston_fake_03,boston_fake_35	_DirtyCee	Fri Apr 19 12:35:48 +0000 2013	fake
 324676674442629120	#4chan crowdsourcing #Boston bomb investigation - /b/ http://t.co/7YcFjWsKo2	308422575	boston_fake_03,boston_fake_35	UnfitToPrint	Thu Apr 18 00:12:06 +0000 2013	fake
 324845303566065664	#4chan ThinkTank http://t.co/rnqC1QKu8R #BostonMarathon	589903475	boston_fake_03,boston_fake_35	Anonymous_48	Thu Apr 18 11:22:10 +0000 2013	fake
-325210840498335744	For shits and giggles, 4chan's conspiracy theory #stillbetterthancnn http://t.co/ANYNIHax6u	114564602	boston_fake_35	pruittc2012	Fri Apr 19 11:34:41 +0000 2013	fake
 324620538465120256	#4CHAN haciendo el trabajo del FBI http://t.co/CPONsVv0O8 o.O #Boston #/b/	225092182	boston_fake_03,boston_fake_35	Stanne_Z	Wed Apr 17 20:29:02 +0000 2013	fake
 325051229791203328	4chan picks out some boston suspects. crazy spooky. http://t.co/OqAbKozQav	11813582	boston_fake_03,boston_fake_35	mirceap	Fri Apr 19 01:00:27 +0000 2013	fake
-324548130970423296	4chan runs shit lol. http://t.co/XGsNHy9eeU	33557132	boston_fake_05	FuckYeahGlenn	Wed Apr 17 15:41:18 +0000 2013	fake
 324991612025462784	It looks like 4chan might have really found something - Why are private http://t.co/iVYfUtQ2Mh [http://t.co/RbYBX2qXll] #anon @YourAnonNews	1350469116	boston_fake_18	rsubversive	Thu Apr 18 21:03:33 +0000 2013	fake
 324710785773363200	this shit crazy. wonder if they photoshopped #4chan http://t.co/v00nx4Fw0D	206443802	boston_fake_03,boston_fake_35	rckgot1twatchin	Thu Apr 18 02:27:38 +0000 2013	fake
 324590974753976320	4Chan zoekt het uit. http://t.co/wMQbCv9W3R	66641469	boston_fake_04	JeffreyPieters	Wed Apr 17 18:31:33 +0000 2013	fake
@@ -12593,7 +12585,6 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325135832207990784	No idea if "Suspect 2" is missing Brown student Sunil Tripathi but looks more than a little like him: http://t.co/iwJ7iO3WKB	37636667	boston_fake_30	mtsw	Fri Apr 19 06:36:37 +0000 2013	fake
 324798280787714048	En 4chan ya han encontrado a los terroristas de Boston http://t.co/Cb98QtbVcU #boston #4chan	360657338	boston_fake_03,boston_fake_35	gzapico	Thu Apr 18 08:15:19 +0000 2013	fake
 325490517725028353	some follow up images on the 4chan post from an hour ago: http://t.co/QlqaMpdpXA\n\n"The internet wins" -@teklocust	4739831	boston_fake_03,boston_fake_35	dwbl	Sat Apr 20 06:06:01 +0000 2013	fake
-325348966935982080	On Wednesday, Reddit and 4chan users published pictures of Boston Marathon bombing "suspects". They were all wrong. http://t.co/EVldP40pd4	73857293	boston_fake_03,boston_fake_35	clementgarnier	Fri Apr 19 20:43:33 +0000 2013	fake
 324338610465816576	@th3j35t3r what do you make of what 4chan has come up with? http://t.co/sMWgRS2jo3	1126189711	boston_fake_04	ClownLilBro	Wed Apr 17 01:48:45 +0000 2013	fake
 324537751934484480	4chan found the bomb http://t.co/Zrs8WOqomz	221060333	boston_fake_24	C_Y88	Wed Apr 17 15:00:04 +0000 2013	fake
 324607148313153538	The man believed to be the bomber.. #boston #bostonbombing #bostonmarathon #prayforboston #pray4boston… http://t.co/akb08AyBld	22892301	boston_fake_02	TIHammer	Wed Apr 17 19:35:49 +0000 2013	fake
@@ -12625,14 +12616,12 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 324527935413436416	@TheMatthewKeys Have you seen/heard anything about this? http://t.co/v82rdCVIqH (via @dcturner @SimoRoth &amp; 4Chan users )	16886246	boston_fake_01	Siouxfire	Wed Apr 17 14:21:03 +0000 2013	fake
 325135810326327296	Se ve que los de 4chan ya han empezado http://t.co/onL4644fVG	335312155	boston_fake_03,boston_fake_35	CaoticaEconomia	Fri Apr 19 06:36:32 +0000 2013	fake
 324569471253630976	@OClairouin @samuellaurent Et 4Chan étant 4Chan, ca donne aussi http://t.co/qv0ZSH2jB6	193786214	boston_fake_26	tseymat	Wed Apr 17 17:06:06 +0000 2013	fake
-325196907955761152	@Barbaraayuso Antes los de 4chan ya habían hecho algo parecido http://t.co/nNp6jAdiun	48271233	boston_fake_03,boston_fake_35	juayhi	Fri Apr 19 10:39:19 +0000 2013	fake
 325307612050640897	http://t.co/qOdBcSpmgG 4chan teve a manha, apos que a mídia nem vai falar nada	251241632	boston_fake_03,boston_fake_35	pedro_antuna	Fri Apr 19 17:59:13 +0000 2013	fake
 325030184199811072	http://t.co/oCwVNpf2PI http://t.co/9hwsuCH7TJ 83 C.S.I. 4chan.	1105084915	boston_fake_07	benittto6	Thu Apr 18 23:36:49 +0000 2013	fake
 324578933427302401	Maybe we should outsource our intelligence work to #Reddit and #4chan: Check out http://t.co/hyLs9xHDis and http://t.co/hcciCk4uW2	10935232	boston_fake_03,boston_fake_35	eshep	Wed Apr 17 17:43:42 +0000 2013	fake
 324526695531040769	4chan is on the case. http://t.co/wHctp20bzf	19722133	boston_fake_01	MoronPundit	Wed Apr 17 14:16:08 +0000 2013	fake
 324582306511728640	so, 4chan helps find #bostonmarathon bombing suspect(s)? http://t.co/wkrFlxTL9D	15441577	boston_fake_03,boston_fake_35	m_dunn	Wed Apr 17 17:57:06 +0000 2013	fake
 324590719153094659	Los de 4chan cuando quieren son muy grandes. Buscando al causante de lo de Boston: http://t.co/AV0xaxekyX	112528053	boston_fake_29	Seroko111	Wed Apr 17 18:30:32 +0000 2013	fake
-325289142575570946	Um es nochmal festzuhalten:4chan &amp; reddit lagen mit ihrem witch hunt zu 100%falsch. Nur unschuldige wurden "erkannt". http://t.co/D47totRig7	72614956	boston_fake_03,boston_fake_35	SenorNiceGuy	Fri Apr 19 16:45:49 +0000 2013	fake
 325236486381383680	some amazing analysis of the photographic evidence from the #bostonbombing by the guys at #4chan: http://t.co/YkNtXSjGr9	10468472	boston_fake_27	shanemagee	Fri Apr 19 13:16:35 +0000 2013	fake
 324999947592294400	Fucking faggots B. I pray karma lets us get to them 1st America. #BostonBombers #prayforboston http://t.co/akkg2YdEQS	130547662	boston_fake_06	PictureSpitter	Thu Apr 18 21:36:40 +0000 2013	fake
 324517112234270720	4chan tror sig ha hittat en misstänkt. http://t.co/GliZFUrrLt https://t.co/sCqwcSi5UM Alla är detektiver numera ;)	18763641	boston_fake_01,boston_fake_17	davexphoto	Wed Apr 17 13:38:03 +0000 2013	fake
@@ -12644,7 +12633,6 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 324789744192065536	4chan investiga lo de Boston. http://t.co/EZ35IYwBgS	255744834	boston_fake_04	Postfapshotgun	Thu Apr 18 07:41:23 +0000 2013	fake
 324325848352161792	Damn 4chan already got the bomber http://t.co/bkvZkOwtvS	16259867	boston_fake_15	tmoneymonsta	Wed Apr 17 00:58:02 +0000 2013	fake
 324559423441879042	Interesting case of internet vigilantism using #4Chan/#Reddit; response to #Boston http://t.co/jsK9B9UwfU http://t.co/HFmw7m0XAl @interwhut	285193554	boston_fake_03,boston_fake_35	myrandatanck	Wed Apr 17 16:26:11 +0000 2013	fake
-325163221218635777	El poder de 4chan: http://t.co/7Gq6gejRu2 miles de fotos analizadas y encuentran a ""sospechosos"" (ojo, pillar con pinzas)	14054063	boston_fake_03,boston_fake_35	alexsobrino	Fri Apr 19 08:25:27 +0000 2013	fake
 325145935007068161	Sunil Tripathi was last seen in March. http://t.co/Yn6V5xNXGC	35714423	boston_fake_19	vetoshield	Fri Apr 19 07:16:46 +0000 2013	fake
 325173128491851776	@Genowolf Well here's a short explanation according to 4chan (who found him before the FBI) http://t.co/xqKLuMldnl	284792574	boston_fake_12	Boo_Billamy	Fri Apr 19 09:04:49 +0000 2013	fake
 324504112001597443	Because 4chan doesn't like bad guys with no cause. http://t.co/lHK2NBqK2Q	600369612	boston_fake_14	SecretlyAlaskan	Wed Apr 17 12:46:23 +0000 2013	fake
@@ -12659,7 +12647,6 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325121564309856257	The 4chan ThinkTank. Crazy how good these guys are. http://t.co/gJMiSGsaMS via @imgur	34731785	boston_fake_03,boston_fake_35	four_sides	Fri Apr 19 05:39:56 +0000 2013	fake
 324521381385625601	Parece que 4chan encontró al responsable de los ataques\nhttp://t.co/eAGPoL1h31\nhttp://t.co/bOpILmK3yO	17258005	boston_fake_16,boston_fake_17	ricard089	Wed Apr 17 13:55:01 +0000 2013	fake
 324798038105272320	#boston #4chan Was the Boston bomb an inside job to ban guns? http://t.co/ZBZxrPWHV8	314227180	boston_fake_03,boston_fake_35	EoinMagrath	Thu Apr 18 08:14:21 +0000 2013	fake
-325181617981243393	@RaulVB @WajahatAli @Marcotti #SunilTripathiHoax Sunil Tripathi and Suspect 2 - They are two very different persons http://t.co/7X56eZRk6l	24573827	boston_fake_34	Marcotti	Fri Apr 19 09:38:33 +0000 2013	fake
 325308244912402432	FBI missing person / Bombing suspect = Same person #4Chan http://t.co/XE9Cy0M3hm #RETWEET	394024863	boston_fake_10	jeffrogomez	Fri Apr 19 18:01:44 +0000 2013	fake
 324849780708745216	This is the 4chan I admire.\nhttp://t.co/5JubZbQkrL\n#4chan #Boston	322373921	boston_fake_03,boston_fake_35	The_Horologist	Thu Apr 18 11:39:57 +0000 2013	fake
 325153259847303168	FBI missing person / Bombing suspect = Same person #4Chan http://t.co/ZO7tzCvN1Z	191175879	boston_fake_10	Blueraydre	Fri Apr 19 07:45:52 +0000 2013	fake
@@ -12705,11 +12692,9 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 324505971017785344	!!!! 4chan might have just found the Boston bomber: http://t.co/jBpq59fwsQ	15459365	boston_fake_01	Larington	Wed Apr 17 12:53:47 +0000 2013	fake
 324508845353349120	“@SimoRoth: !!!! 4chan might have just found the Boston bomber: http://t.co/PFDGNzuKin”  &lt; Amazing if this turns out to be true	14234180	boston_fake_01	jearle	Wed Apr 17 13:05:12 +0000 2013	fake
 324573369095831552	4Chan may have found the bomber:\nhttp://t.co/NbnR1v9VYM &amp; http://t.co/8EG7FATluO &amp; http://t.co/HJZx1LuAVq\nIs that the 8yr old in yellow sqr?	179986153	boston_fake_01,boston_fake_16,boston_fake_17	gregdickey	Wed Apr 17 17:21:36 +0000 2013	fake
-325513392318185472	Atentos a la "investigación ciudadana P2P" de lo de Boston que se han montado los del 4chan estos... :O http://t.co/wWFCxu0EuT (vía @axebra)	118874116	boston_fake_03	biglasses	Sat Apr 20 07:36:55 +0000 2013	fake
 325164356943900672	@dansinker Did you see this post? here's a gif of the missing brown student blending into the boston bombing suspect\n http://t.co/d27pWdvZUK	57345997	boston_fake_10	JarredMcGinnis	Fri Apr 19 08:29:58 +0000 2013	fake
 325150935364022272	wow RT @BillyCorben: Gif of missing Brown University student Sunil Tripathi and Suspect 2 in Boston Marathon bombing: http://t.co/viQvc4pjzB	18198414	boston_fake_10	warriorsworld	Fri Apr 19 07:36:38 +0000 2013	fake
 325159845764415488	“RT @BillyCorben: Gif of missing Brown University student Sunil Tripathi and Suspect 2 in Boston Marathon bombing: http://t.co/sS3cY70Xmd” 😧	59021599	boston_fake_10	theclarissab	Fri Apr 19 08:12:03 +0000 2013	fake
-324583664564445184	The detail of these photos used to identify the Boston Marathon bombing suspect is bananas… http://t.co/8zZ1v2ix39	25950370	boston_fake_03	SeanCablinasian	Wed Apr 17 18:02:30 +0000 2013	fake
 325146251190472704	I think it's safe to say this is suspect 2 and Boston police scanner has identified him by name https://t.co/I95ZkqGDSf	14016032	boston_fake_21	CDReed	Fri Apr 19 07:18:01 +0000 2013	fake
 324638323316506624	Alleged Boston Bombing Suspect Photo Timeline: http://t.co/pNtIunONXJ #boston #marathon #4chan	4913841	boston_fake_03,boston_fake_35	ADNxtc	Wed Apr 17 21:39:42 +0000 2013	fake
 324554636923125761	Second suspect in the Boston Bombings http://t.co/DAjka26PHI	15933201	boston_fake_01	Icey_Ranks	Wed Apr 17 16:07:10 +0000 2013	fake
@@ -12750,12 +12735,10 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325143399583850496	RT @YourAnonNews: New FBI #BostonMarathon Suspect Photos: ||1: http://t.co/XUtUbLmbk5 ||  2: http://t.co/ru7OBMIWRw	20044440	boston_real_06,boston_real_07	Edourdoo	Fri Apr 19 07:06:41 +0000 2013	real
 325239528753332225	RT @YourAnonNews New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/thdDmfqKcL Suspect 2: http://t.co/FhcMARx5vA	43180061	boston_real_06,boston_real_07	tapoutG	Fri Apr 19 13:28:40 +0000 2013	real
 325140954430443520	#Breaking: New #BostonMarathon Suspect Photos Released by FBI: || Suspect 1: http://t.co/pfCNpvPnt6 ||  Suspect 2: http://t.co/y6WqWPY8Fs	279390084	boston_real_06,boston_real_07	YourAnonNews	Fri Apr 19 06:56:59 +0000 2013	real
-325410298943119362	RIP Tamerlan and free Dzhokhar Tsarnaev. This corrupt society will never stop blaming people. Who willβ€¦ http://t.co/xAGDE2Zyha	404834177	boston_real_26	theophilustfu	Sat Apr 20 00:47:15 +0000 2013	real
 325082419059367938	RT @TEDchris: Reddit users crowdsource photo of Boston suspect, zoom, enhance. http://t.co/rqaFZNjpFa Source: http://t.co/wRjT7Sgpdo	60133202	boston_real_10	ScottWilsonID	Fri Apr 19 03:04:23 +0000 2013	real
 325106721062260737	β€@TEDchris: Wild how Reddit users crowdsource photo of Boston suspect, zoom, enhance. http://t.co/kE9fQtsGRS Source: http://t.co/3A9iunoY1lβ€	8288752	boston_real_10	jamiesk	Fri Apr 19 04:40:57 +0000 2013	real
 325096108193882112	RT @tedchris: Reddit users crowdsource photo of Boston suspect, zoom, enhance. http://t.co/Og7sxCZtr4 Source: http://t.co/OlwGtBF0AF	382747441	boston_real_10	belleconsult	Fri Apr 19 03:58:46 +0000 2013	real
 325064400052576256	Wild how Reddit users crowdsource photo of Boston suspect, zoom, enhance. http://t.co/J9fRCsrCgI Source: http://t.co/Esbvg3Dkr6	14761795	boston_real_10	TEDchris	Fri Apr 19 01:52:47 +0000 2013	real
-325161806463135744	#Boston #Watertown #BPD New picture of Sunil Tripathi tonight, in a 7-11: https://t.co/ae5deGvp5s	32633543	boston_real_11	Jonathan_Mora	Fri Apr 19 08:19:50 +0000 2013	real
 325309548783083523	Fuck these two tools #prayforboston http://t.co/yaGYL9mrKV	224550839	boston_real_26	aGoodmanThinks	Fri Apr 19 18:06:55 +0000 2013	real
 327097650212139008	Since the second Boston bombing suspect was apprehended on Friday, there's been a wave of support,β€¦ http://t.co/zd3fcVj2Dt	256386386	boston_real_23	0fficial__M	Wed Apr 24 16:32:11 +0000 2013	real
 325416365009813504	#THATSHOWWEFREAKINGDOIT #CAPTURED #ManHunt #BostonBomber #WeGotHim #BostonMarathon #GoToHell #USARules http://t.co/YOyFtLL0ZN	438793613	boston_real_27	ItsAlexisMoore	Sat Apr 20 01:11:22 +0000 2013	real
@@ -12813,7 +12796,6 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325064026096812032	From a friend in local news in Boston. MT @amorse9: http://t.co/FRv0tIrBCe Suspect #2 moving around corner on left.	22307109	boston_real_15	DrakeSax	Fri Apr 19 01:51:17 +0000 2013	real
 325007323892436992	C'mon people lets work together and catch these fuckers #prayforboston #justicewillbeserved http://t.co/gXy9DuuuJE	224883277	boston_real_24	aelias89	Thu Apr 18 22:05:59 +0000 2013	real
 325244161970302976	La foto mas reciente del profugo terrorista Dzhokhar Tsarnaev http://t.co/UJoC7UaveI	34749742	boston_real_27	jhonnoel	Fri Apr 19 13:47:05 +0000 2013	real
-325142448881930240	New Release: Suspect 1: Mike Mulugeta Suspect 2: Sunil Tripathi.  || Suspect 1: http://t.co/K8e3G5wBUp || Suspect 2: http://t.co/0weisVVMKJ"	185472553	boston_real_06	KAL301	Fri Apr 19 07:02:55 +0000 2013	real
 325227132030689280	FBI just posted New Photo of Suspect #2,  Dzhokhar Tsarnaev.   #BostonMarthon http://t.co/FB7lbHGSCB	48034548	boston_real_27	DenverNewsie	Fri Apr 19 12:39:25 +0000 2013	real
 325008086530154497	A closer look at FBI's Boston bombing suspect's hat. RT @RichardPhillips: http://t.co/WTpTwRP00X	619468301	boston_real_13	ArtistsReport	Thu Apr 18 22:09:00 +0000 2013	real
 325055737812373504	Reddit never ceases to amaze me. Assuming not shopped (don't think it is), unearthed another photo of Boston suspect: http://t.co/6ZA4Yb17Wm	135385495	boston_real_15	cmccollo	Fri Apr 19 01:18:21 +0000 2013	real
@@ -12974,7 +12956,6 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325228310147776515	Photo released for #bostonmarathon bombing. Please share! #prayforboston http://t.co/YxgxYscx6C	445572283	boston_real_07	MoreJsThanU23	Fri Apr 19 12:44:06 +0000 2013	real
 325094563138113538	This is the Boston bombing suspect. The first thing I wouldn't say to describe him is 'dark-skinned' http://t.co/w4dI1zvw3d	15933655	boston_real_10	HouseShoes	Fri Apr 19 03:52:38 +0000 2013	real
 325000403764793344	#bostonmarathon Suspects from #FBI Share/RT. http://t.co/Ktglo2pau1	21923301	boston_real_04	FusionRockRadio	Thu Apr 18 21:38:29 +0000 2013	real
-325147818568347648	1 of the boston marathon suspects is \nSunil Tripathi Missing brown/ivy league student http://t.co/kz83UIbr4b	5416852	boston_real_07	Bahska	Fri Apr 19 07:24:15 +0000 2013	real
 325032349840601088	I think Boston bombing suspect #2 is bow-legged. http://t.co/FW3C185W5H	43439767	boston_real_24	IloiloKano	Thu Apr 18 23:45:25 +0000 2013	real
 325181852279259136	Fuck these guys #watertown http://t.co/iFzn0wV5bw	447705577	boston_real_26	shadeballs42069	Fri Apr 19 09:39:29 +0000 2013	real
 325132188876144640	Another new photo released by the FBI of the Boston Marathon explosions suspect http://t.co/H5vcdBNWHl http://t.co/pkJ6jcpP7U	1140451	boston_real_06	AntDeRosa	Fri Apr 19 06:22:09 +0000 2013	real
@@ -13005,7 +12986,6 @@ tweetId	tweetText	userId	imageId(s)	username	timestamp	label
 325237194346360835	Manhunt: Dzhokhar Tsarnaev. #Bostonians, stay in doors! We are on lockdown. Please do not open yourβ€¦ http://t.co/aQjabyoaqB	20948787	boston_real_27	RisaXu	Fri Apr 19 13:19:24 +0000 2013	real
 325025623779188736	MOSTRA O ROSTO, MOSTRO ROSTO!! http://t.co/4oUwhYsNSy #exclusivo #bostonmarathon	206341397	boston_real_24	SUPERDINOSSAURO	Thu Apr 18 23:18:42 +0000 2013	real
 325412331456704512	WHOOOO! Got Him #Captured #In #Custody #Boston #Marathon #Bomber #Alive #Suspect2 #MURICA Yeah buddy! http://t.co/Xc239DdJlS	259527905	boston_real_27	KevinPStevenson	Sat Apr 20 00:55:20 +0000 2013	real
-325269317312737280	Boston bombings suspects innocent: father #BostonMarathon #Kenya http://t.co/CJq4ZhKnqp http://t.co/saen4lqRwc	1310276047	boston_real_27	NewsKenyaCoKe	Fri Apr 19 15:27:03 +0000 2013	real
 325411710091546624	They Got Him #prayforboston http://t.co/JHoNjFYiOZ	24639263	boston_real_27	fan41385	Sat Apr 20 00:52:52 +0000 2013	real
 325454245522460673	That's what happens when u mess up with the wrong city! U end up #CAPTURED http://t.co/GzFsSc1WM1	408237706	boston_real_27	prettyboii617	Sat Apr 20 03:41:53 +0000 2013	real
 325237962327588865	New photo from FBI of Suspect No. 2 -- Dzhokhar A. Tsarnaev -- still at-large in Boston Marathon bombings !!!! http://t.co/KeVlyklJE0	55327512	boston_real_27	Jack_Napier_	Fri Apr 19 13:22:27 +0000 2013	real
