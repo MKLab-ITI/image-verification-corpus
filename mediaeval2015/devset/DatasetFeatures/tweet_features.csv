@@ -12529,11 +12529,7 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325210840498335744,8,91,false,0,false,0,false,false,false,false,false,1,0,1,0,1,1,0
 324548130970423296,4,43,false,0,false,0,false,false,false,false,false,0,0,1,0,0,1,0
 325348966935982080,17,138,false,0,false,0,false,false,false,false,false,6,0,1,0,0,1,0
-325148067336683521,15,104,false,0,false,0,false,false,false,false,false,7,1,0,0,0,1,0
 325196907955761152,10,85,false,0,false,0,false,false,false,false,false,1,0,0,1,0,1,0
-325289142575570946,17,144,false,0,false,0,false,false,false,false,true,2,0,0,0,0,1,0
-325163221218635777,16,123,false,0,false,0,false,false,false,false,true,1,1,0,0,0,1,0
-325145935007068161,7,61,false,0,false,0,false,false,false,false,false,3,0,0,0,0,1,0
 325181617981243393,14,138,false,0,false,0,false,false,false,false,false,4,0,1,4,1,0,0
 325513392318185472,22,140,false,0,false,0,false,false,false,false,false,5,0,0,1,0,1,0
 324583664564445184,15,114,false,0,false,0,false,false,false,false,false,3,0,1,0,0,1,0
@@ -12544,7 +12540,6 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 324315545572896768,9,96,false,0,false,0,false,false,false,false,true,0,0,0,0,0,2,0
 324581777614180352,8,73,false,0,false,0,false,false,false,false,false,0,0,0,0,0,1,0
 324665423956176896,13,85,true,1,false,0,false,false,false,false,false,2,0,0,0,1,1,0
-325213350818611201,16,120,false,0,false,0,false,false,false,false,false,4,0,1,1,0,1,0
 325464125868216321,3,46,false,0,false,0,false,false,null,null,null,3,null,null,0,0,1,0
 325099014355820544,13,130,true,1,false,0,false,false,false,true,false,3,1,0,1,0,2,0
 325705653026975744,9,88,false,0,false,0,false,false,false,false,false,6,0,1,0,4,1,0
@@ -12557,19 +12552,16 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 324510098259050496,14,135,false,0,false,0,false,false,false,false,false,1,1,0,3,5,1,0
 324635274887970816,18,140,false,0,false,0,false,false,false,false,false,1,1,0,0,0,2,0
 324435205433724929,13,98,false,0,false,0,false,false,false,false,false,2,1,0,0,0,1,0
-325067648780099586,18,135,false,0,false,0,false,false,false,false,true,6,0,0,1,0,2,0
 324545148908363777,2,29,false,0,false,0,false,false,null,null,null,0,null,null,0,1,1,0
 324267996044460035,18,124,false,0,false,0,false,false,false,false,false,1,0,1,0,3,1,0
 324513597852098561,5,48,false,0,false,0,false,false,false,false,false,2,2,0,0,0,1,0
 324979270248173568,24,137,false,0,false,0,false,false,true,false,false,2,2,0,1,1,1,0
 325064824306429953,4,46,false,0,false,0,true,false,null,null,null,3,null,null,0,0,1,0
 324333359356579841,6,62,false,0,false,0,false,false,false,false,false,1,0,1,0,1,1,0
-325641051811500032,15,132,false,0,false,0,false,false,false,false,false,5,2,1,0,1,1,0
 324631982518726656,15,104,false,0,false,0,false,false,true,false,false,5,0,0,0,0,1,0
 324356688272560128,6,86,false,0,false,0,false,false,false,false,false,0,0,1,1,1,2,0
 324874410374877185,5,57,false,0,false,0,false,false,false,false,false,1,0,0,0,1,1,0
 324569472952320003,7,61,true,1,false,0,false,false,false,false,false,0,0,0,1,1,1,0
-325282792957157377,6,65,false,0,false,0,false,false,false,false,false,0,1,0,1,0,1,0
 324936511160213505,3,48,false,0,false,0,false,false,false,false,false,1,0,1,0,0,1,0
 325243838518149120,3,38,false,0,true,1,false,false,false,false,false,0,1,0,0,0,1,0
 324642477577494530,3,38,false,0,false,0,false,false,null,null,null,0,null,null,0,2,1,0
@@ -12581,10 +12573,8 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325226222235828226,19,127,false,0,false,0,false,false,false,false,true,3,1,0,1,0,1,0
 324676674442629120,7,76,false,0,false,0,false,false,false,false,false,0,0,1,0,2,1,0
 324845303566065664,4,55,false,0,false,0,false,false,null,null,null,2,null,null,1,2,1,0
-325210840498335744,8,91,false,0,false,0,false,false,false,false,false,1,0,1,0,1,1,0
 324620538465120256,12,74,false,0,false,0,false,false,false,false,true,4,0,0,0,2,1,0
 325051229791203328,8,74,false,0,false,0,false,false,false,false,false,0,0,2,1,0,1,0
-324548130970423296,4,43,false,0,false,0,false,false,false,false,false,0,0,1,0,0,1,0
 324991612025462784,14,139,false,0,false,0,false,false,false,false,true,2,1,0,1,1,2,0
 324710785773363200,9,74,false,0,false,0,false,false,false,false,false,0,1,2,0,1,1,0
 324590974753976320,4,43,false,0,false,0,false,false,null,null,null,1,null,null,0,0,1,0
@@ -12593,7 +12583,6 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325135832207990784,18,124,false,0,false,0,false,false,false,false,true,5,1,1,0,0,1,0
 324798280787714048,13,92,false,0,false,0,false,false,false,false,false,2,0,0,0,2,1,0
 325490517725028353,15,113,false,0,false,0,false,false,false,false,false,0,1,0,2,0,1,0
-325348966935982080,17,138,false,0,false,0,false,false,false,false,false,6,0,1,0,0,1,0
 324338610465816576,15,82,true,1,false,0,false,false,false,true,false,0,0,0,1,0,1,0
 324537751934484480,4,43,false,0,false,0,false,false,false,false,false,0,0,1,0,0,1,0
 324607148313153538,13,126,false,0,false,0,false,false,false,false,false,1,0,0,0,5,1,0
@@ -12625,7 +12614,6 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 324527935413436416,13,124,true,1,false,0,false,false,false,true,false,2,0,0,3,0,1,0
 325135810326327296,9,61,false,0,false,0,false,false,false,false,false,1,0,0,0,0,1,0
 324569471253630976,9,86,false,0,false,0,false,false,null,null,null,3,null,null,2,0,1,0
-325196907955761152,10,85,false,0,false,0,false,false,false,false,false,1,0,0,1,0,1,0
 325307612050640897,12,78,false,0,false,0,false,false,null,null,null,0,null,null,0,0,1,0
 325030184199811072,4,62,false,0,false,0,false,false,null,null,null,3,null,null,0,0,2,0
 324578933427302401,15,130,false,0,false,0,false,false,true,false,false,2,2,0,0,2,2,0
@@ -12659,7 +12647,6 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325121564309856257,11,85,false,0,false,0,false,false,false,false,false,4,1,1,1,0,1,0
 324521381385625601,9,101,false,0,false,0,false,false,false,false,false,1,0,0,0,0,2,0
 324798038105272320,13,84,true,1,false,0,false,false,false,false,false,2,0,1,0,2,1,0
-325181617981243393,14,138,false,0,false,0,false,false,false,false,false,4,0,1,4,1,0,0
 325308244912402432,10,89,false,0,false,0,false,false,false,false,false,5,0,1,0,2,1,0
 324849780708745216,7,65,false,0,false,0,false,false,true,false,false,2,1,0,0,2,1,0
 325153259847303168,9,80,false,0,false,0,false,false,false,false,false,5,0,1,0,1,1,0
@@ -12705,11 +12692,9 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 324505971017785344,8,74,false,0,true,4,false,false,false,false,false,1,0,0,1,0,1,0
 324508845353349120,17,130,false,0,true,4,false,false,false,false,false,2,1,0,2,0,1,0
 324573369095831552,13,148,true,1,false,0,false,false,false,false,false,1,0,0,1,0,3,0
-325513392318185472,22,140,false,0,false,0,false,false,false,false,false,5,0,0,1,0,1,0
 325164356943900672,20,140,true,1,false,0,false,false,false,true,false,1,0,1,1,0,1,0
 325150935364022272,17,140,false,0,false,0,false,false,false,false,false,8,1,1,1,0,1,0
 325159845764415488,16,141,false,0,false,0,false,false,false,false,false,8,0,1,1,0,1,0
-324583664564445184,15,114,false,0,false,0,false,false,false,false,false,3,0,1,0,0,1,0
 325146251190472704,23,119,false,0,false,0,false,false,true,false,true,7,1,1,0,0,1,0
 324638323316506624,10,94,false,0,false,0,false,false,false,false,false,6,0,1,0,3,1,0
 324554636923125761,6,60,false,0,false,0,false,false,false,false,false,3,0,1,0,0,1,0
@@ -12750,12 +12735,10 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325143399583850496,7,115,false,0,false,0,false,false,false,false,false,6,0,1,1,1,2,0
 325239528753332225,11,139,false,0,false,0,false,false,false,false,false,9,0,3,1,1,2,0
 325140954430443520,10,137,false,0,false,0,false,false,false,false,false,9,0,4,0,2,2,0
-325410298943119362,16,126,false,0,false,0,false,false,false,false,false,8,1,2,0,0,1,0
 325082419059367938,12,132,false,0,false,0,false,false,false,false,false,3,1,1,1,0,2,0
 325106721062260737,13,140,false,0,false,0,false,false,false,false,false,4,1,2,2,0,1,0
 325096108193882112,12,132,false,0,false,0,false,false,false,false,false,3,1,1,2,0,1,0
 325064400052576256,12,127,false,0,false,0,false,false,false,false,false,4,1,2,0,0,2,0
-325161806463135744,17,97,false,0,false,0,false,false,false,false,false,4,0,0,0,3,1,0
 325309548783083523,5,58,false,0,false,0,false,false,false,false,false,1,0,1,0,1,1,0
 327097650212139008,16,122,false,0,false,0,false,false,false,false,false,3,1,1,0,0,1,0
 325416365009813504,8,125,false,0,false,0,false,false,null,null,null,0,null,null,0,8,1,0
@@ -12813,7 +12796,6 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325064026096812032,17,115,false,0,false,0,false,false,false,false,false,5,0,1,2,0,1,0
 325007323892436992,11,114,false,0,false,0,false,false,false,false,false,1,1,0,0,2,1,0
 325244161970302976,9,84,false,0,false,0,false,false,false,false,false,3,0,1,1,0,1,0
-325142448881930240,10,140,false,0,false,0,false,false,false,false,false,10,0,4,0,0,2,0
 325227132030689280,11,100,false,0,false,0,false,false,false,false,false,8,0,1,0,1,1,0
 325008086530154497,11,96,false,0,false,0,false,false,false,false,false,5,0,0,1,0,1,0
 325055737812373504,19,140,false,0,false,0,false,false,true,false,true,3,1,1,0,0,1,0
@@ -12974,7 +12956,6 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325228310147776515,8,95,false,0,true,1,false,false,false,false,false,2,0,0,1,2,1,0
 325094563138113538,18,123,false,0,false,0,false,false,true,false,true,4,0,2,1,0,0,0
 325000403764793344,6,67,false,0,false,0,false,false,false,false,false,4,0,0,0,2,1,0
-325147818568347648,13,108,false,0,false,0,false,false,false,false,false,3,0,0,0,0,1,0
 325032349840601088,9,71,false,0,false,0,false,false,true,false,false,2,0,1,0,0,1,0
 325181852279259136,4,49,false,0,false,0,false,false,false,false,false,1,0,1,0,1,1,0
 325132188876144640,13,125,false,0,false,0,false,false,false,false,false,6,0,1,0,0,1,0
@@ -13005,7 +12986,6 @@ tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_ex
 325237194346360835,16,123,false,0,true,1,false,false,true,false,false,5,0,0,0,1,1,0
 325025623779188736,7,80,false,0,true,2,false,false,false,false,false,23,0,0,0,2,1,0
 325412331456704512,14,124,false,0,true,2,false,false,false,false,true,9,0,1,0,9,1,0
-325269317312737280,7,110,false,0,false,0,false,false,false,false,false,1,0,0,0,2,2,0
 325411710091546624,4,50,false,0,false,0,false,false,false,false,true,3,0,0,0,1,1,0
 325454245522460673,15,97,false,0,true,1,false,false,false,false,false,2,0,2,0,1,1,0
 325237962327588865,17,133,false,0,true,4,false,false,false,false,false,11,0,1,0,0,1,0
