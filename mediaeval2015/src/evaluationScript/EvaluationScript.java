@@ -18,9 +18,20 @@ public class EvaluationScript {
 		int falsePositives = 0;
 		int falseNegatives = 0;
 		
+		int sumPositiveInstances = 0;
+		
 		double precision = 0.0;
 		double recall = 0.0;
 		double fScore = 0.0;
+		
+		Iterator iter0 = map_IdsLabels_groundtruth.entrySet().iterator();
+		while (iter0.hasNext()) {
+			Map.Entry mEntry = (Map.Entry) iter0.next();
+			
+			if (mEntry.getValue().equals("fake")) {
+				sumPositiveInstances++;
+			}
+		}
 		
 		Iterator iter = map_IdsLabels_predicted.entrySet().iterator();
 		 
@@ -43,7 +54,7 @@ public class EvaluationScript {
 		}
 		
 		precision = (double) truePositives / (truePositives + falsePositives);
-		recall	  = (double) truePositives / (truePositives + falseNegatives);
+		recall	  = (double) truePositives / sumPositiveInstances;
 		fScore	  = (double) 2*precision*recall / (precision+recall);
 		
 		System.out.println(counterPredictionsWithValidLabels+" out of "+map_IdsLabels_groundtruth.size() +" tweets predicted as fake or real.");
