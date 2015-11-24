@@ -1,7 +1,7 @@
 image-verification-corpus
 =========================
 
-This contains an evolving dataset of fake and real images shared in social media (twitter for now). The purpose of the dataset is the development of an open corpus that may be used for assessing online image verification approaches (based on tweet text and user features) and for building classifier for new content (currently tweets containing images).
+This contains an evolving dataset of fake and real posts with images shared in social media (twitter for now). The purpose of the dataset is the development of an open corpus that may be used for assessing online image verification approaches (based on tweet text and user features) and for building classifier for new content (currently tweets containing images).
 
 The dataset consists of three files:
 * set_images.txt: File that contains fake and real images that have been verified by online sources. These images were used to find tweets to build our dataset. The file contains the image_id field used as a reference for each image, the image_url field that presents the online url of the image, the annotation that declares the veracity of the image and the event that the image comes from.
@@ -15,4 +15,4 @@ The [computational-verification](https://github.com/socialsensor/computational-v
 
 C. Boididou, S. Papadopoulos, Y. Kompatsiaris, S. Schifferes, N. Newman. Challenges of Computational Verification in Social Media. In Proceedings of SNOW II: Social News on the Web workshop, WWW'14 Companion.
 
-The mediaeval2015 folder contains the version of the dataset provided for the Verifying Multimedia Use task in the context of MediaEval Workshop 2015.
+The mediaeval2015 folder contains the version of the dataset provided for the Verifying Multimedia Use task in the context of MediaEval Workshop 2015. In folders devset and testset, you will find the tweet data shared for training and testing respectively. When organizing this task, we have also shared for each dataset's tweets, some features based on tweet and user characteristics and some forensic ones for the images which are associated with the tweets.
