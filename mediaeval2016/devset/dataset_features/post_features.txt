@@ -1,4 +1,4 @@
-tweet_id, num_words, text_length, contains_questmark, num_questmark, contains_exclammark, num_exclammark, contains_happyemo, contains_sademo, contains_firstorderpron, contains_secondorderpron, contains_thirdorderpron, num_uppercasechars, num_possentiwords, num_negsentiwords, num_mentions, num_hashtags, num_URLs, num_retweets
+post_id, num_words, text_length, contains_questmark, num_questmark, contains_exclammark, num_exclammark, contains_happyemo, contains_sademo, contains_firstorderpron, contains_secondorderpron, contains_thirdorderpron, num_uppercasechars, num_possentiwords, num_negsentiwords, num_mentions, num_hashtags, num_URLs, num_retweets
 324557656482271232,10,73,false,0,false,0,false,false,null,null,null,1,null,null,0,0,1,0
 324558591690424322,12,88,false,0,false,0,false,false,null,null,null,1,null,null,1,0,1,0
 324568758234521600,10,73,false,0,false,0,false,false,null,null,null,1,null,null,0,0,1,0

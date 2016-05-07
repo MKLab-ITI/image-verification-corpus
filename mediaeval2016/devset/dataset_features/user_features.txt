@@ -1,4 +1,4 @@
-tweet_id, num_friends, num_followers, folfriend_ratio, times_listed, has_url, is_verified, num_tweets
+post_id, num_friends, num_followers, folfriend_ratio, times_listed, has_url, is_verified, num_posts
 324557656482271232,563,747,1.3268206,41,true,false,6467
 324558591690424322,625,755,1.208,41,false,false,3119
 324568758234521600,403,326,0.808933,35,true,false,4033
