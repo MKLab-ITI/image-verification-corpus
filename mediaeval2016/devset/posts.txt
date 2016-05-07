@@ -1,4 +1,4 @@
-tweetId	tweetText	userId	imageId(s)	username	timestamp	label
+post_id	post_text	user_id	image_id(s)	username	timestamp	label
 324597532548276224	Don't need feds to solve the #bostonbombing when we have #4chan!! http://t.co/eXQTPZqqbG	886672620	boston_fake_03,boston_fake_35	SantaCruzShred	Wed Apr 17 18:57:37 +0000 2013	fake
 325145334739267584	PIC: Comparison of #Boston suspect Sunil Tripathi's FBI-released images/video and his MISSING poster http://t.co/EhV3ODxrJf You decide.	21992286	boston_fake_23	Oscar_Wang	Fri Apr 19 07:14:23 +0000 2013	fake
 325152091423248385	I'm not completely convinced that it's this Sunil Tripathi fellow—http://t.co/ZjWqOsRfjB	16428755	boston_fake_34	jamwil	Fri Apr 19 07:41:14 +0000 2013	fake
