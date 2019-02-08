@@ -11,7 +11,7 @@ The dataset consists of three files:
 
 To use the corpus, just use the set_images.txt file with the verified images and one of the other files that contains the tweets as described above.
 
-The [computational-verification](https://github.com/socialsensor/computational-verification) project implements a framework that uses the corpus. If you use this dataset and/or the linked framework in your research, please include the following reference in your work:
+The [computational-verification](https://github.com/MKLab-ITI/computational-verification) project implements a framework that uses the corpus. If you use this dataset and/or the linked framework in your research, please include the following reference in your work:
 
 C. Boididou, S. Papadopoulos, Y. Kompatsiaris, S. Schifferes, N. Newman. Challenges of Computational Verification in Social Media. In Proceedings of SNOW II: Social News on the Web workshop, WWW'14 Companion.
 
