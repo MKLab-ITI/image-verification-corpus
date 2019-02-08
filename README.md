@@ -17,7 +17,7 @@ C. Boididou, S. Papadopoulos, Y. Kompatsiaris, S. Schifferes, N. Newman. Challen
 
 The mediaeval2015 folder contains the version of the dataset provided for the Verifying Multimedia Use task in the context of MediaEval Workshop 2015. In folders devset and testset, you will find the tweet data shared for training and testing respectively. When organizing this task, we have also shared for each dataset's tweets, some features based on tweet and user characteristics and some forensic ones for the images which are associated with the tweets.
 
-If you use this video dataset for your research, please include a citation to the following paper: Boididou, C., Papadopoulos, S., Zampoglou, M., Apostolidis, L., Papadopoulou, O., & Kompatsiaris, Y. (2018). [Detection and visualization of misleading content on Twitter](https://link.springer.com/article/10.1007/s13735-017-0143-x). International Journal of Multimedia Information Retrieval, 7(1), 71-86.
+If you use this dataset for your research, please include a citation to the following paper: Boididou, C., Papadopoulos, S., Zampoglou, M., Apostolidis, L., Papadopoulou, O., & Kompatsiaris, Y. (2018). [Detection and visualization of misleading content on Twitter](https://link.springer.com/article/10.1007/s13735-017-0143-x). International Journal of Multimedia Information Retrieval, 7(1), 71-86.
 
     @article{boididou2018detection,
       author = {Detection and visualization of misleading content on Twitter},
